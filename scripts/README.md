@@ -25,9 +25,10 @@ ip-api.com (cached in `ip_geo_cache.json`), and writes a ranked leaderboard to
 logs/0/logos-blockchain.log.YYYY-MM-DD-HH
 ```
 
-The script that fetches those logs from the testnet index server is **not
-included here** because it carries credentials. Drop the log files into
-`logs/0/` yourself (or set `LOG_DIR=...`) before running.
+`fetch_logs.sh` downloads those logs from the testnet index server, which is
+HTTP-basic protected. Credentials are **not** checked in — pass them via the
+`AUTH` env var (format: `user:password`). Ask whoever runs the index server
+for credentials.
 
 ## Usage
 
@@ -35,8 +36,12 @@ included here** because it carries credentials. Drop the log files into
 pip install -r requirements.txt        # pandas, requests
 brew install ripgrep                   # extract_recent_rg.sh uses rg
 
-# from this scripts/ directory, with logs/0/ alongside it:
-make olympics DAYS=7
+# end-to-end (fetch → extract → render) from this scripts/ directory:
+AUTH=user:password make refresh DAYS=7
+
+# or stage-by-stage:
+AUTH=user:password make fetch DAYS=7   # download logs into logs/0/
+make olympics DAYS=7                   # extract + render
 make olympics DAYS=30
 
 # the leaderboard lands in uptime_olympics.txt — copy it into ../data/
@@ -45,12 +50,16 @@ cp uptime_olympics.txt ../data/last-7-days.txt
 
 ## Knobs
 
-| Variable | Default     | Purpose                                       |
-|----------|-------------|-----------------------------------------------|
-| `DAYS`   | `7`         | Trailing window in days for both stages       |
-| `TOP_N`  | `50`        | Rows shown in the leaderboard (env on python) |
-| `LOG_DIR`| `logs/0`    | Where `extract_recent_rg.sh` looks for shards |
-| `PYTHON` | `python3`   | Python interpreter used by `make olympics`    |
+| Variable   | Default   | Purpose                                              |
+|------------|-----------|------------------------------------------------------|
+| `AUTH`     | _(required for fetch)_ | HTTP basic creds for the index server, `user:password` |
+| `NODE`     | `0`       | Which node's logs to fetch (path segment on the server) |
+| `DAYS`     | `7`       | Trailing window in days for all stages               |
+| `HOURS`    | _(unset)_ | If set, overrides `DAYS` with an exact rolling hour window |
+| `TOP_N`    | `50`      | Rows shown in the leaderboard (read by python)       |
+| `LOG_DIR`  | `logs/0`  | Where `extract_recent_rg.sh` looks for shards        |
+| `PYTHON`   | `python3` | Python interpreter used by `make olympics`           |
+| `PARALLEL` | `8`       | Concurrent downloads in `fetch_logs.sh`              |
 
 ## Caches
 
