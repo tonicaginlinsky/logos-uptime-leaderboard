@@ -56,7 +56,7 @@ cp uptime_olympics.txt ../data/last-7-days.txt
 | `NODE`     | `0`       | Which node's logs to fetch (path segment on the server) |
 | `DAYS`     | `7`       | Trailing window in days for all stages               |
 | `HOURS`    | _(unset)_ | If set, overrides `DAYS` with an exact rolling hour window |
-| `TOP_N`    | `50`      | Rows shown in the leaderboard (read by python)       |
+| `TOP_N`    | `10000`   | Rows shown in the leaderboard (read by python)       |
 | `LOG_DIR`  | `logs/0`  | Where `extract_recent_rg.sh` looks for shards        |
 | `PYTHON`   | `python3` | Python interpreter used by `make olympics`           |
 | `PARALLEL` | `8`       | Concurrent downloads in `fetch_logs.sh`              |

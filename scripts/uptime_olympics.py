@@ -7,7 +7,7 @@ import pandas as pd
 import requests
 
 DAYS = int(os.environ.get('DAYS', 7))
-TOP_N = int(os.environ.get('TOP_N', 50))
+TOP_N = int(os.environ.get('TOP_N', 10000))
 GEO_CACHE = 'ip_geo_cache.json'
 
 
