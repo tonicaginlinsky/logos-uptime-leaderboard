@@ -18,9 +18,24 @@ interface FoundResult {
   flag: string | null;
 }
 
+const CURL_CMD = "curl localhost:8080/network/info | jq .peer_id";
+
 export default function PeerLookup({ countries, totalPeers, onFound, onClear }: PeerLookupProps) {
   const [query, setQuery] = useState("");
   const [result, setResult] = useState<FoundResult | "not-found" | null>(null);
+  const [copied, setCopied] = useState(false);
+
+  const handleCopy = () => {
+    navigator.clipboard.writeText(CURL_CMD).then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1500);
+    });
+  };
+
+  const handlePaste = async () => {
+    const text = await navigator.clipboard.readText();
+    setQuery(text.trim().replace(/^"|"$/g, ""));
+  };
 
   useEffect(() => {
     const trimmed = query.trim();
@@ -49,32 +64,52 @@ export default function PeerLookup({ countries, totalPeers, onFound, onClear }: 
       : null;
 
   return (
-    <div className="mb-8 sm:mb-12">
-      <div className="relative">
-        <input
-          type="text"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          placeholder="Check if you're in the leaderboard — paste your peer ID"
-          className="w-full bg-black/30 backdrop-blur-md border border-white/10 rounded-lg px-4 py-3 text-sm text-cream placeholder:text-muted/50 focus:outline-none focus:border-yellow/40 focus:bg-black/50 transition-colors font-mono"
-          spellCheck={false}
-          autoComplete="off"
-          autoCorrect="off"
-          autoCapitalize="off"
-        />
-        {query && (
-          <button
-            onClick={() => setQuery("")}
-            className="absolute right-3 top-1/2 -translate-y-1/2 text-muted hover:text-cream text-xl w-7 h-7 flex items-center justify-center rounded"
-          >
-            ×
-          </button>
-        )}
+    <div className="mb-4 sm:mb-6">
+      <div className="backdrop-blur-md bg-black/30 border border-white/10 rounded-lg px-4 pt-3 pb-3">
+        <div className="relative">
+          <input
+            type="text"
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder="Check if you're in the leaderboard — paste your peer ID"
+            className="w-full bg-transparent text-sm text-cream placeholder:text-muted/70 focus:outline-none font-mono"
+            spellCheck={false}
+            autoComplete="off"
+            autoCorrect="off"
+            autoCapitalize="off"
+          />
+          <div className="absolute right-0 top-1/2 -translate-y-1/2 flex items-center gap-1">
+            {query ? (
+              <button
+                onClick={() => setQuery("")}
+                className="text-muted hover:text-cream text-xl w-7 h-7 flex items-center justify-center rounded"
+              >
+                ×
+              </button>
+            ) : (
+              <button
+                onClick={handlePaste}
+                className="text-muted/60 hover:text-cream text-xs px-2 py-1 rounded border border-white/10 hover:border-white/20 transition-colors"
+              >
+                paste
+              </button>
+            )}
+          </div>
+        </div>
+        <div className="border-t border-white/5 mt-2.5 pt-2">
+          <div className="flex items-center justify-between gap-3">
+            <p className="text-muted/60 text-xs font-mono truncate">
+              Fetch your peer ID: {CURL_CMD}
+            </p>
+            <button
+              onClick={handleCopy}
+              className="shrink-0 text-muted/60 hover:text-cream text-xs px-2 py-0.5 rounded border border-white/10 hover:border-white/20 transition-colors"
+            >
+              {copied ? "copied!" : "copy"}
+            </button>
+          </div>
+        </div>
       </div>
-      <p className="mt-2 text-muted text-xs">
-        To find your peer ID, run:{" "}
-        <code className="font-mono text-cream/60">curl localhost:8080/network/info | jq .peer_id</code>
-      </p>
 
       {result === "not-found" && (
         <div className="mt-2 px-4 py-3 rounded-lg bg-red/10 border border-red/20 text-sm backdrop-blur-md">

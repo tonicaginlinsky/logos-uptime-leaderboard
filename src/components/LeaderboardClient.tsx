@@ -107,7 +107,7 @@ export default function LeaderboardClient({
         </header>
 
         {/* Window Toggle & Meta */}
-        <section className="mb-8 sm:mb-12 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between gap-3 sm:gap-4">
+        <section className="mb-4 sm:mb-6 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between gap-3 sm:gap-4">
           <WindowToggle
             value={period}
             onChange={setPeriod}
