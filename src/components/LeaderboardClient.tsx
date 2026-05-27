@@ -127,15 +127,15 @@ export default function LeaderboardClient({
           <table className="w-full border-collapse">
             <thead>
               <tr className="border-b border-rule text-muted text-xs uppercase tracking-wider">
-                <th className="pb-3 pl-4 pr-6 text-left font-medium w-16">Rank</th>
-                <th className="pb-3 text-left font-medium w-[38%]">Country</th>
-                <th className="pb-3 px-4 text-left font-medium tabular-nums w-[14%]">
+                <th className="py-3 pl-4 pr-6 text-left font-medium w-16">Rank</th>
+                <th className="py-3 text-left font-medium w-[38%]">Country</th>
+                <th className="py-3 px-4 text-left font-medium tabular-nums w-[14%]">
                   Nodes
                 </th>
-                <th className="pb-3 px-4 text-left font-medium tabular-nums w-[18%]">
+                <th className="py-3 px-4 text-left font-medium tabular-nums w-[18%]">
                   Total Hours
                 </th>
-                <th className="pb-3 pr-4 text-right font-medium tabular-nums w-[22%]">
+                <th className="py-3 pr-4 text-right font-medium tabular-nums w-[22%]">
                   Avg Uptime
                 </th>
               </tr>
@@ -163,15 +163,15 @@ export default function LeaderboardClient({
           <table className="w-full border-collapse">
             <thead>
               <tr className="border-b border-rule text-muted text-xs uppercase tracking-wider">
-                <th className="pb-3 pl-4 pr-6 text-left font-medium w-16">Rank</th>
-                <th className="pb-3 text-left font-medium w-[38%]">Country</th>
-                <th className="pb-3 px-4 text-left font-medium tabular-nums w-[14%]">
+                <th className="py-3 pl-4 pr-6 text-left font-medium w-16">Rank</th>
+                <th className="py-3 text-left font-medium w-[38%]">Country</th>
+                <th className="py-3 px-4 text-left font-medium tabular-nums w-[14%]">
                   Nodes
                 </th>
-                <th className="pb-3 px-4 text-left font-medium tabular-nums w-[18%]">
+                <th className="py-3 px-4 text-left font-medium tabular-nums w-[18%]">
                   Total Hours
                 </th>
-                <th className="pb-3 pr-4 text-right font-medium tabular-nums w-[22%]">
+                <th className="py-3 pr-4 text-right font-medium tabular-nums w-[22%]">
                   Avg Uptime
                 </th>
               </tr>
