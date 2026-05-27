@@ -10,7 +10,7 @@ export default function WindowToggle({
   options,
 }: WindowToggleProps) {
   return (
-    <div className="inline-flex rounded-full border border-green/20 p-0.5 bg-bg-surface">
+    <div className="inline-flex rounded-full border border-white/10 p-0.5 bg-black/40 backdrop-blur-sm">
       {options.map((opt) => (
         <button
           key={opt.value}

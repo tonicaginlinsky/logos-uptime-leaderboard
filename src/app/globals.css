@@ -2,17 +2,23 @@
 
 @theme inline {
   --color-green: #006747;
-  --color-yellow: #ffd100;
-  --color-cream: #f5f0e1;
-  --color-bg-deep: #001a0e;
-  --color-bg-surface: #003520;
-  --color-bg-elevated: #004d2e;
-  --color-rule: rgba(255, 209, 0, 0.25);
-  --color-muted: rgba(245, 240, 225, 0.55);
+  --color-yellow: #ff7000;
+  --color-cream: #ffffff;
+  --color-bg-deep: #000000;
+  --color-bg-surface: #111111;
+  --color-bg-elevated: #222222;
+  --color-rule: rgba(255, 255, 255, 0.15);
+  --color-muted: rgba(255, 255, 255, 0.6);
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-mono), ui-monospace, monospace;
 }
 
 body {
   background: var(--color-bg-deep);
   color: var(--color-cream);
+  -webkit-font-smoothing: antialiased;
+}
+
+.tabular-nums {
+  font-family: var(--font-mono), ui-monospace, monospace;
 }

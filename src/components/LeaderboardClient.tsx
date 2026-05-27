@@ -1,29 +1,56 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
+import DataSourceModal from "./DataSourceModal";
 import type { WindowKey, Leaderboard } from "@/lib/leaderboard";
+import type { CountryPath } from "@/lib/worldmap";
 import { formatHours } from "@/lib/format";
 import Wordmark from "./Wordmark";
 import Rule from "./Rule";
 import WindowToggle from "./WindowToggle";
 import CountryRowComponent from "./CountryRow";
 import DisclaimerBlock from "./DisclaimerBlock";
+import WorldMapBackground from "./WorldMapBackground";
+import TreemapChart from "./TreemapChart";
 
 interface LeaderboardClientProps {
   data7d: Leaderboard;
   data30d: Leaderboard;
+  countryPaths: CountryPath[];
 }
 
 export default function LeaderboardClient({
   data7d,
   data30d,
+  countryPaths,
 }: LeaderboardClientProps) {
-  const [window, setWindow] = useState<WindowKey>("7d");
+  const [period, setPeriod] = useState<WindowKey>("7d");
+  const [bottomView, setBottomView] = useState<"map" | "chart">("map");
+  const [showDataSource, setShowDataSource] = useState(false);
+  const [scrolledToBottom, setScrolledToBottom] = useState(false);
+
+  useEffect(() => {
+    const onScroll = () => {
+      const maxScroll = document.body.scrollHeight - globalThis.innerHeight;
+      setScrolledToBottom(maxScroll > 0 && globalThis.scrollY / maxScroll > 0.5);
+    };
+    globalThis.addEventListener("scroll", onScroll, { passive: true });
+    return () => globalThis.removeEventListener("scroll", onScroll);
+  }, []);
   const [expandedCountries, setExpandedCountries] = useState<Set<string>>(
     new Set()
   );
 
-  const active = window === "7d" ? data7d : data30d;
+  const active = period === "7d" ? data7d : data30d;
+
+  const uptimeByCode: Record<string, number> = {};
+  const hoursByCode: Record<string, number> = {};
+  for (const c of active.countries) {
+    if (c.countryCode) {
+      uptimeByCode[c.countryCode] = c.averageUptimePct;
+      hoursByCode[c.countryCode] = c.totalHours;
+    }
+  }
 
   const toggleCountry = useCallback((countryKey: string) => {
     setExpandedCountries((prev) => {
@@ -40,50 +67,68 @@ export default function LeaderboardClient({
   const isExpanded = (countryKey: string) => expandedCountries.has(countryKey);
 
   return (
-    <div className="min-h-screen bg-bg-deep text-cream">
-      <div className="mx-auto max-w-[1100px] px-4 sm:px-8 py-10 sm:py-16">
+    <div className="relative min-h-screen bg-bg-deep text-cream">
+      <WorldMapBackground
+        paths={countryPaths}
+        uptimeByCode={uptimeByCode}
+        hoursByCode={hoursByCode}
+        hidden={scrolledToBottom && bottomView === "chart"}
+      />
+      {scrolledToBottom && bottomView === "chart" && (
+        <div className="fixed inset-x-0 z-0 pointer-events-none opacity-85" style={{ top: 16, bottom: 112 }}>
+          <div className="w-full h-full">
+            <TreemapChart countries={active.countries} />
+          </div>
+        </div>
+      )}
+      <div className="relative z-10 mx-auto max-w-[1100px] px-4 sm:px-8 py-10 sm:py-16" style={{ paddingBottom: "calc(100vh + 80px)" }}>
         {/* Header */}
-        <header className="mb-10 sm:mb-16">
+        <header className="mb-10 sm:mb-16 text-center">
           <Wordmark />
-          <Rule />
           <p className="text-muted text-xs tracking-[0.2em] uppercase font-medium mt-2">
             UNOFFICIAL FAN PROJECT
           </p>
         </header>
 
         {/* Window Toggle & Meta */}
-        <section className="mb-8 sm:mb-12">
+        <section className="mb-8 sm:mb-12 flex flex-col items-center sm:flex-row sm:items-center sm:justify-between gap-3 sm:gap-4">
           <WindowToggle
-            value={window}
-            onChange={setWindow}
+            value={period}
+            onChange={setPeriod}
             options={[
               { value: "7d", label: "7 DAYS" },
               { value: "30d", label: "30 DAYS" },
             ]}
           />
-          <div className="mt-4 text-sm text-muted space-y-0.5">
+          <div className="text-center sm:text-right text-xs text-muted tabular-nums leading-tight">
             <p>{active.meta.windowRangeUtc}</p>
-            <p className="tabular-nums">
+            <p>
               {formatHours(active.meta.totalPeers)} peers seen
+              <button
+                onClick={() => setShowDataSource(true)}
+                className="ml-2 text-muted/50 hover:text-muted underline underline-offset-2 transition-colors non-tabular-nums"
+              >
+                data source
+              </button>
             </p>
           </div>
         </section>
 
         {/* Desktop Table */}
         <section className="hidden lg:block mb-8">
+          <div className="rounded-lg overflow-hidden bg-black/30 backdrop-blur-md border border-white/5">
           <table className="w-full border-collapse">
             <thead>
               <tr className="border-b border-rule text-muted text-xs uppercase tracking-wider">
-                <th className="pb-3 pl-4 text-left font-medium w-12">Rank</th>
-                <th className="pb-3 text-left font-medium w-10"></th>
-                <th className="pb-3 text-left font-medium">Country</th>
-                <th className="pb-3 text-left font-medium tabular-nums">
+                <th className="pb-3 pl-4 pr-6 text-left font-medium w-16">Rank</th>
+                <th className="pb-3 text-left font-medium w-[38%]">Country</th>
+                <th className="pb-3 px-4 text-left font-medium tabular-nums w-[14%]">
                   Nodes
                 </th>
-                <th className="pb-3 text-left font-medium tabular-nums">
+                <th className="pb-3 px-4 text-left font-medium tabular-nums w-[18%]">
                   Total Hours
                 </th>
-                <th className="pb-3 pr-4 text-right font-medium tabular-nums">
+                <th className="pb-3 pr-4 text-right font-medium tabular-nums w-[22%]">
                   Avg Uptime
                 </th>
               </tr>
@@ -102,23 +147,24 @@ export default function LeaderboardClient({
               ))}
             </tbody>
           </table>
+          </div>
         </section>
 
         {/* Tablet View (768-1023px) */}
         <section className="hidden md:block lg:hidden mb-8">
+          <div className="rounded-lg overflow-hidden bg-black/30 backdrop-blur-md border border-white/5">
           <table className="w-full border-collapse">
             <thead>
               <tr className="border-b border-rule text-muted text-xs uppercase tracking-wider">
-                <th className="pb-3 pl-4 text-left font-medium w-12">Rank</th>
-                <th className="pb-3 text-left font-medium w-10"></th>
-                <th className="pb-3 text-left font-medium">Country</th>
-                <th className="pb-3 text-left font-medium tabular-nums">
+                <th className="pb-3 pl-4 pr-6 text-left font-medium w-16">Rank</th>
+                <th className="pb-3 text-left font-medium w-[38%]">Country</th>
+                <th className="pb-3 px-4 text-left font-medium tabular-nums w-[14%]">
                   Nodes
                 </th>
-                <th className="pb-3 text-left font-medium tabular-nums">
+                <th className="pb-3 px-4 text-left font-medium tabular-nums w-[18%]">
                   Total Hours
                 </th>
-                <th className="pb-3 pr-4 text-right font-medium tabular-nums">
+                <th className="pb-3 pr-4 text-right font-medium tabular-nums w-[22%]">
                   Avg Uptime
                 </th>
               </tr>
@@ -137,6 +183,7 @@ export default function LeaderboardClient({
               ))}
             </tbody>
           </table>
+          </div>
         </section>
 
         {/* Mobile Cards (< 768px) */}
@@ -154,14 +201,38 @@ export default function LeaderboardClient({
           ))}
         </section>
 
-        {/* Divider */}
-        <hr className="border-0 h-px bg-rule my-10 sm:my-16" />
 
-        {/* About & Footer */}
-        <footer className="mb-8">
-          <DisclaimerBlock />
+        {/* Bottom sticky tabs — visible only when scrolled down */}
+        <div
+          className={`fixed bottom-[56px] left-0 right-0 z-20 flex justify-center py-3 transition-all duration-300 ${
+            scrolledToBottom ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4 pointer-events-none"
+          }`}
+        >
+          <div className="inline-flex rounded-full border border-white/10 p-0.5 bg-black/40 backdrop-blur-sm">
+            {(["map", "chart"] as const).map((v) => (
+              <button
+                key={v}
+                onClick={() => setBottomView(v)}
+                className={`px-5 py-1.5 rounded-full text-xs font-medium tracking-widest uppercase transition-colors duration-150 ${
+                  bottomView === v ? "bg-yellow text-bg-deep" : "text-muted hover:text-cream"
+                }`}
+              >
+                {v === "map" ? "MAP" : "CHART"}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {/* About & Footer — fixed to viewport bottom */}
+        <footer className="fixed bottom-0 left-0 right-0 z-20 px-4 sm:px-8 py-4 bg-black/60 backdrop-blur-md border-t border-white/5">
+          <div className="mx-auto max-w-[1100px]">
+            <DisclaimerBlock />
+          </div>
         </footer>
       </div>
+      {showDataSource && (
+        <DataSourceModal onClose={() => setShowDataSource(false)} />
+      )}
     </div>
   );
 }

@@ -1,11 +1,3 @@
-import { Playfair_Display } from "next/font/google";
-
-const playfair = Playfair_Display({
-  subsets: ["latin"],
-  style: "italic",
-  weight: "400",
-});
-
 interface WordmarkProps {
   className?: string;
 }
@@ -13,7 +5,7 @@ interface WordmarkProps {
 export default function Wordmark({ className = "" }: WordmarkProps) {
   return (
     <h1
-      className={`${playfair.className} italic text-cream text-[clamp(1.5rem,4vw,2.25rem)] leading-tight ${className}`}
+      className={`font-sans font-semibold uppercase tracking-[0.2em] text-cream text-[clamp(1rem,2.5vw,1.5rem)] leading-tight text-center ${className}`}
     >
       Logos International Uptime Leaderboard
     </h1>

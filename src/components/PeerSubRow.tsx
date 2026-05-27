@@ -1,5 +1,6 @@
 import type { PeerRow } from "@/lib/leaderboard";
-import { formatHours, formatUptime } from "@/lib/format";
+import { formatHours } from "@/lib/format";
+import UptimeBar from "./UptimeBar";
 
 interface PeerSubRowProps {
   peer: PeerRow;
@@ -22,9 +23,7 @@ export default function PeerSubRow({ peer }: PeerSubRowProps) {
         <span className="text-muted text-xs tabular-nums">
           {formatHours(peer.hours)}h
         </span>
-        <span className="text-cream text-xs font-medium tabular-nums w-14 text-right">
-          {formatUptime(peer.uptimePct)}
-        </span>
+        <UptimeBar pct={peer.uptimePct} barWidth="w-16" />
       </div>
     </div>
   );

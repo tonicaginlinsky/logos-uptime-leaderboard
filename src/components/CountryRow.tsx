@@ -4,6 +4,7 @@ import type { CountryRow } from "@/lib/leaderboard";
 import { formatHours, formatUptime } from "@/lib/format";
 import MedalBadge from "./MedalBadge";
 import PeerSubRow from "./PeerSubRow";
+import UptimeBar from "./UptimeBar";
 
 interface CountryRowProps {
   row: CountryRow;
@@ -24,8 +25,8 @@ export default function CountryRowComponent({
     return (
       <div
         onClick={onToggle}
-        className={`border border-green/20 rounded-lg cursor-pointer transition-colors duration-150 ${
-          expanded ? "bg-bg-elevated" : "bg-bg-surface hover:bg-bg-elevated"
+        className={`border border-white/8 rounded-lg cursor-pointer transition-colors duration-150 backdrop-blur-md ${
+          expanded ? "bg-black/90" : "bg-black/80 hover:bg-black/90"
         }`}
       >
         <div className="flex items-center gap-3 p-3">
@@ -56,12 +57,10 @@ export default function CountryRowComponent({
                   {row.nodeCount}
                 </span>
               </span>
-              <span className="text-muted text-xs">
-                Avg:{" "}
-                <span className="text-cream tabular-nums">
-                  {formatUptime(row.averageUptimePct)}
-                </span>
-              </span>
+              <div className="flex items-center gap-1.5">
+                <span className="text-muted text-xs">Avg:</span>
+                <UptimeBar pct={row.averageUptimePct} barWidth="w-12" />
+              </div>
               <span className="text-muted text-xs">
                 Hours:{" "}
                 <span className="text-cream tabular-nums">
@@ -95,15 +94,15 @@ export default function CountryRowComponent({
     <>
       <tr
         onClick={onToggle}
-        className={`cursor-pointer transition-colors duration-150 border-b border-green/10 ${
+        className={`cursor-pointer transition-colors duration-150 border-b border-white/5 ${
           expanded
-            ? "bg-bg-elevated"
+            ? "bg-white/10"
             : isUnknown
-              ? "bg-bg-surface/40"
-              : "bg-bg-surface hover:bg-bg-elevated"
+              ? "bg-transparent"
+              : "hover:bg-white/8"
         }`}
       >
-        <td className="py-3 pl-4 w-12 align-middle">
+        <td className="py-3 pl-4 pr-6 w-12 align-middle">
           {row.rank !== null ? (
             <MedalBadge rank={row.rank} />
           ) : (
@@ -111,32 +110,34 @@ export default function CountryRowComponent({
           )}
         </td>
         <td className="py-3 align-middle">
-          {row.flag ? (
-            <span className="text-xl leading-none">{row.flag}</span>
-          ) : null}
+          <div className="flex items-center gap-2">
+            {row.flag && (
+              <span className="text-xl leading-none">{row.flag}</span>
+            )}
+            <span
+              className={`text-sm font-medium ${
+                isUnknown ? "text-muted italic" : "text-cream"
+              }`}
+            >
+              {row.countryName}
+            </span>
+          </div>
         </td>
-        <td className="py-3 align-middle">
-          <span
-            className={`text-sm font-medium ${
-              isUnknown ? "text-muted italic" : "text-cream"
-            }`}
-          >
-            {row.countryName}
-          </span>
-        </td>
-        <td className="py-3 align-middle tabular-nums text-sm text-cream">
+        <td className="py-3 px-4 align-middle tabular-nums text-sm text-cream">
           {row.nodeCount}
         </td>
-        <td className="py-3 align-middle tabular-nums text-sm text-cream">
+        <td className="py-3 px-4 align-middle tabular-nums text-sm text-cream">
           {formatHours(row.totalHours)}
         </td>
-        <td className="py-3 pr-4 align-middle tabular-nums text-sm text-cream text-right">
-          {formatUptime(row.averageUptimePct)}
+        <td className="py-3 pr-4 align-middle">
+          <div className="flex justify-end">
+            <UptimeBar pct={row.averageUptimePct} />
+          </div>
         </td>
       </tr>
       {expanded && (
-        <tr className="bg-bg-elevated border-b border-green/10">
-          <td colSpan={6} className="p-0">
+        <tr className="bg-white/6 border-b border-white/5">
+          <td colSpan={5} className="p-0">
             <div className="px-4 pb-3">
               {row.peers.slice(0, 20).map((peer, i) => (
                 <PeerSubRow key={peer.peerId + i} peer={peer} />
