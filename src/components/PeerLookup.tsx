@@ -21,6 +21,7 @@ interface FoundResult {
 const CURL_CMD = "curl localhost:8080/network/info | jq .peer_id";
 
 export default function PeerLookup({ countries, totalPeers, onFound, onClear }: PeerLookupProps) {
+  const [open, setOpen] = useState(false);
   const [query, setQuery] = useState("");
   const [result, setResult] = useState<FoundResult | "not-found" | null>(null);
   const [copied, setCopied] = useState(false);
@@ -65,14 +66,27 @@ export default function PeerLookup({ countries, totalPeers, onFound, onClear }: 
 
   return (
     <div className="mb-4 sm:mb-6">
-      <div className="backdrop-blur-md bg-black/30 border border-white/10 rounded-lg px-4 pt-3 pb-3">
+      <div className="backdrop-blur-md bg-black/30 border border-white/10 rounded-lg">
+        <button
+          onClick={() => setOpen((v) => !v)}
+          className="w-full px-4 py-2.5 text-muted hover:text-cream text-xs uppercase tracking-widest transition-colors text-left"
+        >
+          {open ? "▲ Hide" : "▼ Check your place in leaderboard"}
+        </button>
+        {open && (
+        <div className="border-t border-white/5 px-4 pt-3 pb-3">
+        <p className="text-cream/70 text-xs font-mono mb-1.5">
+          <span className="sm:hidden">Check if you're in the leaderboard:<br /></span>
+          <span className="hidden sm:inline">Check if you're in the leaderboard: </span>
+          paste your peer ID below
+        </p>
         <div className="relative">
           <input
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Check if you're in the leaderboard — paste your peer ID"
-            className="w-full bg-transparent text-sm text-cream placeholder:text-muted/70 focus:outline-none font-mono"
+            placeholder="12D3KooW..."
+            className="w-full bg-transparent text-sm text-cream placeholder:text-muted/40 focus:outline-none font-mono pr-16"
             spellCheck={false}
             autoComplete="off"
             autoCorrect="off"
@@ -97,28 +111,32 @@ export default function PeerLookup({ countries, totalPeers, onFound, onClear }: 
           </div>
         </div>
         <div className="border-t border-white/5 mt-2.5 pt-2">
-          <div className="flex items-center justify-between gap-3">
-            <p className="text-muted/60 text-xs font-mono truncate">
-              Fetch your peer ID: {CURL_CMD}
+          <div className="flex items-start justify-between gap-3">
+            <p className="text-muted/60 text-xs font-mono">
+              <span className="sm:hidden">Fetch your peer ID:<br /></span>
+              <span className="hidden sm:inline">Fetch your peer ID: </span>
+              {CURL_CMD}
             </p>
             <button
               onClick={handleCopy}
               className="shrink-0 text-muted/60 hover:text-cream text-xs w-12 py-0.5 rounded border border-white/10 hover:border-white/20 transition-colors"
             >
-              {copied ? "copied!" : "copy"}
+              {copied ? "✓" : "copy"}
             </button>
           </div>
         </div>
+        </div>
+        )}
       </div>
 
-      {result === "not-found" && (
+      {open && result === "not-found" && (
         <div className="mt-2 px-4 py-3 rounded-lg bg-red/10 border border-red/20 text-sm backdrop-blur-md">
           Peer not found in this leaderboard window —{" "}
           <span className="text-cream font-medium">run harder 🔥</span>
         </div>
       )}
 
-      {result && result !== "not-found" && (
+      {open && result && result !== "not-found" && (
         <div className="mt-2 px-4 py-3 rounded-lg bg-green/10 border border-green/20 backdrop-blur-md">
           <div className="flex items-center gap-2 mb-2">
             {result.flag && <span className="text-base leading-none">{result.flag}</span>}
