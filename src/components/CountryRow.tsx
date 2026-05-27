@@ -11,6 +11,7 @@ interface CountryRowProps {
   expanded: boolean;
   onToggle: () => void;
   layout: "table" | "card";
+  highlightPeerId?: string;
 }
 
 export default function CountryRowComponent({
@@ -18,7 +19,11 @@ export default function CountryRowComponent({
   expanded,
   onToggle,
   layout,
+  highlightPeerId,
 }: CountryRowProps) {
+  const displayedPeers = highlightPeerId
+    ? row.peers.filter((p) => p.peerId === highlightPeerId)
+    : row.peers;
   const isUnknown = row.rank === null;
 
   if (layout === "card") {
@@ -78,12 +83,12 @@ export default function CountryRowComponent({
         </div>
         {expanded && (
           <div className="border-t border-white/5 px-3 pb-2 pt-1">
-            {row.peers.slice(0, 20).map((peer, i) => (
+            {displayedPeers.slice(0, 20).map((peer, i) => (
               <PeerSubRow key={peer.peerId + i} peer={peer} />
             ))}
-            {row.peers.length > 20 && (
+            {!highlightPeerId && displayedPeers.length > 20 && (
               <p className="text-muted text-xs text-center pt-2 italic">
-                +{row.peers.length - 20} more
+                +{displayedPeers.length - 20} more
               </p>
             )}
           </div>
@@ -142,12 +147,12 @@ export default function CountryRowComponent({
         <tr className="bg-white/6 border-b border-white/5">
           <td colSpan={5} className="p-0">
             <div className="px-4 pb-3">
-              {row.peers.slice(0, 20).map((peer, i) => (
+              {displayedPeers.slice(0, 20).map((peer, i) => (
                 <PeerSubRow key={peer.peerId + i} peer={peer} />
               ))}
-              {row.peers.length > 20 && (
+              {!highlightPeerId && displayedPeers.length > 20 && (
                 <p className="text-muted text-xs text-center pt-2 italic">
-                  +{row.peers.length - 20} more
+                  +{displayedPeers.length - 20} more
                 </p>
               )}
             </div>

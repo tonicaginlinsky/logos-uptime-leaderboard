@@ -12,6 +12,7 @@ import CountryRowComponent from "./CountryRow";
 import DisclaimerBlock from "./DisclaimerBlock";
 import WorldMapBackground from "./WorldMapBackground";
 import TreemapChart from "./TreemapChart";
+import PeerLookup from "./PeerLookup";
 
 interface LeaderboardClientProps {
   data7d: Leaderboard;
@@ -46,6 +47,7 @@ export default function LeaderboardClient({
   const [expandedCountries, setExpandedCountries] = useState<Set<string>>(
     new Set()
   );
+  const [highlightPeerId, setHighlightPeerId] = useState<string | null>(null);
 
   const active = period === "7d" ? data7d : data30d;
 
@@ -67,6 +69,13 @@ export default function LeaderboardClient({
         next.add(countryKey);
       }
       return next;
+    });
+  }, []);
+
+  const expandCountry = useCallback((countryKey: string) => {
+    setExpandedCountries((prev) => {
+      if (prev.has(countryKey)) return prev;
+      return new Set(prev).add(countryKey);
     });
   }, []);
 
@@ -121,6 +130,17 @@ export default function LeaderboardClient({
           </div>
         </section>
 
+        {/* Peer Lookup */}
+        <PeerLookup
+          countries={active.countries}
+          totalPeers={active.meta.totalPeers}
+          onFound={(key, peerId) => {
+            setHighlightPeerId(peerId);
+            expandCountry(key);
+          }}
+          onClear={() => setHighlightPeerId(null)}
+        />
+
         {/* Desktop Table */}
         <section className="hidden lg:block mb-8">
           <div className="backdrop-blur-md bg-black/30 rounded-lg border border-white/5">
@@ -150,6 +170,7 @@ export default function LeaderboardClient({
                     toggleCountry(country.countryCode ?? "Unknown")
                   }
                   layout="table"
+                  highlightPeerId={highlightPeerId ?? undefined}
                 />
               ))}
             </tbody>
@@ -186,6 +207,7 @@ export default function LeaderboardClient({
                     toggleCountry(country.countryCode ?? "Unknown")
                   }
                   layout="table"
+                  highlightPeerId={highlightPeerId ?? undefined}
                 />
               ))}
             </tbody>
@@ -205,6 +227,7 @@ export default function LeaderboardClient({
                   toggleCountry(country.countryCode ?? "Unknown")
                 }
                 layout="card"
+                highlightPeerId={highlightPeerId ?? undefined}
               />
             ))}
           </div>
