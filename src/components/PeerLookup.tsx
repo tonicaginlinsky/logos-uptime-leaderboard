@@ -89,7 +89,7 @@ export default function PeerLookup({ countries, totalPeers, onFound, onClear }: 
             ) : (
               <button
                 onClick={handlePaste}
-                className="text-muted/60 hover:text-cream text-xs px-2 py-1 rounded border border-white/10 hover:border-white/20 transition-colors"
+                className="text-muted/60 hover:text-cream text-xs px-2 py-0.5 rounded border border-white/10 hover:border-white/20 transition-colors"
               >
                 paste
               </button>
