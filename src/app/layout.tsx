@@ -26,7 +26,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${spaceGrotesk.variable} ${dmMono.variable} h-full antialiased`}>
+    <html lang="en" className={`${spaceGrotesk.variable} ${dmMono.variable} h-full antialiased overflow-x-hidden`}>
       <body className="min-h-full font-sans bg-bg-deep">{children}</body>
     </html>
   );

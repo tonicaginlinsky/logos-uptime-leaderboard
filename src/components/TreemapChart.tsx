@@ -1,5 +1,6 @@
 "use client";
 
+import { useState } from "react";
 import type { CountryRow } from "@/lib/leaderboard";
 import { formatHours } from "@/lib/format";
 
@@ -37,15 +38,23 @@ function buildTreemap(items: CountryRow[], rect: Rect): Tile[] {
 
 function tileColor(country: CountryRow, rank: number, total: number): string {
   const t = rank / Math.max(total - 1, 1);
+  const brightness = 0.55 + (1 - t) * 0.45;
   if (country.averageUptimePct >= 85) {
-    const g = Math.round(80 + (1 - t) * 100);
-    return `rgb(0,${g},${Math.round(g * 0.6)})`;
+    const r = Math.round(16 * brightness);
+    const g = Math.round(185 * brightness);
+    const b = Math.round(129 * brightness);
+    return `rgb(${r},${g},${b})`;
   }
   if (country.averageUptimePct >= 60) {
-    const r = Math.round(180 + (1 - t) * 75);
-    return `rgb(${r},${Math.round(r * 0.4)},0)`;
+    const r = Math.round(245 * brightness);
+    const g = Math.round(158 * brightness);
+    const b = Math.round(11 * brightness);
+    return `rgb(${r},${g},${b})`;
   }
-  return `rgb(${Math.round(120 + (1 - t) * 60)},50,0)`;
+  const r = Math.round(239 * brightness);
+  const g = Math.round(68 * brightness);
+  const b = Math.round(68 * brightness);
+  return `rgb(${r},${g},${b})`;
 }
 
 interface TreemapChartProps {
@@ -56,16 +65,21 @@ const W = 1000;
 const H = 480;
 const GAP = 2;
 
+interface Tooltip { country: CountryRow; x: number; y: number }
+
 export default function TreemapChart({ countries }: TreemapChartProps) {
   const items = countries.filter((c) => c.countryCode !== null && c.totalHours > 0);
   const tiles = buildTreemap(items, { x: 0, y: 0, w: W, h: H });
+  const [tooltip, setTooltip] = useState<Tooltip | null>(null);
 
   return (
+    <>
     <svg
       viewBox={`0 0 ${W} ${H}`}
       preserveAspectRatio="xMidYMid meet"
       className="rounded-lg overflow-hidden"
       style={{ width: "100%", height: "100%", display: "block" }}
+      onMouseLeave={() => setTooltip(null)}
     >
       {tiles.map(({ country, rect }, i) => {
         const x = rect.x + GAP / 2;
@@ -73,30 +87,53 @@ export default function TreemapChart({ countries }: TreemapChartProps) {
         const w = Math.max(rect.w - GAP, 0);
         const h = Math.max(rect.h - GAP, 0);
         const color = tileColor(country, i, tiles.length);
-        const showLabel = w > 60 && h > 30;
-        const showHours = w > 80 && h > 50;
-        const fontSize = Math.min(14, Math.max(9, w / 8));
+
+        const pad = 6;
+        const availW = w - pad * 2;
+        const nameParts = (country.countryName ?? "").split(" ");
+        const twoLine = nameParts.length >= 2;
+        // flag emoji ≈ 2.2 char widths; account for it on the first line
+        const firstLineChars = (twoLine ? nameParts[0].length : (country.countryName ?? "").length) + 2.8;
+        const secondLineChars = twoLine ? nameParts.slice(1).join(" ").length : 0;
+        const longestLineChars = Math.max(firstLineChars, secondLineChars);
+        const maxFontByWidth = availW / (longestLineChars * 0.58);
+        const fs = Math.min(14, Math.min(w / 8, maxFontByWidth));
+        const showLabel = fs >= 9 && h > (twoLine ? 48 : 28);
+        const showHours = fs >= 9 && w > 70 && h > (twoLine ? 68 : 52);
+        const labelY = y + fs + 4;
 
         return (
-          <g key={country.countryCode}>
+          <g
+            key={country.countryCode}
+            style={{ cursor: "default" }}
+            onMouseEnter={(e) => setTooltip({ country, x: e.clientX, y: e.clientY })}
+            onMouseMove={(e) => setTooltip((t) => t ? { ...t, x: e.clientX, y: e.clientY } : null)}
+          >
             <rect x={x} y={y} width={w} height={h} fill={color} rx={2} />
             {showLabel && (
               <>
                 <text
-                  x={x + 6}
-                  y={y + fontSize + 4}
-                  fontSize={fontSize}
+                  x={x + pad}
+                  y={labelY}
+                  fontSize={fs}
                   fill="rgba(255,255,255,0.9)"
                   fontFamily="sans-serif"
                   fontWeight="600"
                 >
-                  {country.flag} {country.countryName}
+                  {twoLine ? (
+                    <>
+                      <tspan x={x + pad} dy="0">{country.flag} {nameParts[0]}</tspan>
+                      <tspan x={x + pad} dy={fs * 1.25}>{nameParts.slice(1).join(" ")}</tspan>
+                    </>
+                  ) : (
+                    `${country.flag} ${country.countryName}`
+                  )}
                 </text>
                 {showHours && (
                   <text
-                    x={x + 6}
-                    y={y + fontSize * 2 + 8}
-                    fontSize={fontSize * 0.85}
+                    x={x + pad}
+                    y={labelY + (twoLine ? fs * 1.25 : 0) + fs + 4}
+                    fontSize={fs * 0.85}
                     fill="rgba(255,255,255,0.6)"
                     fontFamily="monospace"
                   >
@@ -109,5 +146,16 @@ export default function TreemapChart({ countries }: TreemapChartProps) {
         );
       })}
     </svg>
+    {tooltip && (
+      <div
+        className="fixed pointer-events-none bg-bg-elevated/95 backdrop-blur-sm border border-white/10 rounded px-3 py-2 text-xs text-cream whitespace-nowrap"
+        style={{ left: tooltip.x + 14, top: tooltip.y - 36, zIndex: 50 }}
+      >
+        <span className="font-semibold">{tooltip.country.flag} {tooltip.country.countryName}</span>
+        <span className="text-muted ml-2">{tooltip.country.averageUptimePct.toFixed(1)}% uptime</span>
+        <span className="text-muted ml-2">{formatHours(tooltip.country.totalHours)}h</span>
+      </div>
+    )}
+    </>
   );
 }

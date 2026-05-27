@@ -1,54 +1,53 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useEffect, useRef } from "react";
 import type { CountryPath } from "@/lib/worldmap";
 
 interface WorldMapBackgroundProps {
   paths: CountryPath[];
   uptimeByCode: Record<string, number>;
   hoursByCode: Record<string, number>;
-  hidden?: boolean;
+  opacity?: number;
 }
 
 function uptimeFill(pct: number, hoursRatio: number): string {
-  const a = 0.08 + hoursRatio * 0.35;
-  if (pct >= 85) return `rgba(0,103,71,${a.toFixed(2)})`;
-  if (pct >= 50) return `rgba(255,120,0,${(a * 0.7).toFixed(2)})`;
-  return `rgba(255,80,0,${(a * 0.4).toFixed(2)})`;
+  const a = 0.2 + hoursRatio * 0.45;
+  if (pct >= 85) return `rgba(16,185,129,${a.toFixed(2)})`;
+  if (pct >= 50) return `rgba(245,158,11,${(a * 0.85).toFixed(2)})`;
+  return `rgba(239,68,68,${(a * 0.7).toFixed(2)})`;
 }
 
 function uptimeStroke(pct: number): string {
-  if (pct >= 85) return "rgba(0,103,71,0.35)";
-  if (pct >= 50) return "rgba(255,120,0,0.2)";
-  return "rgba(255,255,255,0.1)";
+  if (pct >= 85) return "rgba(16,185,129,0.5)";
+  if (pct >= 50) return "rgba(245,158,11,0.35)";
+  return "rgba(239,68,68,0.3)";
 }
 
 export default function WorldMapBackground({
   paths,
   uptimeByCode,
   hoursByCode,
-  hidden = false,
+  opacity = 1,
 }: WorldMapBackgroundProps) {
   const maxHours = Math.max(...Object.values(hoursByCode), 1);
-  const [brightness, setBrightness] = useState(1);
+  const ref = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    const onScroll = () => {
-      const maxScroll = document.body.scrollHeight - window.innerHeight;
-      const ratio = maxScroll > 0 ? Math.min(window.scrollY / maxScroll, 1) : 0;
-      setBrightness(1 + ratio * 3);
-    };
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
+    ref.current?.setAttribute("inert", "");
   }, []);
 
   return (
-    <div className={`fixed inset-0 pointer-events-none flex items-center justify-center transition-opacity duration-500 ${hidden ? "opacity-0" : "opacity-100"}`} aria-hidden="true">
+    <div
+      ref={ref}
+      className="fixed inset-0 pointer-events-none flex items-center justify-center"
+      style={{ opacity, transition: "opacity 80ms linear", pointerEvents: "none" }}
+      aria-hidden="true"
+    >
       <svg
         viewBox="120 25 790 330"
         preserveAspectRatio="xMidYMid meet"
-        className="opacity-90 transition-[filter] duration-100"
-        style={{ width: "100vw", height: "auto", filter: `brightness(${brightness})` }}
+        className="opacity-90"
+        style={{ width: "100vw", height: "auto", pointerEvents: "none" }}
       >
         {paths.map((p, i) => {
           const uptime = p.alpha2 ? uptimeByCode[p.alpha2] : undefined;
@@ -59,8 +58,8 @@ export default function WorldMapBackground({
             <path
               key={`${p.id}-${i}`}
               d={p.d}
-              fill={hasData ? uptimeFill(uptime!, hoursRatio) : "rgba(255,255,255,0.03)"}
-              stroke={hasData ? uptimeStroke(uptime!) : "rgba(255,255,255,0.07)"}
+              fill={hasData ? uptimeFill(uptime!, hoursRatio) : "rgba(255,255,255,0.06)"}
+              stroke={hasData ? uptimeStroke(uptime!) : "rgba(255,255,255,0.1)"}
               strokeWidth={0.4}
             />
           );

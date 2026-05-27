@@ -5,7 +5,7 @@ interface UptimeBarProps {
 
 export default function UptimeBar({ pct, barWidth = "w-20" }: UptimeBarProps) {
   const fillColor =
-    pct >= 90 ? "bg-green" : pct >= 70 ? "bg-yellow" : "bg-muted";
+    pct >= 90 ? "bg-green" : pct >= 70 ? "bg-yellow" : "bg-red/70";
 
   return (
     <div className="flex items-center gap-2.5">

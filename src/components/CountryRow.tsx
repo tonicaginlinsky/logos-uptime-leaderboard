@@ -24,9 +24,12 @@ export default function CountryRowComponent({
   if (layout === "card") {
     return (
       <div
+        role="button"
+        tabIndex={0}
         onClick={onToggle}
-        className={`border border-white/8 rounded-lg cursor-pointer transition-colors duration-150 backdrop-blur-md ${
-          expanded ? "bg-black/90" : "bg-black/80 hover:bg-black/90"
+        onKeyDown={(e) => e.key === "Enter" && onToggle()}
+        className={`border-b border-white/5 last:border-b-0 cursor-pointer transition-colors duration-150 ${
+          expanded ? "bg-white/8" : "hover:bg-white/5"
         }`}
       >
         <div className="flex items-center gap-3 p-3">
@@ -69,12 +72,12 @@ export default function CountryRowComponent({
               </span>
             </div>
           </div>
-          <span className="text-muted text-lg shrink-0">
+          <span className="text-muted text-lg shrink-0 w-8 h-8 flex items-center justify-center rounded-full hover:bg-white/10 transition-colors">
             {expanded ? "−" : "+"}
           </span>
         </div>
         {expanded && (
-          <div className="border-t border-green/20 px-3 pb-2 pt-1">
+          <div className="border-t border-white/5 px-3 pb-2 pt-1">
             {row.peers.slice(0, 20).map((peer, i) => (
               <PeerSubRow key={peer.peerId + i} peer={peer} />
             ))}
