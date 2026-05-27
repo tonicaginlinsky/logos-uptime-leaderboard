@@ -32,9 +32,9 @@ export default function DataSourceModal({ onClose }: DataSourceModalProps) {
             <h3 className="text-cream text-xs uppercase tracking-widest font-medium mb-2">Pipeline</h3>
             <div className="bg-white/5 rounded-lg p-4 font-mono text-xs text-muted leading-6">
               hourly node logs<br />
-              {'  '}↓ <span className="text-cream/60">extract_recent_rg.sh</span><br />
+              {'  '}↓ <a href="https://github.com/tonicaginlinsky/logos-uptime-leaderboard/blob/main/scripts/extract_recent_rg.sh" target="_blank" rel="noopener noreferrer" className="text-yellow/80 hover:text-yellow underline underline-offset-2 transition-colors">extract_recent_rg.sh</a><br />
               {'  '}peers_recent.csv · ip_peers_recent.csv<br />
-              {'  '}↓ <span className="text-cream/60">uptime_olympics.py</span><br />
+              {'  '}↓ <a href="https://github.com/tonicaginlinsky/logos-uptime-leaderboard/blob/main/scripts/uptime_olympics.py" target="_blank" rel="noopener noreferrer" className="text-yellow/80 hover:text-yellow underline underline-offset-2 transition-colors">uptime_olympics.py</a><br />
               {'  '}uptime_olympics.txt → data/last-Nd.txt
             </div>
           </div>
@@ -42,13 +42,13 @@ export default function DataSourceModal({ onClose }: DataSourceModalProps) {
           <div>
             <h3 className="text-cream text-xs uppercase tracking-widest font-medium mb-2">How it works</h3>
             <p>
-              <code className="text-cream/70">extract_recent_rg.sh</code> scans hourly-rotated Logos node
+              <a href="https://github.com/tonicaginlinsky/logos-uptime-leaderboard/blob/main/scripts/extract_recent_rg.sh" target="_blank" rel="noopener noreferrer" className="text-yellow/80 hover:text-yellow underline underline-offset-2 transition-colors"><code>extract_recent_rg.sh</code></a> scans hourly-rotated Logos node
               logs (<code className="text-cream/70">logos-blockchain.log.YYYY-MM-DD-HH</code>) using ripgrep,
               extracting peer IDs, IPs, and stake info into CSV files. A size+mtime cache means only the
               currently-rotating log file is re-processed on each run.
             </p>
             <p className="mt-3">
-              <code className="text-cream/70">uptime_olympics.py</code> counts distinct (peer, hour) pairs
+              <a href="https://github.com/tonicaginlinsky/logos-uptime-leaderboard/blob/main/scripts/uptime_olympics.py" target="_blank" rel="noopener noreferrer" className="text-yellow/80 hover:text-yellow underline underline-offset-2 transition-colors"><code>uptime_olympics.py</code></a> counts distinct (peer, hour) pairs
               over the trailing window, geo-resolves IPs via ip-api.com (cached in{" "}
               <code className="text-cream/70">ip_geo_cache.json</code>), and writes a ranked leaderboard
               sorted by total uptime hours then average uptime %.

@@ -56,7 +56,7 @@ export default function PeerLookup({ countries, totalPeers, onFound, onClear }: 
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Check if you're in the leaderboard — paste your peer ID"
-          className="w-full bg-black/30 border border-white/10 rounded-lg px-4 py-3 text-sm text-cream placeholder:text-muted/50 focus:outline-none focus:border-yellow/40 focus:bg-black/50 transition-colors font-mono"
+          className="w-full bg-black/30 backdrop-blur-md border border-white/10 rounded-lg px-4 py-3 text-sm text-cream placeholder:text-muted/50 focus:outline-none focus:border-yellow/40 focus:bg-black/50 transition-colors font-mono"
           spellCheck={false}
           autoComplete="off"
           autoCorrect="off"
@@ -73,14 +73,14 @@ export default function PeerLookup({ countries, totalPeers, onFound, onClear }: 
       </div>
 
       {result === "not-found" && (
-        <div className="mt-2 px-4 py-3 rounded-lg bg-red/10 border border-red/20 text-sm">
+        <div className="mt-2 px-4 py-3 rounded-lg bg-red/10 border border-red/20 text-sm backdrop-blur-md">
           Peer not found in this leaderboard window —{" "}
           <span className="text-cream font-medium">run harder 🔥</span>
         </div>
       )}
 
       {result && result !== "not-found" && (
-        <div className="mt-2 px-4 py-3 rounded-lg bg-green/10 border border-green/20">
+        <div className="mt-2 px-4 py-3 rounded-lg bg-green/10 border border-green/20 backdrop-blur-md">
           <div className="flex items-center gap-2 mb-2">
             {result.flag && <span className="text-base leading-none">{result.flag}</span>}
             <span className="text-sm font-medium text-cream">{result.countryName}</span>
@@ -88,7 +88,7 @@ export default function PeerLookup({ countries, totalPeers, onFound, onClear }: 
               #{result.peer.rank} of {totalPeers}
             </span>
           </div>
-          <div className="flex flex-wrap items-center gap-x-5 gap-y-1 text-xs text-muted">
+          <div className="flex flex-wrap items-center gap-x-5 gap-y-1 text-xs text-cream">
             <span>
               Top{" "}
               <span className="text-green font-semibold tabular-nums">{topPct}%</span>
@@ -106,7 +106,7 @@ export default function PeerLookup({ countries, totalPeers, onFound, onClear }: 
               </span>
             </span>
           </div>
-          <p className="text-muted/50 text-xs mt-2 font-mono truncate">
+          <p className="text-muted text-xs mt-2 font-mono truncate">
             {truncatePeerId(result.peer.peerId)}
           </p>
         </div>
