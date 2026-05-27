@@ -71,6 +71,9 @@ export default function PeerLookup({ countries, totalPeers, onFound, onClear }: 
           </button>
         )}
       </div>
+      <p className="mt-1.5 text-muted/50 text-xs font-mono">
+        curl localhost:8080/network/info | jq .peer_id
+      </p>
 
       {result === "not-found" && (
         <div className="mt-2 px-4 py-3 rounded-lg bg-red/10 border border-red/20 text-sm backdrop-blur-md">
