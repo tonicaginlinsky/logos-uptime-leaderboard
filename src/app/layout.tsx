@@ -15,6 +15,7 @@ const dmMono = DM_Mono({
 });
 
 export const metadata: Metadata = {
+  icons: { icon: "/favicon.svg" },
   title: "Logos Global Uptime Leaderboard",
   description:
     "Global node uptime leaderboard ranked by country for the Logos network.",
