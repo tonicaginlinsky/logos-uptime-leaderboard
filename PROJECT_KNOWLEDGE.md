@@ -60,11 +60,26 @@ Never add `overflow-hidden` to this element — it clips the blur.
 
 ## Deployment
 
-- Branch: `ui-improvements` (working), `main` (production)
-- Vercel CLI: `vercel --prod --yes` for production
+- Branch: `main` (production) — `ui-improvements` merged 2026-06-09
+- Vercel project: `alisheryakupov-1493s-projects/logos-uptime-leaderboard`
+- Vercel CLI: `vercel --prod --yes` for manual production deploy
 - Each deploy gets a unique URL — old URLs serve stale builds
 - Deployment Protection must be disabled in Vercel settings for public access
-- Custom domain: `leaderboard.logos.live` via CNAME `cname.vercel-dns.com` in Namecheap
+- Custom domain: `leaderboard.logos.live` via CNAME `vercel-dns-017.com` in Namecheap
+
+## Data Pipeline
+
+- Data source: `chair28980/logos-uptime-leaderboard` (updated by David's agent)
+- Canonical repo: `tonicaginlinsky/logos-uptime-leaderboard` (code + data, deploys to Vercel)
+- David pushes `data/last-7-days.txt` + `data/last-30-days.txt` directly to `tonicaginlinsky/main`
+- Push to `data/**` triggers `.github/workflows/deploy.yml` → `npx vercel deploy --prod`
+- Vercel secrets on repo: `VERCEL_TOKEN`, `VERCEL_ORG_ID`, `VERCEL_PROJECT_ID`
+
+### GITHUB_TOKEN push does NOT trigger other workflows
+GitHub Actions blocks cascade triggers from `GITHUB_TOKEN` pushes. If a workflow commits+pushes data, a downstream deploy workflow will NOT fire. Fix: use a PAT for the push, or call `vercel deploy` directly in the same job.
+
+### Verify local data before deploying
+`vercel --prod` can reuse cached build outputs. Always check `head -4 data/last-7-days.txt` before deploying. If the direct deployment URL shows new data but the domain shows old — run `vercel alias <deployment-url> leaderboard.logos.live`.
 
 ## Color Palette
 
