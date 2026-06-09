@@ -21,11 +21,22 @@ jobs:
           curl -fsSL "https://raw.githubusercontent.com/chair28980/logos-uptime-leaderboard/main/data/last-30-days.txt" -o data/last-30-days.txt
 
       - name: Commit and push if changed
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet data/ || (
-            git add data/last-7-days.txt data/last-30-days.txt &&
-            git commit -m "chore: sync leaderboard data from upstream" &&
+          if git diff --quiet data/; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            git add data/last-7-days.txt data/last-30-days.txt
+            git commit -m "chore: sync leaderboard data from upstream"
             git push
-          )
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Deploy to Vercel
+        if: steps.commit.outputs.changed == 'true'
+        run: npx vercel deploy --prod --yes --token ${{ secrets.VERCEL_TOKEN }}
+        env:
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
