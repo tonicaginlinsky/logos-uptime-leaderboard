@@ -1,653 +1,712 @@
 🏆 UPTIME OLYMPICS — Last 7d (169h window)
 =========================================
-Window: 2026-06-01 18:00 → 2026-06-08 19:00 UTC
-646 peers seen — showing top 646
+Window: 2026-06-08 13:00 → 2026-06-15 14:00 UTC
+705 peers seen — showing top 705
 
-Flag  Rank   Peer ID                                                 Host                  Hours   Uptime
----------------------------------------------------------------------------------------------------------------
-🇨🇦    🥇  1  12D3KooW9tKQDM3pX4YfNVnFfgmohZtXJttdGhbPkWZ4N5c2Y2BN                            169   100.0%
-🇫🇷    🥇  1  12D3KooW9tmCpSLMFa7e6kQtXsBAkU17WXdnRzCgEEbN8upBR2Nn                            169   100.0%
-🇩🇪    🥇  1  12D3KooW9wycYQTk8HPKHHyVzF2tUEpVSu4WHu8ySAbTmXGreuV5                            169   100.0%
-🇳🇬    🥇  1  12D3KooWA9psZT4tR3eB98HUNPhtmrKnJv5tYuRJ6ju2HcTNdErf                            169   100.0%
-🇦🇹    🥇  1  12D3KooWApqRyAErJLDLmLLJwHPomC3K4sMXwR8LnVMQdwYUVwjH                            169   100.0%
-🇳🇱    🥇  1  12D3KooWAqS5cwHDU3rmNumUfT2CU3Ewnx8zRDXA3DFNU6AaHzuL                            169   100.0%
-🇵🇱    🥇  1  12D3KooWBLuRPawu5a3KHoDA68ii2RgAwNi1wkeCBsMMXFbGBwjz                            169   100.0%
-🇦🇺    🥇  1  12D3KooWBPCt1C78DatLuNos3aFFPoH8vA3D3xaPnRy3TUWGvvKr                            169   100.0%
-🇧🇷    🥇  1  12D3KooWBnwb4As8ZB8doY3KcUCM7Cgymg4NYHJf1D2fSqEzJy3Z                            169   100.0%
-🇦🇺    🥇  1  12D3KooWCLyYi7rtAaDnaTVuqa2RJXkVQrmMSDiHNb8yBDCsv4Zo                            169   100.0%
-🇫🇷    🥇  1  12D3KooWCQ4STXWzF5Mor9XxKqBJafAZr8UFiA2ZkrLr5osBbpjB                            169   100.0%
-🇫🇷    🥇  1  12D3KooWCwrKEb6tVoZYgAy7fpwHNp7FuF5aUyfwoohPYHjoTojd                            169   100.0%
-🇫🇮    🥇  1  12D3KooWCydUyhZxP92MHAUjS6p6c8oBizMiSiog5eA6tzmnTGUe                            169   100.0%
-🇩🇪    🥇  1  12D3KooWD6XvDYFbM61JUku3JwAzAUximv2RRnjfQKmvRX1DSUzq                            169   100.0%
-🇳🇬    🥇  1  12D3KooWDA15vEBnR2LPAjgJpU5NHm8j5oUdYCReAxrwYkGSes9h                            169   100.0%
-🇱🇹    🥇  1  12D3KooWDFVGhWXJeH8qoMRo2MwCwUJwQpg2W4xmE4sEqZXEkhjk                            169   100.0%
-🇺🇸    🥇  1  12D3KooWDgJwCsDMYwWBEVaWV8nNqnC9swdUYBdEJN5UkqXYZP86                            169   100.0%
-🇫🇮    🥇  1  12D3KooWEHbTMqouVcdq33raBtAsQfpNrd9MjeyxjTniwkUnPaqB                            169   100.0%
-🇨🇿    🥇  1  12D3KooWEKMi6KFxhrGQfpU4Xe9isQSTKhDCgD9v7Vma4zTaDgVS                            169   100.0%
-🇫🇮    🥇  1  12D3KooWEbbpAYaCLdMgfX2L9PAQv7W1zNG6mq5ZsU84VKVFHwpP                            169   100.0%
-🇫🇮    🥇  1  12D3KooWEpofqUmkwGc2VwtMTBVnjD7qFbqeZuACw2zcHJ32XmEN                            169   100.0%
-🇭🇰    🥇  1  12D3KooWEwfsLK3WZrKi4dTsSv3nbgm5ZMYB6FKjAMjdXkPyWwqs                            169   100.0%
-🇸🇬    🥇  1  12D3KooWF8gfGNSM6acnXFwFxb98hcV7gwgTyp5PjiPVqHY55ZCE                            169   100.0%
-🇫🇮    🥇  1  12D3KooWFBsZTbx1wALdLZR1LfoCPqbRAC7xoSxz6jmjJEFLXr9T                            169   100.0%
-🇫🇷    🥇  1  12D3KooWFX5mzCrYf2KXfh72otghSNzbnfeWNyaGybDGwu4QJZSj                            169   100.0%
-🇫🇷    🥇  1  12D3KooWFfvuDu6AEVVFaAXBmVoneT11eNWtgZeFEm4FGye6MVt3                            169   100.0%
-      🥇  1  12D3KooWFrouXfmrR4nsLMtE7wu15DoMJ6VtoUtHinREZCvbWHar                            169   100.0%
-🇫🇮    🥇  1  12D3KooWGKdieLmiTYDS9tbpjNVMEuD6BYh9AvwJ3TemYCeTQ4Q8                            169   100.0%
-🇫🇮    🥇  1  12D3KooWGMoRgXvY9NbURudvRYg5YWfewj4nuqYdfngFZczNFW9N                            169   100.0%
-🇩🇪    🥇  1  12D3KooWGPBuCarPTdHPAi1vcYSKJHMgyGj78TJ6eJ76rfcf2hzL                            169   100.0%
-🇩🇪    🥇  1  12D3KooWGhx8u6V31rZZFgiM1LaYGou2C1Se31tqPpuD733gt8tq                            169   100.0%
-🇨🇿    🥇  1  12D3KooWH3hBfrYVQWrzigZkdQcLxtvm38rc12QhGcX6zNrTcfp3                            169   100.0%
-🇩🇪    🥇  1  12D3KooWHFgWCyntSg4c2d74uNiEuFN5gQBnN6UGDZ9qo5u8EhrT                            169   100.0%
-🇩🇪    🥇  1  12D3KooWHKaMZ2skZuXp8LRkw32sUmB5skRSA5rYS7E9Pbivup3L                            169   100.0%
-🇳🇴    🥇  1  12D3KooWHTzmDR7JjJ5SVdteYp5VTXHh4PXKcHE4zsVEfcr7y3ma                            169   100.0%
-🇫🇷    🥇  1  12D3KooWHf2uj7MjRbdRmFcnydYnAuPSo5UsFYbKjq5H7i1jmCZu                            169   100.0%
-🇺🇸    🥇  1  12D3KooWJ2UUdyPyQUpdVtMxPJ2QfdKBrLT4eG7htKaUdhAMjgru                            169   100.0%
-🇩🇪    🥇  1  12D3KooWJ3vbbsXjvvGenQjFZSh21EqSUMjMDDTR1SBRAGoZC8Cn                            169   100.0%
-🇫🇷    🥇  1  12D3KooWJAYsyc4Mobk53nd2GrFkK2B4zB4CfvVALG75p7FqVszU                            169   100.0%
-🇫🇷    🥇  1  12D3KooWJKM6M6y5pjB63f7mBF41aL7FELW72gBZST7VH6DsnTaE                            169   100.0%
-🇪🇸    🥇  1  12D3KooWJPYv9vEmuyFpzTf3rMg3Jmw2iBgdxqHVSLDxxQMAUaPV                            169   100.0%
-🇯🇵    🥇  1  12D3KooWJRBHQZT4sG1116zrMCs2G1aTWRDD9ij1uKySzvxieAxE                            169   100.0%
-🇫🇮    🥇  1  12D3KooWJRGau8M1rjT7R5e4YYsgdFhsMX35nRDtMwCDjxQkXAHz                            169   100.0%
-🇫🇷    🥇  1  12D3KooWJmtcYHWzL8GdY56gVkftGQTMmW11BEYKZPbqbe7PrBhD                            169   100.0%
-🇫🇷    🥇  1  12D3KooWK3pkTcGKzyTai3CxaugCmzQqAg26tKppDBfPGcCTyjZn                            169   100.0%
-🇨🇦    🥇  1  12D3KooWKCogiyR9sk17Bt2bztasFduVx9eWtiHWA8C954Yb5eAa                            169   100.0%
-🇫🇮    🥇  1  12D3KooWKKbeQcUme2B2c4A3UN1j53rM6AdiiDdPUsbZroHBTt8U                            169   100.0%
-🇨🇦    🥇  1  12D3KooWKKcJBZ4mARCVENrVmdzNv4aHHrjy2wUudPiqp9HrutH6                            169   100.0%
-🇵🇰    🥇  1  12D3KooWKWmLVf4ysVivr8Qf4bJ215hthMtAoctVtifEHwHcYKtm                            169   100.0%
-🇺🇸    🥇  1  12D3KooWKaXP5qrfce4YuBe2VVfzZmTrVfQwEVsEEk2iqpQhhZhR                            169   100.0%
-      🥇  1  12D3KooWKkapMBteGkFWj8GgoVuPSnMxgoGYmbyEBRBqgL1hXLQc                            169   100.0%
-🇻🇳    🥇  1  12D3KooWKsVoyBR1Yd51ekdZUhP3iB4BogLeccQFSBL8tCFK1LoL                            169   100.0%
-🇸🇬    🥇  1  12D3KooWKvnPDTbnv4udaGg1YWaDFpwjGoXpbeRLpjwX6JCKmZeN                            169   100.0%
-🇳🇬    🥇  1  12D3KooWLCJJeEScTmcTv5TDJaUbqJTMAaRsAr1Qd16K6F3DnCVA                            169   100.0%
-🇫🇮    🥇  1  12D3KooWLJTucziBg5XggVkxq6FGqhpvRSpp3zSD4gRUSzAyUBpt                            169   100.0%
-🇫🇮    🥇  1  12D3KooWLXeJQDAGWpcjzxoU3JoEzTQpumosLamoVo9a24k3W7br                            169   100.0%
-🇩🇪    🥇  1  12D3KooWM1ihhVj7U7Ghs6wUwEG87YXeE9hMv2rVhAEh8Z5Gnx88                            169   100.0%
-🇳🇱    🥇  1  12D3KooWMGLsUjpepVfZw7PzZPZXK5sdfEeM2uy3UAZhTsjovxA3                            169   100.0%
-🇫🇮    🥇  1  12D3KooWMQE2FuZF7cLRw6oBPgLPVkUhpCwAAuq2YkEhRodxFM11                            169   100.0%
-🇩🇪    🥇  1  12D3KooWMbqdCMVZ6iRPj6CBPB7TS6WDyS7meG3B9T1U1ywd28Qi                            169   100.0%
-🇩🇪    🥇  1  12D3KooWMwcnQXhd2P2PzcJfzjn4FRZDuGBw3GtpbF8cZ35CKa3F                            169   100.0%
-🇨🇷    🥇  1  12D3KooWN3dvpZhog8ApYdXi5EBjEjycN41MKezHvQvER6CX6cHm                            169   100.0%
-🇵🇰    🥇  1  12D3KooWN3njqoAZwZARncFyfp8AUHSuGDs1HLSDZwkPLX9gyzEt                            169   100.0%
-🇨🇦    🥇  1  12D3KooWN4oyWzHqAk9kB9MnZ6oguZJZnVRT2CyAaGP5ZgXeD4U6                            169   100.0%
-🇫🇷    🥇  1  12D3KooWNicuk1GsNUuWBLV8tNDNALjWvFHz99ur1VtkYgpz9MiE                            169   100.0%
-🇫🇮    🥇  1  12D3KooWPWoa4oecgG6mUgstUdYfPXYkpvAaTGW3QLhfeKDqXS73                            169   100.0%
-      🥇  1  12D3KooWPdgjM3AvQs9CA2MWSyZiZJ4Ub56M4a5xGgcWhep7E8Tm                            169   100.0%
-🇩🇪    🥇  1  12D3KooWQREuyuoCFbKAZ4aQt31WVU8ZJzhNJhsVEf74QGYx4E6x                            169   100.0%
-🇫🇮    🥇  1  12D3KooWQXJavMDTRscjauFSgVAB1VLB6Rzpy2uY5SU9Tk7927tb                            169   100.0%
-🇩🇪    🥇  1  12D3KooWQiSxzxbWE38SiSwgqMYxp2EhRhRhuPcSBWHtketjLdnE                            169   100.0%
-🇩🇪    🥇  1  12D3KooWQpDTcd3eLUczQU5AEhuBMV88jrwKkpq61dFMaVJM7Jnk                            169   100.0%
-      🥇  1  12D3KooWQwgJkkdBTVj1Q8W1ZTrCbq3e9Vcs5uRzgZJvUQEnD2nb                            169   100.0%
-🇸🇬    🥇  1  12D3KooWR6jq7JUZLWc3nXLRnpAZWbJQr5SrnHGC5Pk7DUkWt4jQ                            169   100.0%
-🇧🇷    🥇  1  12D3KooWR8roFU3DPfyx95mVACF8PX7FfHTbZ1dRCB62pzvARodj                            169   100.0%
-🇻🇳    🥇  1  12D3KooWRko4kqycXZbsbNauEF4ShNqrJLHTQxPEJzocCVqCqRhK                            169   100.0%
-🇻🇳    🥇  1  12D3KooWS62bJ9GunEovtRxVZf3sudjXhir6s2r6A82fzrwrEpNA                            169   100.0%
-🇳🇴    🥇  1  12D3KooWSDN8iWLxpe1jrfZ7XkFMoTh2MU3H3AnKw5MNbxd2AfnA                            169   100.0%
-🇦🇲    🥇  1  12D3KooWSFkXfqk29agp5CgmPfGdZcZpK1APBcPwArPEyydJ8UFM                            169   100.0%
-🇫🇮    🥇  1  12D3KooWSQc7CcGtvWDPF1yCbBthFnQjprfCVHmfmNDUrSmqQsU1                            169   100.0%
-🇲🇩    🥇  1  12D3KooWSfCmT71XhG6rSNxApqujBSBVANDnorFcRbKnpY5qaswF                            169   100.0%
-🇲🇩    🥇  1  12D3KooWSfU9TXScN3soGYo8VCtqnWLXz56uFhyWprdbtofNPiiF                            169   100.0%
-🇫🇷    🥇  1  12D3KooWSmroE8u98uiDM9V32jpQiEhxmnw2Fymj4bzLizNpDu3H                            169   100.0%
-🇻🇳    🥇  1  12D3KooWSn8HKEHt6kieRiPsgcuETZfk8yoY1ztCefcu4uNqhH7w                            169   100.0%
-🇵🇹    🥈  2  12D3KooWPMT8rZHu8oBQMTW5VaWUDp52sBcHXQCLan42zJXZsbs8                            166    98.2%
-🇺🇸    🥉  3  12D3KooWNbZD6HXkczmygJXTNV5pvWSSJ4CTEYC4BSpbAxFNErgd                            162    95.9%
-🇷🇴        4  12D3KooW9zwrvvkUUVUZrpA58pAM3z5rDFvafXqQnwpB83kLX4Uq                            142    84.0%
-🇬🇧        5  12D3KooWDRtjAsp4bprhk1mk2EGyheHdv5KWUJFTZ163h52NEWav                            138    81.7%
-🇬🇧        6  12D3KooWCph5gZ8xv8VYNVwEUNrWeYoDWXtGnECQMveHUURL7Rwo                            132    78.1%
-🇬🇧        6  12D3KooWFTHdqacxpNXcQnikjgfpFx4BiJwX3r2v9hRzAtcCJ7Nj                            132    78.1%
-🇬🇧        6  12D3KooWK7rtQm5fiQ9SEoo6g6SE3ZiM1mnVFEfGpcj2oqwQhFeR                            132    78.1%
-🇨🇦        7  12D3KooWDeezsovuE7hKyGEks2bA1PyeFtQcDkV4HiUkXTy67r5A                            123    72.8%
-🇬🇧        8  12D3KooWNykk8FUXnx8HZhdBjETSRkvDEmhZyMbm1XTG6XdaiEyc                            121    71.6%
-🇨🇭        9  12D3KooWDGspNUp6X4ML9xzHAkNa71eWCzSnTrbpGxuY4tioXFUf                            113    66.9%
-🇦🇪       10  12D3KooWT1Fb4RDyoRSFitFKoCrnXRmXdyYQ6Ztu9PhFiXzvjNkr                             96    56.8%
-         11  12D3KooWFn583v4eaz4iyZrs6TG3r76MF1cL4R46DEnhqGN8PHzE                             92    54.4%
-🇷🇺       12  12D3KooWMFmUq3ddqESepDjSF2fjYYGbo7d3KRcgcb7pVQVNtcZL                             90    53.3%
-🇮🇩       13  12D3KooWNDrfa8etjXuiGD6AgM7LRrKpnWZPkZbFWwQHPADoe5h8                             83    49.1%
-🇲🇩       14  12D3KooWNRLGQJRX4t3XJcsoYyuGdzqU9ZwXEUpF5NM3XU3nxRBq                             80    47.3%
-         15  12D3KooWCQf5mm1wBePBDARiRAv8L7WFitxgUDEjFGp6WE4zo83s                             71    42.0%
-🇸🇬       15  12D3KooWDvn5BjVDph7XVyaoo2reFZFHq7qAUGrKFRV1EPf7Pbya                             71    42.0%
-         15  12D3KooWNwfNQjArA9McFkRKT49aCqrqLbuTeV7MfxNk2BZbRmkN                             71    42.0%
-         15  12D3KooWQiZ1NgA99hMEutJeoH7QUZKGM9BRvjwi1N6uDzge93Au                             71    42.0%
-🇬🇭       16  12D3KooWE7YQoiyGMJJWbrKEhptY4tNxtumwwBbmnSbME1eEThw4                             39    23.1%
-🇦🇹       17  12D3KooWA7KmdQ4yeJ65GeJUDwh24pyZH5QMuqmvcpFQWfiSfz7y                             30    17.8%
-🇻🇳       18  12D3KooWG96em2m9Mm5hH1qmH6kcrYafUtLWnhZYR5idatmVytyh                             28    16.6%
-🇺🇸       19  12D3KooWCmdWrNLSfGviXUghDaPpWzj4gGTYQytqtWqoVg63wJAg                             27    16.0%
-🇳🇬       20  12D3KooWGKnB6Z4MJrhSBedLvhNWNhBwtPkTYgnzAurghoeGrQhd                             17    10.1%
-🇧🇩       21  12D3KooWS7eudVhK57x2TKmhTBPJQmbw3CKpcQW1FJ9qH7cZ2Yyx                             15     8.9%
-         22  12D3KooWPz3ecvWEcoZBm7xnP6SfuyqXu1hmNxq6KUzjjCjwtmdd                              8     4.7%
-         23  12D3KooWAmDhZtyLNim2G7ttvVKNSfpv6JiBzehQxwj5BVxj1Dcr                              6     3.6%
-🇬🇧       23  12D3KooWKfhuhtLQLLP92rNKLZcYYDm7UCXVXxAGDjifv14kjrVw                              6     3.6%
-🇨🇿       24  12D3KooWJSuaJv2YwuusT6ReSnFiaZSuduKc8h5vFC59hRa6yzZh                              5     3.0%
-         25  12D3KooWB9HgccBvXAxYKk5KjZS5c8nCpLMz6AmY4iYoQyc9yAUY                              3     1.8%
-🇷🇴       25  12D3KooWCpHut5RE1yevkWsTmkLXducQ31ARzasoscXrVAxwKb4g                              3     1.8%
-🇷🇴       25  12D3KooWJ75UZAAkFrW7KoSseNoZ2ZjAbAofNXhBK2hvRjcCxfsG                              3     1.8%
-         26  12D3KooWAZPu4k4dwpkBdHdCZn8fC84EsWa3Zv8kTLLXZgpPGGLc                              2     1.2%
-         26  12D3KooWRUcM356n8497kmLYQVfrKd8byARTxBh71j1SeMPjuuYD                              2     1.2%
-         26  12D3KooWRnxYCkft6Nv6qc5Ed5ucMYjd7AoLpDbhXDp94kuRcw7N                              2     1.2%
-         27  12D3KooW9r6WdXhrsFh1zSGyUMTfpCzBgpdUA72hHFKqxJEGPxd6                              1     0.6%
-         27  12D3KooW9sQgEi272FzEF9dpuJAWvhLgEvaNSVmqcC6ZzgPey2n2                              1     0.6%
-         27  12D3KooW9teccWf5KTZmpwPm2KuK44HCG9X2zA1Lt1HNWWr7xzZL                              1     0.6%
-         27  12D3KooW9wBc13wgrtVJvpTSfLZYfjv6UTqA7hafcVN6zZAfcSDW                              1     0.6%
-         27  12D3KooW9zLDvESebY3VYBbDnPpFjHS4vSH4TQUZctghLg7XGvfc                              1     0.6%
-         27  12D3KooW9zeo6AhAupY3YBQNGQt4RzCbASMQvEJF1gATQua7W7TY                              1     0.6%
-         27  12D3KooWA1W1rovFjicXjznBhNFMLHz1QcrCUp5cgriFv5RzcXGL                              1     0.6%
-         27  12D3KooWA29HPGZZkeudLBiGYgAiFkyU8Poqj1epkeoicHYC78gL                              1     0.6%
-         27  12D3KooWA2eVTJKhD8eDvxwqqdqZBQZwBsy4q8XxrBE7dHZYcktK                              1     0.6%
-         27  12D3KooWA3WMn3qBXz1FmZ2snsJ3kBtmy6sPZMhGNS9XjQnSc3ZL                              1     0.6%
-         27  12D3KooWA4HbcgDQKRjvC3fzySvFDH7egGXxncEJca3eLoKfB5qE                              1     0.6%
-         27  12D3KooWA5nnj6omSxeAsRpbJj7npTCnC8hnhwxXYm9pSXhDSzDK                              1     0.6%
-         27  12D3KooWA7QNZdZaWcQNNMLBpNHaVVcB8VaJXAPhrg15F7Bh9irW                              1     0.6%
-         27  12D3KooWAENK32n1vpsckQqh5XXApsAdREWJguaVJmuvbdHL5BCW                              1     0.6%
-         27  12D3KooWAKz9pxgV1SsC3RPQrGTvndEHoVwU69b8sCYDW64iPdr6                              1     0.6%
-         27  12D3KooWAM6636s9uguNtidJi3mubTB6j8FvFiN7s41vNWjhpuqQ                              1     0.6%
-         27  12D3KooWAM7Nfyuafc36fEi9YrN5bNsKehQjsLXy1iRiUz1zq26k                              1     0.6%
-         27  12D3KooWAPsnAbAEYWnKSWq4p8PVyGKSQLdLkACzcwDBJChNkQx1                              1     0.6%
-         27  12D3KooWAPuvGhE9dvwdYtS3fNghFRhbqY74fTSRGp5qa9HLyAhx                              1     0.6%
-         27  12D3KooWAQzAMQLY6WDTU11CpxtUWjsSNC2yaG2fgQkRQzeHfcmQ                              1     0.6%
-         27  12D3KooWAVXGHN1yLNNUJx3b9jxSt6PGLQBxbmaCDCLsA2xk5cdn                              1     0.6%
-         27  12D3KooWAZVjhcUcfPGfoHaEy9Sr8R8FqGm4tAVMubcK7b5KEMph                              1     0.6%
-         27  12D3KooWAbu2vWkJ1NCnY3vfU1SuScmYKQTrcpZFNJY4xC6JAGxB                              1     0.6%
-         27  12D3KooWAd8Kov3d9g38FqRUEWUvCNUWm1tK5V2boySejoYmwt5D                              1     0.6%
-         27  12D3KooWAhCXmWkZC13CdExxGsjfsswNqBSJD8cD5fgmEH9xg5ew                              1     0.6%
-         27  12D3KooWAhmUdKBoHvrkBQMCaihtt9yTWpvPJrdg8qX7KNsYwKut                              1     0.6%
-         27  12D3KooWAoxE5gY3RLdsuhsxu7V6bzBmyg9DVfko7zZbRHU4WNYE                              1     0.6%
-         27  12D3KooWAoyy3WfLeLrvakD1VQ56a282Udy17F69sNEmh1r74EeV                              1     0.6%
-         27  12D3KooWApJeKXwAr6gLkFAVXMRNXWtAP9Ke9R8UTU2vGwg32X9A                              1     0.6%
-         27  12D3KooWApjiFuqsiYmivAsPJw1BdpaWT7BvPL7NcCxZWqDKCWHL                              1     0.6%
-         27  12D3KooWAuvXKmPT2czdeZ8TuqYzMmpvMUJPYgHbBWW7VQeQzrGV                              1     0.6%
-         27  12D3KooWAwYDbEwF12QtVAP94EKNZ6gZ9xhz1d83hWQNmjE3Rhou                              1     0.6%
-         27  12D3KooWB2EbTGJzG5GvMAXuQyisgUFu7ebCiYE2zHt3jvw847pr                              1     0.6%
-         27  12D3KooWB2XVdXbS1o1RG1DaMBbuz9okN2B9GMKHq6roUGXDikZu                              1     0.6%
-         27  12D3KooWB5SUQvdvdLT9REEBMH41WM5LHbdS4Zv83pugUunUvFBH                              1     0.6%
-         27  12D3KooWB78GNWnnSbBH1pkwe6M44oFqXMWi2HzjFUy17akb5RiZ                              1     0.6%
-         27  12D3KooWB8htKbh7ccEr8kdFJVHKeLZGh57N85k4Za7p3HDYWxHP                              1     0.6%
-         27  12D3KooWBFHE2Qn1hf2tuBSDs5xFvShRxFtSZqH3teRrCnhZbSjF                              1     0.6%
-         27  12D3KooWBHcd7nE5ZFjL9t3J7Xa72z2gUUG152jMW4C18VSLtBdv                              1     0.6%
-         27  12D3KooWBJLSXQyjUwb8XEwecD1Mfvzuec1vi2Nax5eMwci3UsDb                              1     0.6%
-         27  12D3KooWBK8EH3E2iLxFaGSTHufm4e8caKZDifjS6iPBuBtsriCb                              1     0.6%
-         27  12D3KooWBLmPeKeUfiXLXiRVEdLFetSttafmbu6725NWfaPdGixD                              1     0.6%
-         27  12D3KooWBMU4wHqLVssGh8N3iGrRUeHZ2qTfsLQbQpEPyZXjXeBg                              1     0.6%
-         27  12D3KooWBNErwrX3nSpjLnyJcjmF1STek3ZkgixgXNwYucCrbycL                              1     0.6%
-         27  12D3KooWBRzZPUNa6LhKQk2uGcbVU99VBCuAt9g7kSryYmvpe5ho                              1     0.6%
-         27  12D3KooWBS36LUU3zwwbE3dcSos6D9QUbPrR61Q7o6dqTeUEonvG                              1     0.6%
-         27  12D3KooWBW4R9GzwKYYDxJ2QKprBML3E7dApD1krQ8f9ZjTkeJ9u                              1     0.6%
-         27  12D3KooWBZzUD77Z6yrxtC48TzBo2DkrzY4fTi8eomYhCUYAwpF5                              1     0.6%
-         27  12D3KooWBbL9g6z5JRVtHNZZFtg5U3GFsJiDzgsaBjbKdT44wCbm                              1     0.6%
-         27  12D3KooWBhosEH6QcK8vg9b3BHJmxkqXkokJSWFToxurkDRcQJCs                              1     0.6%
-         27  12D3KooWBi8ZFRcPzqo8Q1LW1R7cKfGUBPvayrmpXAZ8tYeeqnYk                              1     0.6%
-         27  12D3KooWBjb15sVvgjud9aw3WfWLZeKKcfvNTQ2ZySZ8xRv8d5gW                              1     0.6%
-         27  12D3KooWBjniLqFsD1xotoWiRij7m3HZ527odUwntacDF9ZZGarC                              1     0.6%
-         27  12D3KooWBmmPGYYxhpfgyQb3AB5HGYYGiZQ8VnopbP92Ttgb8fJU                              1     0.6%
-         27  12D3KooWBoi4ctE9M5xc6YGsuuHKsEHA8cPAE1bGkPF3o71N9nmb                              1     0.6%
-         27  12D3KooWBrJAAGAcRnxH9J1oR3aiNTuCE7kUDaepN3DCZqKGWLnT                              1     0.6%
-         27  12D3KooWBrcPBsAcDshoVrxRYdygSeDDVp2HoZN3wfpMf7D9RANJ                              1     0.6%
-         27  12D3KooWBtDRkwBH8Pw3H5n7TLBjA4zDS8EbAtvSXWG2NF9yGzMY                              1     0.6%
-         27  12D3KooWBvzziRG4wpBfP73tBvFNLi7jsmpWzhJX8yCWP3iBdgYu                              1     0.6%
-         27  12D3KooWBw8aJRNZziPb6thMnBdTsKLHhcWxe8FAJBF6YFsQx7Ty                              1     0.6%
-         27  12D3KooWBxXisiLcUYfLjhKwHB4AEkgJAWr1N6SAz29DZEYe2EsG                              1     0.6%
-         27  12D3KooWByxHzCXn5g3tcvyQh1hskGxVr8ouzUQJusJvQ84TKvBL                              1     0.6%
-         27  12D3KooWBzbS9aFfo84u1SMSEaSvYYkRtQENznRPyCSyhCqraWLQ                              1     0.6%
-         27  12D3KooWC1ku2RqTisSTAUfQaVuZV4uGM26RYDa9jfYrjhyyR5AS                              1     0.6%
-         27  12D3KooWC28Et7TLqUhPjNtx5ddJXKhiYph6bLu9tJMnT1ytwUnF                              1     0.6%
-         27  12D3KooWC6W7tHdD5PxKTMgrwhG8xvqZrFXLeD3Tnw9gXSGdfWtT                              1     0.6%
-         27  12D3KooWC97SAHRKUmh8hGkvsfJsxvwWegimon7MVujTJVuB51eL                              1     0.6%
-         27  12D3KooWCBkeMtrmYJysUVizkAeD6gwuVYBg6zK5MXwZwL8inLbE                              1     0.6%
-         27  12D3KooWCDM1cpF75syNgWdGR6rsNfG4TZghgX3KSHBgy5LBxjWy                              1     0.6%
-         27  12D3KooWCEK2GgbwU4shvCGqq3HHF26D3nVxeKWqTzDCeyfRdKyA                              1     0.6%
-         27  12D3KooWCEzhksfqudhUeKbjA9GGapY1Rb8Arp7pTGEsruT7Yyyu                              1     0.6%
-         27  12D3KooWCJgifhDXoMEdin5pGSqXwioV6EWPFf7KdhtHmPjLQbD8                              1     0.6%
-         27  12D3KooWCLA9sFfoMSyzdxWns56GUtdUEDq9MN1C3yRm4r248VRv                              1     0.6%
-         27  12D3KooWCN2ym8wGQvGUtYfgDHjfHU2NvVACWwrz3gvLMz4STohp                              1     0.6%
-         27  12D3KooWCPZGNYh51tsXynDhPg243yujLi82YQipo9LyMG9VNN21                              1     0.6%
-         27  12D3KooWCQsVxeBAFaNnGLsbkKmyiyPkXtUFMD9DfqYN2z9pNgm5                              1     0.6%
-         27  12D3KooWCSsJFqL1hZigsEcb9Hn7PejvgC6TKgjNmPFzRafyHW8b                              1     0.6%
-         27  12D3KooWCU29WxtB95Tsu7ahCTsU1PwsFqLRZyrrvJp8baraguoG                              1     0.6%
-         27  12D3KooWCU2UMBd7YQa6yJLcJBmy6MS7LXthVCrf7p5HtDbNt7Rz                              1     0.6%
-         27  12D3KooWCUH3Lvc767irfMSoBaKNuB7xwvVfyvhnDiosCfF7a1g8                              1     0.6%
-         27  12D3KooWCWBhgBXi755FW8QAFCiyj9mMDpSmQhQA1Exv6UnuPrus                              1     0.6%
-         27  12D3KooWCWPppDLnyXUfLG8GJDM2B81WuCaWgB663zprUvDXE8kU                              1     0.6%
-         27  12D3KooWCWeZm268vBniib2phv8uhh4J47GGTZbS5KHJgC6pK1hD                              1     0.6%
-         27  12D3KooWCZ8uJPDVJZX1N2jpjNX6GBj3QVWWyLkAMPkVwytdGw8y                              1     0.6%
-         27  12D3KooWCbNHUiFM2hLN68Nq3r83n7cTTFt4EEN5AJTehBhu9wuK                              1     0.6%
-         27  12D3KooWCfjWoQBRYELUrSn8dQyLgMTerpg7DyfXhuwPjwnk72V2                              1     0.6%
-         27  12D3KooWCqznsakXUvci3PzNLubJAj9kbrfqjAq87JZjj6nYtDnT                              1     0.6%
-         27  12D3KooWCrwKNJUXo3dp96YvpAUXpygBFy6z41Xx7AwCPBqg7exi                              1     0.6%
-         27  12D3KooWCtPzxJb824sF7LVzTGzDTXmWtvBc8kR1FHJEyCSSxgvN                              1     0.6%
-         27  12D3KooWCukm67uwntT3cESr5VWPuPakshRLSztQFTxrXYuWz2mV                              1     0.6%
-         27  12D3KooWCxe56i6H7STk6GK6zCciTHeoHq9vDVU4h1RKhDxDZwDr                              1     0.6%
-         27  12D3KooWCxnjFJG5oQmb3WyAN9KBhdmkQXaqZeRcXRQx39ikaUCn                              1     0.6%
-         27  12D3KooWCzKdSeQpF3ejTubtGCnFisJNMfFNJCfXCxpCxmBndcHB                              1     0.6%
-         27  12D3KooWD9NJX6DxAjGRAKBE1jGMJfDQa6DAgn5ZUan9aS85G4RN                              1     0.6%
-         27  12D3KooWD9p8sS3ymovqfqRudXsVY5XgZLyZrjMdePxgxi8sJd3a                              1     0.6%
-         27  12D3KooWDAW683kXE2eKz93pden7AJ2x6G99jPYECRk3Ucon6o9C                              1     0.6%
-         27  12D3KooWDBPLoo5fzo2Ygde8Ydurtw6aYfpG4X3zusAw7F1BSjp6                              1     0.6%
-         27  12D3KooWDEitCQqAXzBx7K95HEnBJZZaENkTdoucin7nQs4L7zye                              1     0.6%
-         27  12D3KooWDK1vFCJtWoGmxHGMgSgySnS2xtCjkfLSE5LMeNuNgBvr                              1     0.6%
-         27  12D3KooWDM2nD92AST86Qqd1m2isqneEim9SgHbnr9M4e1WisH9A                              1     0.6%
-         27  12D3KooWDRg9BhHrzpCPYf7kXoHXcmwzZPKnMqGGMcdjRLtLB24k                              1     0.6%
-         27  12D3KooWDRsRUoB3pf9wEpr3bPCYn6QGz4i2GbykDHWN5pM5PeAX                              1     0.6%
-         27  12D3KooWDWLvn9L3ZFG4CRRx36XA5pmJ8aEBMz9yNjnDkJa8GhFg                              1     0.6%
-         27  12D3KooWDWpsBGk1h9qapmE4LEsD9bZRkwEitXnq9XY4HssSzXDw                              1     0.6%
-         27  12D3KooWDXXCTSYR1TtsaQtY3xKkbLzn5ahca8nG6c6P4Wm2MBjT                              1     0.6%
-         27  12D3KooWDY8bh55tjFQrtDt54BsU7FjPJjy2bgd6hybv9Quv4Rcu                              1     0.6%
-         27  12D3KooWDYKqfdEeA2SiqSdPRR2i2TT3jAGxcnpGVwk2d6AbnffV                              1     0.6%
-         27  12D3KooWDdhAHadUfAttvgHNkUKSmMQhCGkhzbCptyFpqmLzf4Jw                              1     0.6%
-         27  12D3KooWDfgbfBaYrZJno9waXWK5iXJ4kCdpecHTCSdp8x8qBV5u                              1     0.6%
-         27  12D3KooWDgfS9oAMtBMuu1ewr4nMwd17WqoFjU1zxjTtkcphWafX                              1     0.6%
-         27  12D3KooWDmdH9kbSRVxQANmDuAYufGqy1SvvmW3iEf7DKtzGQYew                              1     0.6%
-         27  12D3KooWDmsiCSUKpGRZzPLpqkyLM7ALseLRSFPmuGngqwAtUiCA                              1     0.6%
-         27  12D3KooWDo7hJjBMjtJzNpFWJikpWE6ekt7XxZDtUnjeCZCAMZaB                              1     0.6%
-         27  12D3KooWDr1dQRwi1D1WgQmMUTUmxKFA7TsMaoit1iJgUmomNnZN                              1     0.6%
-         27  12D3KooWDvgRTiVK7e9iiemw3LYdycP7msRdQCjKvDpvfnwJxqha                              1     0.6%
-         27  12D3KooWDxyWpZzj1m2HjESjakoFUevqK36EEvDM8rV1WusfBqnw                              1     0.6%
-         27  12D3KooWDzvyWCwxx4BWsfqbzzTR4hdrAZUjUpbYzokPumFKzVg4                              1     0.6%
-         27  12D3KooWE4RNirJTEhcZXUAtSVy6y1RBp79hSe9U5reVYAzk4Acv                              1     0.6%
-         27  12D3KooWE4fkjjqZXn1owddAYxATCrBKFQ2S9YZhQBTr6Fuy13SJ                              1     0.6%
-         27  12D3KooWE5cE7KgGao8AnoXH3o3sTZzXYAGoRcVKNqYy9RaRWt1r                              1     0.6%
-         27  12D3KooWE7ThQ2JFQXYYAsxndNAZWaccSUdbk5tdrTBe3jTNW4yT                              1     0.6%
-         27  12D3KooWECCRSUB4B3DwmHkV2USnhUrPXNNUDy6LRmDoN8VqwAmE                              1     0.6%
-         27  12D3KooWELJQFAPr5nq9PYemygmAW681MQfHarjE6mie6r3D9y2k                              1     0.6%
-         27  12D3KooWESfy5a2ojguQi5xXcD5BNCGLzWzLuEQRWeUjWnTftJKc                              1     0.6%
-         27  12D3KooWET4atMnu8pYXDLgcNwt4xgX5JcExdTG9HZFa225oe6Y4                              1     0.6%
-         27  12D3KooWEXWSyQaddBhWePcJLPkrs5vdgyrV3QquD9kxRz5d9nvu                              1     0.6%
-         27  12D3KooWEXkLJyVQXNAEHpr4eqPMsLFcSuBAYRt5FgooS8yzoDob                              1     0.6%
-         27  12D3KooWEdA2nXpiCTAvjMtk7M1bxZ68qC182a3tQ765eRTsvFsM                              1     0.6%
-         27  12D3KooWEdYetdYKFyUhmdKhaYFx2PKAK41pvzs4aer7tZdztB8C                              1     0.6%
-         27  12D3KooWEgZVac16tmHLoh6iT7cb3jLfq2qgnwTsK9EELvUSfDMn                              1     0.6%
-         27  12D3KooWEget2hh53142vYjb8BpLxVv9x3PjbPt27tkfHoRudsL2                              1     0.6%
-         27  12D3KooWEgrBhrkkE5g9HZYsCMsHVnkMJQid6WBGcP1MYyYunzK6                              1     0.6%
-         27  12D3KooWEixPAy3KVsnAXzu5ftuu2WucZ5FNwGVf3Hf6sSavymVo                              1     0.6%
-         27  12D3KooWEkvkSf5fWfKTNCjiCRgEUPBFTFLXfjsqfMPKJFPALEVA                              1     0.6%
-         27  12D3KooWEmEdoJ7DKoeZWKvP8Tc1aZuLJduLFiRAdaBQCyNw68C9                              1     0.6%
-         27  12D3KooWEmeSiERcgaNXv2z1oeztkycCQpjXUM4ZWZyBCLKou8d6                              1     0.6%
-         27  12D3KooWEnD6vwHRs7A8VUisv1bQMETQp9E5bckkHpfFhNav5NZ8                              1     0.6%
-         27  12D3KooWEnEboXF3LuJ41MQXUePyHS7UgrhPUFDhNnmnLqEENRoJ                              1     0.6%
-         27  12D3KooWEobmPqYPJ4dcHrNyELRLQohBamX4JbGJgLrtaDUc6V1C                              1     0.6%
-         27  12D3KooWEqPY6raaszggZZjqdUpHB5qc5CzgUifZZpfBbq9fgkkg                              1     0.6%
-         27  12D3KooWEreN4HQdbomjHeprhUWLLpPdB9RckY2QT6J1w23H2QCv                              1     0.6%
-         27  12D3KooWEt2EodHe6cnBKcJ93NtuuLkgLKWWnnMXpufUKM7shJuK                              1     0.6%
-         27  12D3KooWEv9KChZDCgM6d7CfGAt8cc87eJmeqDqPDJwKjcBq4czc                              1     0.6%
-         27  12D3KooWEvc7bZtfdzxYCxQR3w5vNNWSHhqpNncgb4nwqsifFKg2                              1     0.6%
-         27  12D3KooWEwxUYFd8KSUttAuwpeMEpnCdHF1DSU4wQewy7ddVHAuo                              1     0.6%
-         27  12D3KooWEx4Y17cz3oy27gxU2jCyQjfZiQapGzppso1h6CM1NGsp                              1     0.6%
-         27  12D3KooWExxp9BRWMLP3KmsMKhsC2qCySeyHB4Rz3HgY2pQ7R9CP                              1     0.6%
-         27  12D3KooWF1mh9mbrAGuhyMgJp6dbUVtZH8ouYSy1tKdmrJRVLRPK                              1     0.6%
-         27  12D3KooWF7vXeYHmeTSjKV5HbgpBeQsuRP1dwUjRkDTUpJMdmPo7                              1     0.6%
-         27  12D3KooWF8VutqnXFtutcZWvyTjFphW4VXmy4ZFeScRwPZsUg3vK                              1     0.6%
-         27  12D3KooWF97Gca2Uq6i96ZkFPZ8czWGosMHzjwLj1RaXTC5kQukH                              1     0.6%
-         27  12D3KooWF9db8Cg2cLdaEXvjFXSptbWVhYLLSP6HeFpd8FNKiN35                              1     0.6%
-         27  12D3KooWFA73QxyJUJ6g8h7Ba7F5S4nE1oyJp5yjAHyH2q1JvDK5                              1     0.6%
-         27  12D3KooWFCP57kadAS9i7PHfTcpHdBkx5qHrEjENHsb7Q69W16YQ                              1     0.6%
-         27  12D3KooWFKMhNSFycvniSM4B7XAz1B1LRcPBQySRXwzsJds89ifE                              1     0.6%
-         27  12D3KooWFL36jsSHmtmfKL34jQbCuG72ZiSAxq1T89CmcnLjLqLB                              1     0.6%
-         27  12D3KooWFLdUd4ZdSDB8niEp4zAuYZ4AznEPvrRSQD7mftskRSq6                              1     0.6%
-         27  12D3KooWFMxMSBQL5QavuvRyMrJiZDrjU26YQy7Z8KM5JErammXw                              1     0.6%
-         27  12D3KooWFRL2FhdJHyJ4nvF8LCkQNu69crhhtRcpjTu1x7EydvJZ                              1     0.6%
-         27  12D3KooWFSK9dmZryxr24i45piB2MxuaBP1NqSh6WWzmyzVARL8F                              1     0.6%
-         27  12D3KooWFSLsZxDoqRXmChFmJhJ2vbofAvESf3vN6axPPTDPUmdy                              1     0.6%
-         27  12D3KooWFTXpj7Jszvdtib2dUrtMJCM82vJsC3VkVyrUk8PnpPja                              1     0.6%
-         27  12D3KooWFTikNYRD4QZ7qA5vdm5qg89pokFrZ2nGog5YyhrAU3Vf                              1     0.6%
-         27  12D3KooWFY2mpsRBEv999rioiHdVMDLQ2WR3Whm9PfRZhog3Dpm5                              1     0.6%
-         27  12D3KooWFYnUEw9Cuas4jivtm5EM2SxUKSDHbuUv73Cn29HLaph7                              1     0.6%
-         27  12D3KooWFgJ73t8K6H9E6CercGButH2yCvAvmLbBt6ZXMjZ7JbXr                              1     0.6%
-         27  12D3KooWFhEpQCtzwN6UKEvQGsWKjDciuMoxzaPUm2fph5XvjhYv                              1     0.6%
-         27  12D3KooWFjUKA6x5PMktjMS29TBfRcL9zHpZbBoSvFbHWJfvMtfw                              1     0.6%
-         27  12D3KooWFp3UjiyiCP1mZueuYiX4tXmJzu37NjfwMgnnvAGvZxYE                              1     0.6%
-         27  12D3KooWFpvNMoZPHoAMDBiprYtABv9Zu2R6AaMzC3b1Gr9gF4i3                              1     0.6%
-         27  12D3KooWFtRm8Q1qjL6DVcoShdkxhwUodufhiuXeUEUHURyFWncC                              1     0.6%
-         27  12D3KooWFwhxkAEZsPEJzQB1QaLuykaFAbGrQmMphcwJCKMMJmgM                              1     0.6%
-         27  12D3KooWFwiqo12ZyCX9cLkd3KQAFQDovVKGxj4waCMHnpjWgau6                              1     0.6%
-         27  12D3KooWFzQWBm1afG8md8udUiJntTwqDFKiZwQoFjfqjqfmHA9f                              1     0.6%
-         27  12D3KooWG1t2CGp1rmAaexAQ2MWyBKCjFfCdACbuafoQfwMf6VnU                              1     0.6%
-         27  12D3KooWG2Zuv53SfqSoinDKkEh9PmYPwyVJakKFQUw9hb7qeRwx                              1     0.6%
-         27  12D3KooWG2tSCYANgMpYoUDsWHgnd5a67v9dc9dXh7gdyKp1J9K2                              1     0.6%
-         27  12D3KooWG46s5MXHCMe97vNBHgUoCTXX5ibVCbSghQuRGgvXNY89                              1     0.6%
-         27  12D3KooWG4gJgmaLwxf78wZBjHaoz9z6D14R41QKUyPAErJKnFzE                              1     0.6%
-         27  12D3KooWG6658UAVbZvwrVwHxzBMfR2bhGuitcRbn2EcDKNcWEL4                              1     0.6%
-         27  12D3KooWG8N7wG3LRZTFBfzRBqxsaY3izMVtwASFuKaisfkgSNGe                              1     0.6%
-         27  12D3KooWG9wiwAgGQok9Loxcu3sMMp4eoRyN9XhmzzwduYyk1Myt                              1     0.6%
-         27  12D3KooWGDBzzJHa1vdurdyxsxF2vhuJhSimFDZfjzsP8QVcB6pT                              1     0.6%
-         27  12D3KooWGFjX3EKKKEMqizstNVz7brmU8TLjb46rE2CtAjYdjAnP                              1     0.6%
-         27  12D3KooWGHSnHtxS8Lui6QYdmnDs7hRuy8nK8Wdz4hXkgzwTGmwS                              1     0.6%
-         27  12D3KooWGNZJf3fmfRnYfDJ8kp9sTWr4ASJUvkBDke8vkEuvZ1Xr                              1     0.6%
-         27  12D3KooWGPRH1zEnj3uZb6sUHr7pjku5MW68yT6cE1ZXnZVCX88K                              1     0.6%
-         27  12D3KooWGPYGguT2YKraxu59kKWNKp8F93aHeCgK4q9bSM2B4tXy                              1     0.6%
-         27  12D3KooWGQaoY9w7bfT4wbwPUcafq5Ld8ttrTSGra1BF5gBB5SxF                              1     0.6%
-         27  12D3KooWGQeXUY6r2cG1C3oyy9aegi7u4rN6V8u4ZDoMo8fJ8rLM                              1     0.6%
-         27  12D3KooWGQjSPqs3gGhptzirQuhttzuPZqbXHbHizN8deXdu3kqy                              1     0.6%
-         27  12D3KooWGS5gicfDVUGuUyQZKaQDzBxw7tv7NF6jKJcBn6WUwoAv                              1     0.6%
-         27  12D3KooWGTCwYHZjSAQSKcZyWMZVcD9qppNpqXn9x7WZxWxEpTNs                              1     0.6%
-         27  12D3KooWGV3WXGkTUdcTqf94d6isW5mSUXLSL6DnfBe5W3mHkY7p                              1     0.6%
-         27  12D3KooWGY3gR7esSj9WW5cTZ9TBqh4NnY7sF43vpf3Rk72d9BZ1                              1     0.6%
-         27  12D3KooWGYvc8WtdfXbL45KQLh8PTYDLN6kLqvbhEYVztDjGndXS                              1     0.6%
-         27  12D3KooWGZw4PNSVZbyyTzBSCKe1QNpDBVekRG5cSVY5QhRRajgc                              1     0.6%
-         27  12D3KooWGeGsp5Yn2eGgt9HyefNfn7LDk3gRLzMbb4mP4JUVcm3j                              1     0.6%
-         27  12D3KooWGfZsAGCWgRyDLJCCXsp3i2dD76tA93Acjzkr4zvKd2U1                              1     0.6%
-         27  12D3KooWGh5SNY6sRrLxbLkcEL3wLYGhVQBQuJqWDJhFnpEtPob1                              1     0.6%
-         27  12D3KooWGifLuyABybBGKzDm9rKoDjLNKZNawHCNix7SybUNJMEi                              1     0.6%
-         27  12D3KooWGnptHACYbREAwumvVacZFARa4zKtX8hWVsaW25Uoiz2J                              1     0.6%
-         27  12D3KooWGpdCKyciSSUbfhZrrjRas7B14tNBSy8LWxWq7ocq7unE                              1     0.6%
-         27  12D3KooWGrLuuMYDwVSRm9xaWEo5t5nViD44d5D8HH9xvGCs4wnQ                              1     0.6%
-         27  12D3KooWGsm5XnbJM7e99wPAuBgtzd3k5MAwTxUH1sPJYGp2pXfm                              1     0.6%
-         27  12D3KooWGt6gmwR8WjhteiCUK5XkFYt98FJGhdNUxFq5oq8HU5pe                              1     0.6%
-         27  12D3KooWGuTev4zYeFuSJLxq2LUUU1Z35NsUTJzTxAVEmo3FR2Ge                              1     0.6%
-         27  12D3KooWGxJtdkiTuw35d4bGLxUaLh2i82HF96w4VXkc4FSnMyWy                              1     0.6%
-         27  12D3KooWGzEaqFYGK3sbDUiuE6zkvrqjjbdcZsQa68jRoH1nDVxK                              1     0.6%
-         27  12D3KooWH2PjSq9f2fjFxMuurqSTt9szCRJ38Ee8wV1SNK4GkjaQ                              1     0.6%
-         27  12D3KooWH4o7JsuTAgiP8Wan7F3bnGiBqKpTFFmLzKbk5o8FWHfL                              1     0.6%
-         27  12D3KooWH6WPxNo3rwdCCAyEVZyd9trM2CiGZsLPy5j63i1whsRy                              1     0.6%
-         27  12D3KooWH7gurTTWokW4YhS54joBpeqZdcxn6UeZkE5E3GLNTNgN                              1     0.6%
-         27  12D3KooWH8p6dte7xR6eKTYiU7DLVyyKc88yjZMm8rGc1ZgKKWjT                              1     0.6%
-         27  12D3KooWH8qDPK6VqjRp5X91nK1poNXd7Ebe389aTFdKBzauL7YG                              1     0.6%
-         27  12D3KooWH8ziuMNLSPjQhkYTrrkhAjpSNp217nTwk3hGsb4KL6VT                              1     0.6%
-         27  12D3KooWH9uxzsurx6VRBt3WNmWVBkGtLht1yMwRpZL3xrjvvSNX                              1     0.6%
-         27  12D3KooWHATjJpDKinvCDx2kutH3Jxi4ZnKTepKFyhMkUqnCHmYx                              1     0.6%
-         27  12D3KooWHAXMJRro7KdcsS5EaatwrMx1vG5xWDHBSitW1j6uCXYC                              1     0.6%
-         27  12D3KooWHB9JkFy69X936TSnBdhekuURJEkieGZCSGperHFKfkSp                              1     0.6%
-         27  12D3KooWHD712ke6YwpDGpBaGiaQkKcE1MoD4B7NEL2bcBHeV712                              1     0.6%
-         27  12D3KooWHDKXDnKRZ677g4sjyr3rqm6aNzqt6qfFXYSsdmw2mQUi                              1     0.6%
-         27  12D3KooWHEr41bDkdAivSJ1s6J4C269evWUKXFWjkwsco72NbxEr                              1     0.6%
-         27  12D3KooWHKC4PXpqnfGHqPvSNrUKTLem51r4qSxknhQCbyBsVdPt                              1     0.6%
-         27  12D3KooWHKNcBmH3Sb1fNiGkobqQtdPxF1EBKtH7tpzf4fqxUNnM                              1     0.6%
-         27  12D3KooWHLdpy55bbWGs4VjbVXTttWjwx7TZt1QgcJgnwnL3nFnD                              1     0.6%
-         27  12D3KooWHLeoP98TSD7RfVrmx18jCJWBGYJpkfH2hweyvUf6rLkZ                              1     0.6%
-         27  12D3KooWHLucY2bZXsktSYxJ6TT1RbFxJu1UCZcTzVu23i482fnU                              1     0.6%
-         27  12D3KooWHN8tkFc9jEfW3p35Lqz1br9pN9cz2z2MMyRLtZgya7yK                              1     0.6%
-         27  12D3KooWHNEqeaKhY7Yq8Xx3dwjAQMN9EYEzyKvnFnvdfmevKBKa                              1     0.6%
-         27  12D3KooWHQCQa3pFHGwuqRvMfDF5PB32NSnStP7iTkE362sbL9kv                              1     0.6%
-         27  12D3KooWHRKruijxEWY33yaEoYAw76VS3aK2ZThesGMqbUEUxaG8                              1     0.6%
-         27  12D3KooWHTUzxr9ouyuroCsdTBnqdFVUiqvgoRjZWYnSxzSz7rVV                              1     0.6%
-         27  12D3KooWHVxftuoKFq5Nqb37BBsBkgfBiZxwJSiCwJFQLZNCvukA                              1     0.6%
-         27  12D3KooWHWBvE9ZZzAxzkbwbPcrNQwtGF7drQNQWFH5a3bxrjQ5E                              1     0.6%
-         27  12D3KooWHXWSCp8MhGJJRtvFzK21y4go2kVHFcXspHtFUTYLgEvr                              1     0.6%
-         27  12D3KooWHXuDtzLo7xtBm27MnTiq8twHgnxZdYugAj6oGzi1ZZzr                              1     0.6%
-         27  12D3KooWHY1c4xMtcxbeDrxrYTx1VK49UekygzEc9BW7SxhUCmUe                              1     0.6%
-         27  12D3KooWHYVVjpxFZkFvjxXyrquQMTkRuLKbubqm8qCdMi7t5qho                              1     0.6%
-         27  12D3KooWHZtZBn6pTuZJdPxZT5DAHaVzfoZhkGFK91QhoKbiH1BS                              1     0.6%
-         27  12D3KooWHcPwYYopRxUs27FPFwZog8xeLGLGB2KDYJ4qrb6JNNYC                              1     0.6%
-         27  12D3KooWHgg9jSQAbYfdRpCgEKBTwxmprHHfrYGyz1w1JRvBhit9                              1     0.6%
-         27  12D3KooWHggPLZJLHh5nHfSVc8hAFXC1w4LA6izHFes7QpDFBRS2                              1     0.6%
-         27  12D3KooWHhgygg89GwNnUnsbKBdz1ibTNUfnScm29gdVF1PkMnd1                              1     0.6%
-         27  12D3KooWHi7pc2j2r61pDxygHyaVsewcmK3GY7hzhPySyVpaZLAK                              1     0.6%
-         27  12D3KooWHnhNy4gBFLRQ236jYLVod2v98CERW5KjmyVkLBCmWrcz                              1     0.6%
-         27  12D3KooWHpjHPPf5tn3Z6baCCTmaVcczcHxLUNytNYN4CxdGCPyw                              1     0.6%
-         27  12D3KooWHvx2u1YsKBoQQTjenD5FwHobmc1LWTwTGa3tXJrhXdjh                              1     0.6%
-         27  12D3KooWHwKyqwkWuhxJ4xMAQRxEVRfELQtrrxt6BR6bDFjDGWjD                              1     0.6%
-         27  12D3KooWHx5Bg1eai7ti7ogPeUb4K8D4mhdt6SVeFVyeuKXJ9Qw5                              1     0.6%
-         27  12D3KooWHx6MdYEeGgKUokLYAajycgK8yLRxKRqCJySoZ6JvHC4m                              1     0.6%
-         27  12D3KooWHxNyfRmyVbdshzRmzyVhPAFTcQNfzGmSVt6Dy3L1uRbD                              1     0.6%
-         27  12D3KooWHzEQAz3jDyQABwmu4n7Mg7nk4LHhp8G4KQ9zUZV6uEXb                              1     0.6%
-         27  12D3KooWHzyjLPkLoPkSmv4XVyPuo5JZmWBMMZ8U7rxhr15PvXAa                              1     0.6%
-🇨🇿       27  12D3KooWJ3gamySiD7LxeVzowFUcaonsdasggn27KWbdN5xMDT1S                              1     0.6%
-         27  12D3KooWJ5xmoQVtJFn1qmNJ65m7c2ZhHLJ2tEr1dtVRdzTqxR8c                              1     0.6%
-         27  12D3KooWJ7Ef8SdK89XKefL2mErKen6vaa7RxbW9QngygKBE18fK                              1     0.6%
-         27  12D3KooWJ7j8TuzhwMLxMnUTgsRRz5HnNTcouLCYjGF4q469SbF4                              1     0.6%
-         27  12D3KooWJARMmBTGr7m65j6EoaAPBALaxu5fNKBfAvD46NSSu5J5                              1     0.6%
-         27  12D3KooWJBL21jMTCB2p3ZC2hCB1ZfvMNhRfvkDDWmfEAh8V9qed                              1     0.6%
-         27  12D3KooWJBZh5tXCCjRzq49T6y1K55SDmuQppRHH4jVhtqMZNZ4c                              1     0.6%
-         27  12D3KooWJGY4QhXU3CWukFFefi2xsDbemwqaZpvY7zKbL64AB5u4                              1     0.6%
-         27  12D3KooWJLEbS98zmGgtc2y9aToN87u9CWN2hUMNSanVkCXiCsRb                              1     0.6%
-         27  12D3KooWJRdfSc1b1QXbubioMTK5H53VPCPX4sLC6aVpswR4j8B8                              1     0.6%
-         27  12D3KooWJSe6vJan1rNjuRdQwwkVWcA3bFDjViGj1gJWJgxQ4u56                              1     0.6%
-         27  12D3KooWJU4coCfPfj51SBoiZDaWTgqJ6s3EQKGPe4bcAyqRcaBX                              1     0.6%
-         27  12D3KooWJUd5UkNef9J7YKgbnXbw5fniogXsAoR3quptL6yx8LxF                              1     0.6%
-🇮🇳       27  12D3KooWJVpVuqhmQtwA9a6UZ1gwsceG6ELt9NL37ZcrrPLjhZMo                              1     0.6%
-         27  12D3KooWJWd8Z6jdDNRqoqVfAEVNWZVywpM3y5BCyWyP8dMh5STB                              1     0.6%
-         27  12D3KooWJXqpkUFYkeyNgxan74KxogpttZxPcarT1yuuMAQhMcS1                              1     0.6%
-         27  12D3KooWJaNFjZAvEYMDpiwcH1GJBrutJgsn8eBKgfX2bkNAvhm9                              1     0.6%
-         27  12D3KooWJbkoYLb64tbftELWqd5pW8jfV7neHA8Z8zmccQZMEL9R                              1     0.6%
-         27  12D3KooWJcbsNeouhz1Tfd3QqpuzK9BFij6jy1i9W9V5KngtNdy6                              1     0.6%
-         27  12D3KooWJkMUtwC8bsHyG2GuRNpmHM1KEpvE8bQhmcDr7KXxWv5x                              1     0.6%
-         27  12D3KooWJnJDVN45pSaCsye13hBndtdA49Zq4q5qJ6WDJhmrbQz5                              1     0.6%
-         27  12D3KooWJoyKa8kfkDLc5hb62LxmdwVVVdxMiZAQde2MDSNCw6t1                              1     0.6%
-         27  12D3KooWJpdsxNeruUv9iGnRU7MmMVCT6Tq87F8anbScxEjtihZQ                              1     0.6%
-         27  12D3KooWJqUuFamtiTSCQscNzc8gzzt4AH6FeLvaSCQxrymzxoHQ                              1     0.6%
-         27  12D3KooWJsZvUYhXnbqAs7tCpFdX84HDA7Di2kPi6dTcqExyR2PC                              1     0.6%
-         27  12D3KooWJv8uS74M3vCLYFWyF4J9ud6BgMD4L9xaxV2YT4q8oi6n                              1     0.6%
-         27  12D3KooWJwLDQrXU7cHe2VSdk2ZE75k6xwZmKqe7YbE3UN9L6MKj                              1     0.6%
-         27  12D3KooWJzByB6kSr4KibD9oSuzJN8ukK8QqnuRqanWehqQwwTiN                              1     0.6%
-         27  12D3KooWK1Vwyc751cgTMw1txjsRoUJB3WHoVZRqEiqnG3k9Xh4U                              1     0.6%
-         27  12D3KooWK5CM5yTkB2LZKGGdXMyTYBmjqpo7csHLSbKZzZ3fKvKA                              1     0.6%
-         27  12D3KooWK5JXqKkMA1G5QYWffbXod3onJeNBf212zs57m2XvWZeF                              1     0.6%
-         27  12D3KooWK6HTrDkZ7Fz95qbsJUcAB7fopgLtL7QWUFyw3u1S2NCR                              1     0.6%
-         27  12D3KooWK746qFhopvFXd9UtffeMGR7VGqsQSurVWiMBunEhV3qS                              1     0.6%
-         27  12D3KooWKESRdENXJNBVXnvCRXqF7FKYeuzxSckbUHT1rYp28Tzw                              1     0.6%
-         27  12D3KooWKGPwTstYx3Tko5F1k2b4kErcMbV9E9NjHf8nc5yzKjsS                              1     0.6%
-         27  12D3KooWKJTKfJiEVsxqBGeEcjSGtTVobr7GDkmNWac2TqqdtbyD                              1     0.6%
-         27  12D3KooWKLvyfv2b91pFo84GgTQqrASPYbbpLzW7LETwCLntdTQ5                              1     0.6%
-         27  12D3KooWKM9c1susbXs44CHRYptFhdg2KR1sMWHkXJCnRZwdPPR6                              1     0.6%
-         27  12D3KooWKMpkBqakbRrMzGKi5WN93QJC7qXRZjLrbKEMmTKnrxhu                              1     0.6%
-         27  12D3KooWKQVCYtxCuyj3DZGcBryh34p9b1vht2NXNqtnjJxWDKdY                              1     0.6%
-         27  12D3KooWKRN4HWFKAFwkHg28Zfgcc6VFUv7QjPrCfHceJAyrd3PW                              1     0.6%
-         27  12D3KooWKRfKYHJdnjFRTs4vZUCXfZXmENUtqJ5vRLAfEArFWzmX                              1     0.6%
-         27  12D3KooWKRs2TgDKdmuJ4Uft4MJG9kah5PQSCcNiJteWSwN1bZHR                              1     0.6%
-         27  12D3KooWKS6xaUaUKskXUKF6tEpEEtoUWdDx7b7H5Vgem9XP1BUL                              1     0.6%
-         27  12D3KooWKUeMvFkMSfgNWSmwNwBUFCxcyYuwZisTTQYKQHqJ5hyB                              1     0.6%
-         27  12D3KooWKXym111LY4g78xb4hEwrj9J8ntLudicHV8EReM5Vpj7i                              1     0.6%
-         27  12D3KooWKYhSsxBWCGzSXq2gHwKbSLf8wX8X2HafZikwTeaLguXY                              1     0.6%
-         27  12D3KooWKZMK2YrBcFZF4wK25GkySqyx47itFcsh6iqdBm7azgue                              1     0.6%
-         27  12D3KooWKgcjfRnb5c4JLpmK134figZa5BTtfUSJa6uqcSz9eAkP                              1     0.6%
-         27  12D3KooWKgpDEddKQbT33XeHxs6icHFdyfU9kB55PNQAiLAdYeNY                              1     0.6%
-         27  12D3KooWKhEdF9vqpXoD4QrFQvb4Vm42Lg5BpJxWfbV59UD8JBs2                              1     0.6%
-         27  12D3KooWKhZUw5tFFJhhFSJsC9uHZ2NaDmMhfjDuaVWw7jDLMnqA                              1     0.6%
-         27  12D3KooWKmgX3tYyPWEneQ44vmDHxChrGWuzF1BL8LfbwJyScEd2                              1     0.6%
-         27  12D3KooWKmmcsBohGUb4xtNo22Ss5ioVEQU2Qovvizs85R43VV65                              1     0.6%
-         27  12D3KooWKnNRXnNxkntEsRVjNJqtdK73nYoiiq7ojEbqNFspwG8g                              1     0.6%
-         27  12D3KooWKojakEcHpuagrb657d2jy42Ho5zs4DtKHGvd65URLLtt                              1     0.6%
-         27  12D3KooWKom3yioPYBKTmB1qbdC4EDXN2eMf9MdAwBZjAmmPeSRg                              1     0.6%
-         27  12D3KooWKqgWC5EUrDXSXAuL49Rewr63JL1wfNNX4homQDqZ9v9C                              1     0.6%
-         27  12D3KooWKvbteRAJe4TbyFRhVB8eY1yx1gYsNfXdYdUQYthLgp1T                              1     0.6%
-         27  12D3KooWKwP2JeKJKTHWdpoy8EgNigVALR5pErtc7BT7QMaGW99o                              1     0.6%
-         27  12D3KooWKxUEiaXox69euJAso86YQ1p45ZFPgXGFYHF2bQLRtJNQ                              1     0.6%
-         27  12D3KooWL5rXV9fmfB8uud9jczQHPBktBUD5AkpViRmk4PuUguvQ                              1     0.6%
-         27  12D3KooWL7GmtBxkJPMNriY2vkH49QdFZY2UL2GrDGgXMsVWoP1H                              1     0.6%
-         27  12D3KooWLAS4rNSVY8J9CkRg3FXYyVKwcoosVyaz2FWuGydbP3uK                              1     0.6%
-         27  12D3KooWLC9PwTRKkY8BLgV29ARCqMUACZDxeWKPjrpLykuQHgaE                              1     0.6%
-         27  12D3KooWLD6zKLGNtB5DvHAdfzgZhpr64E4pW5tXS2SobLYPRYPp                              1     0.6%
-         27  12D3KooWLFYyes89UgqB4PaJD2WjCPye2wSHMNxSVforQ3Nb6WUa                              1     0.6%
-         27  12D3KooWLXKQcNH3FVc42iCg3fufzdfkd7s1E1EoKBgZZEDKLhVG                              1     0.6%
-         27  12D3KooWLYqkVLh5jR7MVtRQU37dN63KY3sF2pwKgoWMz8R9iEqk                              1     0.6%
-         27  12D3KooWLat6viKBKHDUky2oS9KMSVJGZdTfLXvCh9sWGC4ZqBSq                              1     0.6%
-         27  12D3KooWLcp4zmDNEC8kgssXUM79qUgWALbxjQxRSbfDcoMAxqCN                              1     0.6%
-         27  12D3KooWLd4KW7sYpdc2VjjCiHVbYsgZHhn756EsVMzq3WSK6F7F                              1     0.6%
-         27  12D3KooWLkXQG6yUTrBsieDS9CfapinwTsnNdQrEJ3qqHww6fYUv                              1     0.6%
-         27  12D3KooWLochrnfaHNY247QuAb3F3BcMzTGimNiK8hPkzBNSsEoD                              1     0.6%
-         27  12D3KooWLtBTtaprs8SYud4579TCCgeZSoEbHfE5ii3bojnEuHEA                              1     0.6%
-         27  12D3KooWM21j8LC7xJyFd5pGcaxUoaB4ZEdBvdLCv4QvZJHgmNM5                              1     0.6%
-         27  12D3KooWM24Cw7jF3j6tHcqfegS3oDbd2KzCfZXM8iZvBhzkop4L                              1     0.6%
-         27  12D3KooWM6PFoRwZinBCg17SLTcDw7v9vWhihH7NSS3UVbBNeN5T                              1     0.6%
-         27  12D3KooWM7BC4WHg87rWB1pZqhVTAUBbY3tcNqiJRA5BXuwa5y8w                              1     0.6%
-         27  12D3KooWM7J1w5kqQuGWJMGzo8WhGCjABX1vUPkWbEWrW16KQtJN                              1     0.6%
-         27  12D3KooWM9GXK6cU2LuRWbWYT9DRC6Mg3vba7oHUfdypYx3cgH2J                              1     0.6%
-         27  12D3KooWMA3cAvL4micP5j2cVri7cKmD8hgyKP9Zo8mS3BTECRej                              1     0.6%
-         27  12D3KooWMCM6RPqUjZYoG7tDHq2ubFYkVEMj9jWpSLn3ZWvoZvXp                              1     0.6%
-         27  12D3KooWMD83kpoFWg5W5ZBBzaG7cHbP47UA4ExQWwGQRCSzoY24                              1     0.6%
-         27  12D3KooWMDw69QCnYMZc88q4fzUAKuNUfSUa23xPeAfZRz9DWxiP                              1     0.6%
-         27  12D3KooWMF6cuT4XCkMiJFGEd5PfPj73Fptmw72CsB9Z1QSw2RN6                              1     0.6%
-         27  12D3KooWMJSGdnKbX1xH8kxARRxp8DDYHQrw6z8hbUdLtknrpK7R                              1     0.6%
-         27  12D3KooWMMeZ7rwtJSm5EYZx5Qx4Pt1eCwGYik4fDd5EBsPFptzT                              1     0.6%
-         27  12D3KooWMNQLRtNgvhQecHYAXTCzQnVTeitpV91mfV1oN9S2dBZn                              1     0.6%
-         27  12D3KooWMTMtsdxydawTmnTf8xSfj7JD5nLgaciufb4whJ8L6E6r                              1     0.6%
-         27  12D3KooWMVsMC3n2L7PLQX8QfVNzh9tCHdZrdQhxVpZVzbW24E4V                              1     0.6%
-         27  12D3KooWMah28SyFB9wYFCEzF4pneHi4oadjCXkLcM2y4bwC7CWv                              1     0.6%
-         27  12D3KooWMhzsgzoMfBTKow2TT44eKtp8KxmGdmSyVdTjuzXaF531                              1     0.6%
-         27  12D3KooWMiHS5SwHCyxyFy4FqVDhknxvGCjmeoWFpy9EDvfFHyQm                              1     0.6%
-         27  12D3KooWMjc6hRebeKNNdcynp8fF7HJWooZspre1W7phHTpQKgWb                              1     0.6%
-         27  12D3KooWMmgPRD4VC4yNtQyLpSyB1To2PXC64rGadYcmJ2DVk8Ht                              1     0.6%
-         27  12D3KooWMmkaCNr4fiCq9hayq9FgdUq1QaYx14ntSsfkWeNo729K                              1     0.6%
-         27  12D3KooWMoHanoHsuuSUWGLQWbQgqwatHop8YcB3p4jJPoeUQLus                              1     0.6%
-         27  12D3KooWMoP52Hu8JaLjBJdnrT958EbK4BYF26BB8k5STZX4J8XZ                              1     0.6%
-         27  12D3KooWMp43DjicJh4DSPRsbMR6AQc52xMnScmbATjgQQEpFMYz                              1     0.6%
-         27  12D3KooWMpBFWbz6uCoqLrFbTDmUWiZAkLtof8aB1TM4Ah1U9XQJ                              1     0.6%
-         27  12D3KooWMqNANubdF6n1UrxMy4c4Y5iru2Hpu3zbHz8YNDaghESz                              1     0.6%
-         27  12D3KooWMqcDKQxa2udc53Qit3vCm4LwncDthXDZn1eufo1No7ui                              1     0.6%
-         27  12D3KooWMquNUrKswRB6kZJmNmLz4ioQBZSKfHWB9zE7VBQEvMQ3                              1     0.6%
-         27  12D3KooWMrPzF8JpT2GKSKkDDcQ27pt8Hs3NK6zA64foRrAiNqa3                              1     0.6%
-         27  12D3KooWMsg1M6Zdr15P26ETKSMirYUrnspdnruGCEhUGkPGgdEf                              1     0.6%
-         27  12D3KooWMuR7GqHVdXua83HPrXVB9V5Rg4boPsjY2DWT9ica1oYQ                              1     0.6%
-         27  12D3KooWMuxnZWMGiiZbHdB5kvZuWo2Dmw4REB2t1WHzPL8UTSjg                              1     0.6%
-         27  12D3KooWMxn15WssaQTCsTXjw1zaxiRvMt8Q5KuVZZQGwVNx5EdV                              1     0.6%
-         27  12D3KooWN28PZBvZPpXJ2hbqLz92KR3Y2vTfEUqWZoCUZ9iXRtcC                              1     0.6%
-         27  12D3KooWN318EjNxfTAU5MTK9p6F9hnZnocJjc7AFxxSqQkafVXt                              1     0.6%
-         27  12D3KooWN39yR67EHodsfVqEbFffdz2Dzo54fc6psXdE54CSLbNJ                              1     0.6%
-         27  12D3KooWN5dU8HYY3PDvT8CejQzNbMii1HpHbTQvWzcrRdaG8UUW                              1     0.6%
-         27  12D3KooWN62N43gXB2Az5qkMaWaATTvRJv2QTyD5FmRpSayqPSwa                              1     0.6%
-         27  12D3KooWN88zCJ9Q21CGCxNdvCqzFeXrzVcGbRQtxLUHy1AJinyR                              1     0.6%
-         27  12D3KooWN8BNKVTpTq7iP6t472cNRDNRP3frgxv8XtnPy6d8QHBv                              1     0.6%
-         27  12D3KooWN8WKs9vGW2zzuW32tiSqG6HzVHLB7EdBPjfqnsjpBzpk                              1     0.6%
-         27  12D3KooWN9jZjezZka9QXL9XYNHvpBzT1yahQHbFK1v3tZ8BPAgK                              1     0.6%
-         27  12D3KooWNAHBYQyE3DJWQLtee1jsGukVNYUzU3mrqKGFoqjtnM7G                              1     0.6%
-         27  12D3KooWNAwinF1Ps9nPv9uwwnASnuPN6VaKfHAJqPAfyYQyrgh9                              1     0.6%
-         27  12D3KooWNDwH1FpJwixQXQJpE4eVJXNCfb1Bo1SeKcDabcwyhmhZ                              1     0.6%
-         27  12D3KooWNJRt1VhcCdVBThayJ81Kgtd2Z9ZCkKtxqRPr4CPmoLdp                              1     0.6%
-         27  12D3KooWNK1RB9hGPxiVk16HZ5BxZCtuaYcFSkmx37XWbovvKRur                              1     0.6%
-         27  12D3KooWNUgB7nNRvK5cUGpxpEL7SdCoNqZejiagUxc6jFexuKTi                              1     0.6%
-         27  12D3KooWNUwazHhv9eBPYU1mNRyoCEfqU35Yv4UuVNRZnZe6ZiuH                              1     0.6%
-         27  12D3KooWNV8k3ZUFtKNsSU5bpTy7BW24vZyG2Z3CRZBdXhZS3CSi                              1     0.6%
-         27  12D3KooWNXMoPe7egsDeyxB3JfSNMsc2Fw3Shw2cVHax2miwY5er                              1     0.6%
-         27  12D3KooWNcYS2js6f91Ew6cUT8QLFZbDe5iTSrK8cE58NUf3sAfc                              1     0.6%
-🇷🇴       27  12D3KooWNeVb6PRHeQKkUVfZHD7TD1ZxpSioS1jseyEnG6zSNGmY                              1     0.6%
-         27  12D3KooWNf9bWfSLXnKz4XVtMEnsk4gg3AZvtPC2m3rAionMqHRh                              1     0.6%
-         27  12D3KooWNfABSZbzv55FQ2RHZGk8mSFFTYNaKboY9eDEKG2mQ8qH                              1     0.6%
-         27  12D3KooWNhZEVzqbJDuDGp5itDjSvZo5XanKNkN3ioTzbHaDLT28                              1     0.6%
-         27  12D3KooWNhZrbd1FXwGuDsa6Y78GWHQAS5C4VFfM1LJzH6uFTbp3                              1     0.6%
-         27  12D3KooWNtkrpY2gvAcgRo2gV3tuoNxEqGcC8UJmAduAnVNdx9zj                              1     0.6%
-         27  12D3KooWNuxFCJvVwNM1ftfC9zNuemFcqo1Zmqm59tL2FCYCPhPU                              1     0.6%
-         27  12D3KooWNwL5ebFA6AVEtsRs2rD7T9N22ZDZ8sNCXY3XxGZRR4My                              1     0.6%
-         27  12D3KooWNyV1mmXiKVhQEd7F7JmSr56B8adCRUNho6KSHmzoHpaf                              1     0.6%
-         27  12D3KooWNyVnbmG3vedpESzpyRyNSXDhPgHjTtmauXDyHUpqDV6G                              1     0.6%
-         27  12D3KooWP3LXCeUBXYt4iE1RHBtnMB3Dz8eoMhgggudzSwQcbgTj                              1     0.6%
-         27  12D3KooWP3WCNGezFGrNoTDvyt3Nzn9eaHFs5Bzzzi9SqsmSivvb                              1     0.6%
-         27  12D3KooWP5WwpT9nEx412voXnLPg2Fkz857CqJKy6DwvxmW98M9g                              1     0.6%
-         27  12D3KooWPAMoNV2agan9NzFvroTKoqdQQevjEfe4NP6zm4VRWbF9                              1     0.6%
-         27  12D3KooWPEKZfAuNHzzp4TRWVfQiqnxrra2VHbqeHX8rvYEGXFsk                              1     0.6%
-         27  12D3KooWPJUjoFwLPShxF9CKwWMUfYco6S9h6cQbt1WTSDKBMzA6                              1     0.6%
-         27  12D3KooWPJb3aTnHikD9wxhUdnmVQD1MpBQBii9svxgWfe9qy4oJ                              1     0.6%
-         27  12D3KooWPKiG3fSa8YaDZhffYjv2b8NbV6QmmWvFYSvFpjiikSHp                              1     0.6%
-         27  12D3KooWPMsKgwSEGWTuYkaifiJWYSM29ETfVoxw7rzGyeKcPWcm                              1     0.6%
-         27  12D3KooWPNPaipDRnfju6bCAMGZzKhAhjHca5gRphstr9grdUvng                              1     0.6%
-         27  12D3KooWPPdxNMHy7sM7BSC3b4eFE4vNLo4c5wZQBJNUfBgmEJ14                              1     0.6%
-         27  12D3KooWPRfsfydk9KziUmhgZ9B5tokfj3GJEXEbP1pcyHS9wRCu                              1     0.6%
-         27  12D3KooWPSbDzk59eTJRtjbN7j6eJpvLAPkV2Lsfw4AvfKUm1H11                              1     0.6%
-         27  12D3KooWPSeNiRHDFCQtRCuiGK1tXhb7QMVLAAXWpvoU2cC5cG5q                              1     0.6%
-         27  12D3KooWPTWuFayFKZJ3XXYb3uZ66JkwVzLo5hJuUqhVqgZ1cas7                              1     0.6%
-         27  12D3KooWPU1zSpkcZkQDv7wBpoTAV6akeYT6WtztEidM7CzxXUea                              1     0.6%
-         27  12D3KooWPUvKuHAC91ntQfM8xWFxUZZpd6UoxxDuZspMdqFpAQEv                              1     0.6%
-         27  12D3KooWPVmuVxHiTWWHBng9qw7tkzRB33L2uUArwYXznoxMh1po                              1     0.6%
-         27  12D3KooWPYQtfD8ABo7JTarQmLgLeu8pdeXzizLgWHXPhE7EYEc5                              1     0.6%
-         27  12D3KooWPZBxNpaUmENNDeAXXiMLpNnxWgyQp6q9B5PPCjrC3Qto                              1     0.6%
-         27  12D3KooWPiaQtR6jdQnpKUqN1PXKGSmNmtoMtnai5PGUTzJAb2tQ                              1     0.6%
-         27  12D3KooWPmJTqgWthF23raZXmQWR7TTgvaCN3EsHZRZe78Zdwv8n                              1     0.6%
-         27  12D3KooWPmLhvmwXYm794KZc51PKwQroZ4tNLii9jFg9tJUfqky6                              1     0.6%
-         27  12D3KooWPr7ZEU2N5EPkQYefmHVayhRNYFSsQqz5bzT6YJBVwqbp                              1     0.6%
-         27  12D3KooWPraiWCQsutMcCT1u59Y63LJCeM8zHZmgKKfWBPt3fQW3                              1     0.6%
-         27  12D3KooWPtAxMcPCkw2H23j8DmVc3MNxuS2sx4WNrC86XcyHAtx7                              1     0.6%
-         27  12D3KooWPyevbRbWHfwixh6dmmZhxTY8ke2WdsMiptNeAkW4NWxJ                              1     0.6%
-         27  12D3KooWQ1pryBM8WDaBJxPgBVKVonYV2zKJvD7Kscev3mkrzrcJ                              1     0.6%
-🇷🇴       27  12D3KooWQ9AwQ5zS6T8UkU5xNXbxcjzs11RLM9Fp81EMPvgA6oxR                              1     0.6%
-         27  12D3KooWQDHk22iwf8nwsEj5TCBdCNr7pRbfH4TF4RKeHmRg7Nvi                              1     0.6%
-         27  12D3KooWQET4mgJ5FbwGTxaecBkHwVU5cRVi8HbGKsCwegViSufy                              1     0.6%
-         27  12D3KooWQHZufVccVH5CYBrcmGbPihRaRyuRsAyr7qJtsqM4jsrP                              1     0.6%
-         27  12D3KooWQJKngsaSQT96vrawwdD6vSTtEC78tL323yxKgD1ri7ZQ                              1     0.6%
-         27  12D3KooWQMoaSNyyvz4WRYmrLrM2rH8CcLtXnnzZjoqXTgPMqVku                              1     0.6%
-         27  12D3KooWQNzLWebooXAXzEMe9jiPG5Pf1prKdKzSxojXJNUh26m2                              1     0.6%
-         27  12D3KooWQU7mySy9RRJKPHvF4pdkgFg7rVPkxVptTD11ffdjj1KA                              1     0.6%
-         27  12D3KooWQUk6FEmdYAenkLtkCacr9eHuaWudy6FDv2WqqaDPFUJQ                              1     0.6%
-         27  12D3KooWQVTixRG9TLiv6xbNM9mn79WPjh23esfi5RxxPtkTr8Sa                              1     0.6%
-         27  12D3KooWQWAGDBR9owoZ5koXsE1ryXmp1YEVJeTyYFi9KVQX3jDT                              1     0.6%
-         27  12D3KooWQWxrXJEjzfxrezVCcqrxYudEesevGbtV4A5uvhwyUFJy                              1     0.6%
-         27  12D3KooWQXGq4RQ4rhPDVrnDEHAXRbkMgrhNYMsfpLEQALJyq9f6                              1     0.6%
-         27  12D3KooWQYEDh2PYxiTLiMvFzBcYS1B9US6iYp1wj5aJoQyavyL3                              1     0.6%
-         27  12D3KooWQbsRMABUPhaG6BPktcX9cuywQddHfjTYpswr8qKGFdUS                              1     0.6%
-         27  12D3KooWQeJZWbGM2iu7gk1oFRrCi8nSr6vXq55FiiCFGEsB8xet                              1     0.6%
-         27  12D3KooWQefaGHCh5bD6v72owBML8dHJDhH7ExGJ3iRA5SmtLAsZ                              1     0.6%
-         27  12D3KooWQfkxCYFLDXvMiVAXEpBxGHrEW8VnUMqtfAh4KTa2R1Yq                              1     0.6%
-         27  12D3KooWQgh8beeCybttCsHraF3Y6PHEMHRgPemniz2d98msznk9                              1     0.6%
-         27  12D3KooWQifUyGfXSSvfPHq5mUBvJWKq7xELErE6oqemSThdWyjL                              1     0.6%
-         27  12D3KooWQjX5e5krh3sHRVdH2MoHRFxiwSkKH7h7rPw6CR4ouPQj                              1     0.6%
-         27  12D3KooWQmWUsJgPPgtyYgULgRtVUTL61RbqpW4HdNzQ3wLpVFb4                              1     0.6%
-         27  12D3KooWQnQ2KxeGE9Z242doy3aJrevPwcqs4tBCkrSeviKPQsCv                              1     0.6%
-         27  12D3KooWQoWWUYkwcsnus9inSQypcVjCXaWASZS7hCDzxizYXeZV                              1     0.6%
-         27  12D3KooWQofcwCBDUnbbNuu4SfqS7WHugjiVxoKLZ3DUkLjWGPcg                              1     0.6%
-         27  12D3KooWQw2DzcmNBaKohEDHYHvT5srQDs2dxtcHM4aakM7Hg1Fk                              1     0.6%
-         27  12D3KooWQy6NHzEEbqsPXSDGK1KT27NGXTe81JaiSRNwbv9wvViC                              1     0.6%
-         27  12D3KooWQyQ88WaTeWkRL5i2eVL8EySirE69QrWhi6fRnUKTQD8X                              1     0.6%
-         27  12D3KooWQzAriM856V6Xtm9yGQK5SSx1HEB9mnMCxUi1ztrWiwmC                              1     0.6%
-         27  12D3KooWQzfxpXqUvzpsGSQFrE9826iSQaWPJqrkhx4Tpy2dcMHz                              1     0.6%
-         27  12D3KooWR15CUQfKRhqMcY3RiQbpGmxzJmZwCV3bQoj6wpTB3YQ5                              1     0.6%
-         27  12D3KooWR3Y5PEXUJukRmLr61V5sp3rFtBbeugjxTSnmXaFpomEb                              1     0.6%
-         27  12D3KooWR3fxjW1gmWs4WZBgqv9vJyyNx6D7KjfUdfJCNNaoqtoT                              1     0.6%
-         27  12D3KooWR96tqBSpbDEvD78eMxhzp6jvw9eHZB9s896sjHMoy4bK                              1     0.6%
-         27  12D3KooWR9k318v1BAaNTo9gvjJWZFQaxpc26mbaGJzd7W35Pby1                              1     0.6%
-         27  12D3KooWRC1rLNYb2u6GLB2Zqm1N2KoYXCMVFkrHsYKVfUtLR1Xo                              1     0.6%
-         27  12D3KooWRDDrXZj2j5kZuThrqYD7NQjVvBEaf9Pfd43R8pYRwtcd                              1     0.6%
-         27  12D3KooWRDe3WgLHYyKefoikTNFM22at9NYyNzFpLfUCr4GK4m93                              1     0.6%
-         27  12D3KooWREqAknE4PnmzBsqMUZYUejuBM7naFLoKdGQ5omuqpLm1                              1     0.6%
-         27  12D3KooWRHCqWFT9aE2W4CKvTTXbyAQ4dAaiYxrsFQaXzfRLh1nT                              1     0.6%
-         27  12D3KooWRJqybRu4XKyG2WD187wv7Apf9GBoeWPjCQZGxMU4iZFy                              1     0.6%
-         27  12D3KooWRNS6A2t7JTScmyxyg65r42Qpz6QahsDFApgeTSrb7LgS                              1     0.6%
-         27  12D3KooWRNT9GXVP8YqiyY2bC5msCDuEPpkDRS9uyfK3L8XRzDRw                              1     0.6%
-         27  12D3KooWRNZXznd3ZzA22ofS3e4eKJLpqoHNxaayVkHuZDMoVJnE                              1     0.6%
-         27  12D3KooWRQWCVoyCaiJhR2ouYGvoB6zxwWDEWd817QZWuT4XTfvV                              1     0.6%
-         27  12D3KooWRSZQ8ycunUiNifa7ojvmCezUyEnDiduhJNmm1HfmHMwL                              1     0.6%
-         27  12D3KooWRT1hnE937EmNQFitVLuJvyHr3Qry5MMZEQt3c1XJT91J                              1     0.6%
-         27  12D3KooWRYB78LZdwSjQMETgYULs6CwoKfUGv6iA5mNdnLD1dTHE                              1     0.6%
-         27  12D3KooWRYVfodBgQDJdmC9kK35kvwRZtEtmi94AfL8PwvXTgB1Z                              1     0.6%
-         27  12D3KooWRZsmmUMmARFtVGoXiQajQ5uyjVyuzGoVnRmr9AYiXGua                              1     0.6%
-         27  12D3KooWRfqs5v82tMHjQHVvWbdHYRRsDLZaH2yZuPr7a6VvS7zM                              1     0.6%
-         27  12D3KooWRgX7XrbRgMFKykEFAMLPL4dXGUgPRjLRQg4By1kqiUZ6                              1     0.6%
-         27  12D3KooWRhSB4DKnKBBDZJXoRHUpAK8JshfjBC1VLxkCyakmCuEA                              1     0.6%
-         27  12D3KooWRjEZZTToYpwGjoS87VGdXmohGgHK3MPKuCQ58ZdpMQ77                              1     0.6%
-         27  12D3KooWRmbPWe6p1GLCyvduDUZLpicVsqsHDrRAuKRDxRGVJ1Px                              1     0.6%
-         27  12D3KooWRntxodws42m6Nfveaygv4vKY68dnuXMmEroRWhtqAje9                              1     0.6%
-         27  12D3KooWRpcZ6G7GhL8LM6EUG24zfBSMDdLPiENoQ1N7gJsCMsh2                              1     0.6%
-         27  12D3KooWRsTaogse8spsPLn9WLnXfmZDy5rjUbSMKh3NBvAjujTg                              1     0.6%
-         27  12D3KooWRuNyypUU9mGKZp7nuMfDDexsSJeM1TRV8CDMNU8eDgSn                              1     0.6%
-         27  12D3KooWRvb7nee6jXTopGNCwcdU577uv48oqhKycPneU5Q26Yqj                              1     0.6%
-         27  12D3KooWRvrnLbhsqpiWnG78jqa8Y2qKysZ8iwNaYRbpWW7nuW6g                              1     0.6%
-         27  12D3KooWRwRTmzhWcnADXxESs1L8hnCBVLRdvGkRhDF1dFBKxuLa                              1     0.6%
-         27  12D3KooWRwmnNNRHjPsWSpCH4tc7kK4nKpuFvt3pEYCdv1q6X6Rw                              1     0.6%
-         27  12D3KooWRxswCAt8rNPkyMMJRXDnLSAjZ7yNsdhh6JQ4axJxSZsX                              1     0.6%
-         27  12D3KooWRySNLw7jYK2aixAF2Du7vMZ4hbJmwH5Q1U9uaFq2Am7M                              1     0.6%
-         27  12D3KooWS6GTTiKMwCodzDpANKzyopD91kUaD6tEfbUEMXDMDsdF                              1     0.6%
-         27  12D3KooWS7WN4yrzReHXAThKUygbu6YHVacAVC9hgL556M2X1Liz                              1     0.6%
-         27  12D3KooWSAqavU8UQWNPNwVM4XMsBsxff9KSJKpmwF1uLnGWMSCi                              1     0.6%
-         27  12D3KooWSFAGcRxdqHrJRCxr2nktrHzX9CW6wLL9TCEAdM19ye7p                              1     0.6%
-         27  12D3KooWSJdcPnG9FxTNMmoDBghge5sLcnxdFEDxq6gHThjPKYqt                              1     0.6%
-         27  12D3KooWSK7QrTfnVR4vScXBLWf5HJCGU5kyiQ88cXSoUDAXFwqy                              1     0.6%
-         27  12D3KooWSLCpNoiufWXvsry39kTSHv5JzhQayAvZCvCqHUfbAxLt                              1     0.6%
-         27  12D3KooWSMWXwwPk2Fg15drSAz9yvZAdoHkvQ956cFKc9s5UTmu9                              1     0.6%
-         27  12D3KooWSPkQcHGiBjwngADkqrrmUKcXohFFYuwYVthfLGBSa7do                              1     0.6%
-         27  12D3KooWSPxg8tWWYGYtvngm8JFtirR5CFgNZkdWJuX3BDhmTLRk                              1     0.6%
-         27  12D3KooWSSqGYGXbJPa8JcuYLp4TgM2ss3XNp7Cw3Uvm662ZHc8y                              1     0.6%
-         27  12D3KooWSSrqWSeCFQJCpXg6RZt4yugvxod62pXYxRP5C1Jp2EEF                              1     0.6%
-         27  12D3KooWSTkjdmdn6jueWsw4Z5pgHQ89BKfYUkZas6sUCbGFCFuD                              1     0.6%
-         27  12D3KooWSTpbpekvSHGcKHWHAUie7gbS6G6ztQQ2NVWzZvFRvBrm                              1     0.6%
-         27  12D3KooWSVGgyHbAPAqHo84EG4azSryVXFHfGkavWW3edaZGEaNE                              1     0.6%
-         27  12D3KooWSVKXEPvXQ4ohhLL2ZSGjqXDuXoyyf9FiEhutPTE7SmZ8                              1     0.6%
-         27  12D3KooWSYCp4XPuqamfrdKFqybUx5osRiyFofJPRiWjbePTQUCn                              1     0.6%
-         27  12D3KooWSYT4CJD3rsRSa5CujoqdwkvaXW5YN4wYYrzsduxXUubA                              1     0.6%
-         27  12D3KooWSZiSFNneBUJ35uCoPgk642T17bHybtyVZUBdEAbxdqoK                              1     0.6%
-         27  12D3KooWSZzVaGHkfC1bymJ7NwVhKcUdM1m5WtzWPVspf4DRj8Ji                              1     0.6%
-         27  12D3KooWSa8QEzEGXfXTyF7iRr1pzw6pmxgSaECQfNf177ohEYP4                              1     0.6%
-         27  12D3KooWSakW5iQEZzJGBFztTx3YrdwVd2YsKTd37jmaTTf2GNTE                              1     0.6%
-         27  12D3KooWSbtz5kDjASVPLL8WQNtL3WaEVgiMFdFU8F31ArxeCteS                              1     0.6%
-         27  12D3KooWSeDts4Nuo17qXtXV49NZUdJDN1tdjVyMCqgQ7HTVWA1Z                              1     0.6%
-         27  12D3KooWSf4kvGmg5YNyAfoEtotKT4uWP6hSmKHo9eW86QKAkJYk                              1     0.6%
-         27  12D3KooWSfYHc96KwzS68xEJcE78DuippCuQQZTwfjFeSoPhAoAs                              1     0.6%
-         27  12D3KooWSgS9xWnKXMvh1eEvvzjMh5EW9k9GPrTxbj2aEwNb3zTy                              1     0.6%
-         27  12D3KooWSgrxJmHoRq872ffui8zt2bQe3bjY9avFqaKa34ebCP7j                              1     0.6%
-         27  12D3KooWShnza4ZDz8UQAR1K38frN83ZFuVtMafU7Y8zY1UFNL4u                              1     0.6%
-         27  12D3KooWSiR9VRpzsjgA56iHKrhUaTtzjCe5KoB65FbhFQS3587b                              1     0.6%
-         27  12D3KooWSigK12fQWyyKe7Jbdtm6NF9XxXkjXLfK1UKBa93ohkjq                              1     0.6%
-         27  12D3KooWSkuuzBujWTwnGBVfJCmp4vAo4Qm7d2s5ZBFpbTEHX8nj                              1     0.6%
-         27  12D3KooWSmMNsJ7JdeGWLSS6nkoqB2HyqLemvvB3MFgdV2T3k44W                              1     0.6%
-         27  12D3KooWSnD1L4zVYf6uWEGfWS2F3J6sAVR8JoxwtwfosUYSVd38                              1     0.6%
-         27  12D3KooWSnr1rYvS5K8LPEZZhA2RdAQyFvcWh91nWwbSehamYGvC                              1     0.6%
-         27  12D3KooWSogAeWsdiAqrcfNv92WiSqdkWDh4MMeA57ZGrYvaExyt                              1     0.6%
-         27  12D3KooWSqg4kYoKjQQH58kvAxHBAsKMAmMpGEJiFsRV9tVSC7o2                              1     0.6%
-         27  12D3KooWSrWezj4ECR4pY92Th1xJcoXXofmxw68GTjUfpWgSBWdX                              1     0.6%
-         27  12D3KooWSsXcPjg7yfycXmvrawcBvyxVNYhjNRptz9ioGCBcWRSL                              1     0.6%
-         27  12D3KooWSwezrrZMeWksGFttYkf5DgnseGYHv4mwJUcNjTMj9Uys                              1     0.6%
-         27  12D3KooWSxVNbC7VK4Bi859NrBhL7v8XSnZQfYtR2MmNtm8BQ4fx                              1     0.6%
-         27  12D3KooWT3NVVSHWxdyXo3WuP5zuuZNthvQEsCzV8KKxiC8w49bU                              1     0.6%
-         27  12D3KooWT3aycPcPFdRjMy2ZXMKHh5wqchBKEfuDijkQxydAWJG6                              1     0.6%
+Flag  Rank   Peer ID                                                  Hours   Uptime
+------------------------------------------------------------------------------------
+🇨🇦    🥇  1  12D3KooW9tKQDM3pX4YfNVnFfgmohZtXJttdGhbPkWZ4N5c2Y2BN       169   100.0%
+🇫🇷    🥇  1  12D3KooW9tmCpSLMFa7e6kQtXsBAkU17WXdnRzCgEEbN8upBR2Nn       169   100.0%
+🇩🇪    🥇  1  12D3KooW9wycYQTk8HPKHHyVzF2tUEpVSu4WHu8ySAbTmXGreuV5       169   100.0%
+🇷🇴    🥇  1  12D3KooW9zwrvvkUUVUZrpA58pAM3z5rDFvafXqQnwpB83kLX4Uq       169   100.0%
+🇳🇬    🥇  1  12D3KooWA9psZT4tR3eB98HUNPhtmrKnJv5tYuRJ6ju2HcTNdErf       169   100.0%
+🇦🇹    🥇  1  12D3KooWApqRyAErJLDLmLLJwHPomC3K4sMXwR8LnVMQdwYUVwjH       169   100.0%
+🇳🇱    🥇  1  12D3KooWAqS5cwHDU3rmNumUfT2CU3Ewnx8zRDXA3DFNU6AaHzuL       169   100.0%
+🇵🇱    🥇  1  12D3KooWBLuRPawu5a3KHoDA68ii2RgAwNi1wkeCBsMMXFbGBwjz       169   100.0%
+🇦🇺    🥇  1  12D3KooWBPCt1C78DatLuNos3aFFPoH8vA3D3xaPnRy3TUWGvvKr       169   100.0%
+🇧🇷    🥇  1  12D3KooWBnwb4As8ZB8doY3KcUCM7Cgymg4NYHJf1D2fSqEzJy3Z       169   100.0%
+🇦🇺    🥇  1  12D3KooWCLyYi7rtAaDnaTVuqa2RJXkVQrmMSDiHNb8yBDCsv4Zo       169   100.0%
+🇫🇷    🥇  1  12D3KooWCQ4STXWzF5Mor9XxKqBJafAZr8UFiA2ZkrLr5osBbpjB       169   100.0%
+🇫🇷    🥇  1  12D3KooWCwrKEb6tVoZYgAy7fpwHNp7FuF5aUyfwoohPYHjoTojd       169   100.0%
+🇫🇮    🥇  1  12D3KooWCydUyhZxP92MHAUjS6p6c8oBizMiSiog5eA6tzmnTGUe       169   100.0%
+🇩🇪    🥇  1  12D3KooWD6XvDYFbM61JUku3JwAzAUximv2RRnjfQKmvRX1DSUzq       169   100.0%
+🇳🇬    🥇  1  12D3KooWDA15vEBnR2LPAjgJpU5NHm8j5oUdYCReAxrwYkGSes9h       169   100.0%
+🇱🇹    🥇  1  12D3KooWDFVGhWXJeH8qoMRo2MwCwUJwQpg2W4xmE4sEqZXEkhjk       169   100.0%
+🇺🇸    🥇  1  12D3KooWDgJwCsDMYwWBEVaWV8nNqnC9swdUYBdEJN5UkqXYZP86       169   100.0%
+      🥇  1  12D3KooWEHbTMqouVcdq33raBtAsQfpNrd9MjeyxjTniwkUnPaqB       169   100.0%
+🇨🇿    🥇  1  12D3KooWEKMi6KFxhrGQfpU4Xe9isQSTKhDCgD9v7Vma4zTaDgVS       169   100.0%
+🇫🇮    🥇  1  12D3KooWEbbpAYaCLdMgfX2L9PAQv7W1zNG6mq5ZsU84VKVFHwpP       169   100.0%
+🇫🇮    🥇  1  12D3KooWEpofqUmkwGc2VwtMTBVnjD7qFbqeZuACw2zcHJ32XmEN       169   100.0%
+🇭🇰    🥇  1  12D3KooWEwfsLK3WZrKi4dTsSv3nbgm5ZMYB6FKjAMjdXkPyWwqs       169   100.0%
+🇸🇬    🥇  1  12D3KooWF8gfGNSM6acnXFwFxb98hcV7gwgTyp5PjiPVqHY55ZCE       169   100.0%
+🇫🇮    🥇  1  12D3KooWFBsZTbx1wALdLZR1LfoCPqbRAC7xoSxz6jmjJEFLXr9T       169   100.0%
+🇫🇷    🥇  1  12D3KooWFX5mzCrYf2KXfh72otghSNzbnfeWNyaGybDGwu4QJZSj       169   100.0%
+🇫🇷    🥇  1  12D3KooWFfvuDu6AEVVFaAXBmVoneT11eNWtgZeFEm4FGye6MVt3       169   100.0%
+🇫🇮    🥇  1  12D3KooWGKdieLmiTYDS9tbpjNVMEuD6BYh9AvwJ3TemYCeTQ4Q8       169   100.0%
+🇫🇮    🥇  1  12D3KooWGMoRgXvY9NbURudvRYg5YWfewj4nuqYdfngFZczNFW9N       169   100.0%
+🇩🇪    🥇  1  12D3KooWGPBuCarPTdHPAi1vcYSKJHMgyGj78TJ6eJ76rfcf2hzL       169   100.0%
+🇩🇪    🥇  1  12D3KooWGhx8u6V31rZZFgiM1LaYGou2C1Se31tqPpuD733gt8tq       169   100.0%
+🇨🇿    🥇  1  12D3KooWH3hBfrYVQWrzigZkdQcLxtvm38rc12QhGcX6zNrTcfp3       169   100.0%
+🇩🇪    🥇  1  12D3KooWHFgWCyntSg4c2d74uNiEuFN5gQBnN6UGDZ9qo5u8EhrT       169   100.0%
+🇩🇪    🥇  1  12D3KooWHKaMZ2skZuXp8LRkw32sUmB5skRSA5rYS7E9Pbivup3L       169   100.0%
+🇳🇴    🥇  1  12D3KooWHTzmDR7JjJ5SVdteYp5VTXHh4PXKcHE4zsVEfcr7y3ma       169   100.0%
+🇫🇷    🥇  1  12D3KooWHf2uj7MjRbdRmFcnydYnAuPSo5UsFYbKjq5H7i1jmCZu       169   100.0%
+🇺🇸    🥇  1  12D3KooWJ2UUdyPyQUpdVtMxPJ2QfdKBrLT4eG7htKaUdhAMjgru       169   100.0%
+🇩🇪    🥇  1  12D3KooWJ3vbbsXjvvGenQjFZSh21EqSUMjMDDTR1SBRAGoZC8Cn       169   100.0%
+🇫🇷    🥇  1  12D3KooWJAYsyc4Mobk53nd2GrFkK2B4zB4CfvVALG75p7FqVszU       169   100.0%
+🇫🇷    🥇  1  12D3KooWJKM6M6y5pjB63f7mBF41aL7FELW72gBZST7VH6DsnTaE       169   100.0%
+🇯🇵    🥇  1  12D3KooWJRBHQZT4sG1116zrMCs2G1aTWRDD9ij1uKySzvxieAxE       169   100.0%
+🇫🇮    🥇  1  12D3KooWJRGau8M1rjT7R5e4YYsgdFhsMX35nRDtMwCDjxQkXAHz       169   100.0%
+🇫🇷    🥇  1  12D3KooWJmtcYHWzL8GdY56gVkftGQTMmW11BEYKZPbqbe7PrBhD       169   100.0%
+🇫🇷    🥇  1  12D3KooWK3pkTcGKzyTai3CxaugCmzQqAg26tKppDBfPGcCTyjZn       169   100.0%
+🇫🇮    🥇  1  12D3KooWKKbeQcUme2B2c4A3UN1j53rM6AdiiDdPUsbZroHBTt8U       169   100.0%
+🇨🇦    🥇  1  12D3KooWKKcJBZ4mARCVENrVmdzNv4aHHrjy2wUudPiqp9HrutH6       169   100.0%
+🇵🇰    🥇  1  12D3KooWKWmLVf4ysVivr8Qf4bJ215hthMtAoctVtifEHwHcYKtm       169   100.0%
+🇺🇸    🥇  1  12D3KooWKaXP5qrfce4YuBe2VVfzZmTrVfQwEVsEEk2iqpQhhZhR       169   100.0%
+      🥇  1  12D3KooWKkapMBteGkFWj8GgoVuPSnMxgoGYmbyEBRBqgL1hXLQc       169   100.0%
+🇻🇳    🥇  1  12D3KooWKsVoyBR1Yd51ekdZUhP3iB4BogLeccQFSBL8tCFK1LoL       169   100.0%
+🇸🇬    🥇  1  12D3KooWKvnPDTbnv4udaGg1YWaDFpwjGoXpbeRLpjwX6JCKmZeN       169   100.0%
+🇳🇬    🥇  1  12D3KooWLCJJeEScTmcTv5TDJaUbqJTMAaRsAr1Qd16K6F3DnCVA       169   100.0%
+      🥇  1  12D3KooWLXeJQDAGWpcjzxoU3JoEzTQpumosLamoVo9a24k3W7br       169   100.0%
+🇩🇪    🥇  1  12D3KooWM1ihhVj7U7Ghs6wUwEG87YXeE9hMv2rVhAEh8Z5Gnx88       169   100.0%
+🇷🇺    🥇  1  12D3KooWMFmUq3ddqESepDjSF2fjYYGbo7d3KRcgcb7pVQVNtcZL       169   100.0%
+🇫🇷    🥇  1  12D3KooWMGLsUjpepVfZw7PzZPZXK5sdfEeM2uy3UAZhTsjovxA3       169   100.0%
+🇫🇮    🥇  1  12D3KooWMQE2FuZF7cLRw6oBPgLPVkUhpCwAAuq2YkEhRodxFM11       169   100.0%
+🇩🇪    🥇  1  12D3KooWMwcnQXhd2P2PzcJfzjn4FRZDuGBw3GtpbF8cZ35CKa3F       169   100.0%
+🇨🇷    🥇  1  12D3KooWN3dvpZhog8ApYdXi5EBjEjycN41MKezHvQvER6CX6cHm       169   100.0%
+🇵🇰    🥇  1  12D3KooWN3njqoAZwZARncFyfp8AUHSuGDs1HLSDZwkPLX9gyzEt       169   100.0%
+🇨🇦    🥇  1  12D3KooWN4oyWzHqAk9kB9MnZ6oguZJZnVRT2CyAaGP5ZgXeD4U6       169   100.0%
+🇺🇸    🥇  1  12D3KooWNbZD6HXkczmygJXTNV5pvWSSJ4CTEYC4BSpbAxFNErgd       169   100.0%
+🇫🇷    🥇  1  12D3KooWNicuk1GsNUuWBLV8tNDNALjWvFHz99ur1VtkYgpz9MiE       169   100.0%
+🇬🇧    🥇  1  12D3KooWNykk8FUXnx8HZhdBjETSRkvDEmhZyMbm1XTG6XdaiEyc       169   100.0%
+      🥇  1  12D3KooWPWoa4oecgG6mUgstUdYfPXYkpvAaTGW3QLhfeKDqXS73       169   100.0%
+      🥇  1  12D3KooWPdgjM3AvQs9CA2MWSyZiZJ4Ub56M4a5xGgcWhep7E8Tm       169   100.0%
+🇩🇪    🥇  1  12D3KooWQREuyuoCFbKAZ4aQt31WVU8ZJzhNJhsVEf74QGYx4E6x       169   100.0%
+🇫🇮    🥇  1  12D3KooWQXJavMDTRscjauFSgVAB1VLB6Rzpy2uY5SU9Tk7927tb       169   100.0%
+🇩🇪    🥇  1  12D3KooWQiSxzxbWE38SiSwgqMYxp2EhRhRhuPcSBWHtketjLdnE       169   100.0%
+      🥇  1  12D3KooWQwgJkkdBTVj1Q8W1ZTrCbq3e9Vcs5uRzgZJvUQEnD2nb       169   100.0%
+🇸🇬    🥇  1  12D3KooWR6jq7JUZLWc3nXLRnpAZWbJQr5SrnHGC5Pk7DUkWt4jQ       169   100.0%
+🇧🇷    🥇  1  12D3KooWR8roFU3DPfyx95mVACF8PX7FfHTbZ1dRCB62pzvARodj       169   100.0%
+🇻🇳    🥇  1  12D3KooWRko4kqycXZbsbNauEF4ShNqrJLHTQxPEJzocCVqCqRhK       169   100.0%
+🇳🇴    🥇  1  12D3KooWSDN8iWLxpe1jrfZ7XkFMoTh2MU3H3AnKw5MNbxd2AfnA       169   100.0%
+🇦🇲    🥇  1  12D3KooWSFkXfqk29agp5CgmPfGdZcZpK1APBcPwArPEyydJ8UFM       169   100.0%
+🇫🇮    🥇  1  12D3KooWSQc7CcGtvWDPF1yCbBthFnQjprfCVHmfmNDUrSmqQsU1       169   100.0%
+🇲🇩    🥇  1  12D3KooWSfCmT71XhG6rSNxApqujBSBVANDnorFcRbKnpY5qaswF       169   100.0%
+🇫🇷    🥇  1  12D3KooWSmroE8u98uiDM9V32jpQiEhxmnw2Fymj4bzLizNpDu3H       169   100.0%
+🇻🇳    🥇  1  12D3KooWSn8HKEHt6kieRiPsgcuETZfk8yoY1ztCefcu4uNqhH7w       169   100.0%
+🇦🇪    🥇  1  12D3KooWT1Fb4RDyoRSFitFKoCrnXRmXdyYQ6Ztu9PhFiXzvjNkr       169   100.0%
+🇩🇪    🥈  2  12D3KooWMbqdCMVZ6iRPj6CBPB7TS6WDyS7meG3B9T1U1ywd28Qi       168    99.4%
+🇷🇴    🥉  3  12D3KooWCpHut5RE1yevkWsTmkLXducQ31ARzasoscXrVAxwKb4g       166    98.2%
+🇷🇴    🥉  3  12D3KooWJ75UZAAkFrW7KoSseNoZ2ZjAbAofNXhBK2hvRjcCxfsG       166    98.2%
+🇷🇴        4  12D3KooWNeVb6PRHeQKkUVfZHD7TD1ZxpSioS1jseyEnG6zSNGmY       164    97.0%
+          5  12D3KooWFrouXfmrR4nsLMtE7wu15DoMJ6VtoUtHinREZCvbWHar       153    90.5%
+🇩🇪        6  12D3KooWC5XE5o3KSMXd9ApLJjULsFvXZiqdiJKJcJe1ArAKXGpm       126    74.6%
+🇩🇪        7  12D3KooWPftMEgmR8YM4o3C43CWDo2gLiJ7UrAHaqKjJ6GEf55zb       123    72.8%
+🇨🇭        8  12D3KooWDGspNUp6X4ML9xzHAkNa71eWCzSnTrbpGxuY4tioXFUf       118    69.8%
+🇳🇱        9  12D3KooWSS5tRDE1YicAaH6bmB1hmy3qA9ShXmjNEXuVNAuti36y       116    68.6%
+🇵🇹       10  12D3KooWKzaLH1Pwk9YbyZb38oKSP4i9vC8pkhc4dRpesGjQht35       115    68.0%
+🇷🇴       10  12D3KooWQD5UBzExm7JLpSXZhbmdpGDEop5pJhkFRSijRJwHQSSm       115    68.0%
+🇫🇷       11  12D3KooWCfGgugaf19urVGgc79Yjoz6FG7GVd9QjutCpCTuCBhmh        96    56.8%
+🇨🇦       12  12D3KooWAsZLH9CLZ1Uwf4NoxrR2ADyqCAodG79vsQuUCgMstekf        95    56.2%
+🇨🇦       12  12D3KooWKCogiyR9sk17Bt2bztasFduVx9eWtiHWA8C954Yb5eAa        95    56.2%
+🇫🇮       13  12D3KooWLJTucziBg5XggVkxq6FGqhpvRSpp3zSD4gRUSzAyUBpt        94    55.6%
+🇨🇦       14  12D3KooWBDbqR4ozcsBNRAdTAgUmgiQSTTghHLGPKSCBjsikuqCh        93    55.0%
+         15  12D3KooWSgjCYi6eU4Jwjj2VWqQa1RTpmpUd42DLJcdMsiHx6QWS        90    53.3%
+🇨🇿       16  12D3KooWJa6Q9J9wKQSSwD7qNdRr25VhLcyywyyqrKmHHXFaGgGu        82    48.5%
+         17  12D3KooWAmDhZtyLNim2G7ttvVKNSfpv6JiBzehQxwj5BVxj1Dcr        76    45.0%
+🇨🇦       17  12D3KooWLFcRGVAAgyh2Ev83NbYeoMoY8xpFuAzA9PUSddyfdg28        76    45.0%
+🇨🇦       18  12D3KooWFwcV9r4PpZhpa6ZyqMar5tvt6gang7Lezu1DPUohmMFx        75    44.4%
+🇨🇦       18  12D3KooWMkv2YPBTkdMhaJq3ZEcG6p8QMRphK7XGErxN2F1xLJyu        75    44.4%
+🇵🇹       19  12D3KooWPM8tKH2j5BwWwx66dzm7LDS3EFsxMfCaZEoQzqp8tWs8        71    42.0%
+🇨🇦       20  12D3KooWEdeKCzDfFg6juQnZZou4CxyH5ewktDy8iSCQZwXNXsxt        56    33.1%
+🇪🇸       21  12D3KooWJPYv9vEmuyFpzTf3rMg3Jmw2iBgdxqHVSLDxxQMAUaPV        54    32.0%
+🇲🇩       21  12D3KooWSfU9TXScN3soGYo8VCtqnWLXz56uFhyWprdbtofNPiiF        54    32.0%
+🇦🇺       22  12D3KooWHjNPjWTDvjXD18DnZZZu2ACbYSpcMMdK4i37dt6mMjqX        52    30.8%
+         23  12D3KooWFn583v4eaz4iyZrs6TG3r76MF1cL4R46DEnhqGN8PHzE        49    29.0%
+         23  12D3KooWPMT8rZHu8oBQMTW5VaWUDp52sBcHXQCLan42zJXZsbs8        49    29.0%
+         23  12D3KooWPz3ecvWEcoZBm7xnP6SfuyqXu1hmNxq6KUzjjCjwtmdd        49    29.0%
+         23  12D3KooWQpDTcd3eLUczQU5AEhuBMV88jrwKkpq61dFMaVJM7Jnk        49    29.0%
+🇨🇦       23  12D3KooWRPHwSyzRcRVwVCJotpFgTjceKr8gqz5H3amq6BaSRw5u        49    29.0%
+         23  12D3KooWS62bJ9GunEovtRxVZf3sudjXhir6s2r6A82fzrwrEpNA        49    29.0%
+🇨🇦       24  12D3KooWR5aqvftycpLuYZswzwDWhTrbA5M7CizXMoaKJxSVoJUs        48    28.4%
+         25  12D3KooWDvn5BjVDph7XVyaoo2reFZFHq7qAUGrKFRV1EPf7Pbya        46    27.2%
+🇨🇦       25  12D3KooWMhCBmbf3tRu5weaFa9Ly7K8HS4hBgNWLGSQonKve87vv        46    27.2%
+🇵🇱       26  12D3KooWBsDmW1YcmcxxLrpaWViGWLshfwtwvD9U3xicWnjSDbak        43    25.4%
+         27  12D3KooWNDrfa8etjXuiGD6AgM7LRrKpnWZPkZbFWwQHPADoe5h8        38    22.5%
+🇨🇿       28  12D3KooWRwvtSB1g43CuqrqQgsHaFMbS25UDxuZnsLFnhbaggy2B        35    20.7%
+🇧🇷       29  12D3KooWGWVtnf1pwzTWWDh5k4rfLaH1boqTXHa7EjMeaupDyn38        33    19.5%
+         30  12D3KooWQbHQGjMhgprsXkFqAHweytM3nq6io76XnyFGFBcsToJQ        28    16.6%
+         31  12D3KooWDeezsovuE7hKyGEks2bA1PyeFtQcDkV4HiUkXTy67r5A        26    15.4%
+🇨🇿       32  12D3KooWJSuaJv2YwuusT6ReSnFiaZSuduKc8h5vFC59hRa6yzZh        25    14.8%
+         33  12D3KooWA7KmdQ4yeJ65GeJUDwh24pyZH5QMuqmvcpFQWfiSfz7y        20    11.8%
+🇬🇭       33  12D3KooWE7YQoiyGMJJWbrKEhptY4tNxtumwwBbmnSbME1eEThw4        20    11.8%
+         33  12D3KooWG96em2m9Mm5hH1qmH6kcrYafUtLWnhZYR5idatmVytyh        20    11.8%
+🇳🇱       34  12D3KooWBfKvi2a8cqQkDy3hz17zNePMoeZeehud85WfjshGsfjx        19    11.2%
+🇳🇱       34  12D3KooWK5PvG9MNB3aegGgyi1ouqp8djUmHspK3dd29heMYjzz6        19    11.2%
+🇨🇨       34  12D3KooWPGvXixqBK3UGdC6Ln6UXDUHAmr7yz7J4v44hoR5R86Ss        19    11.2%
+🇳🇱       35  12D3KooWCsJnip4bDeT7fuqoLbWLCes3XjT4bRT1Te7xbCupTHWt        18    10.7%
+         36  12D3KooWJm6q4nNz54KzjQrVUa4DBjQAnJRfWBJttitQwRRchF87        16     9.5%
+         37  12D3KooWCQf5mm1wBePBDARiRAv8L7WFitxgUDEjFGp6WE4zo83s        13     7.7%
+         38  12D3KooWFMfmTDa8yFtXmFg7E3oocwYT9FUyv4t7gNdo8J61Gxo9         9     5.3%
+🇳🇬       39  12D3KooWGKnB6Z4MJrhSBedLvhNWNhBwtPkTYgnzAurghoeGrQhd         8     4.7%
+         40  12D3KooWDUh5d7TzmYtPmd9L1F8KM7XxwbM23QEd21QpYCzm4Utu         6     3.6%
+         41  12D3KooWA24AxAXxcbHjx4GWZCGbYRYBabUo8trX8RDbXy3AM123         5     3.0%
+🇮🇳       41  12D3KooWJVpVuqhmQtwA9a6UZ1gwsceG6ELt9NL37ZcrrPLjhZMo         5     3.0%
+         42  12D3KooWKEkGkXoqoziPjTSvCRd6pzYT78RquGaNgVey9w5NUfwT         4     2.4%
+🇪🇸       42  12D3KooWNehoiab93UMWrmdeH1A7ipAxFADeamhxgoWZDc7JH2gC         4     2.4%
+🇫🇷       42  12D3KooWPJJCZS7c7vDyQW3bbycvMBwFR4vXLuCUaLKFcJ41TtvL         4     2.4%
+🇧🇬       43  12D3KooWEW8eVy9FfbKEBANEn71CYXbW4ChrUoA58W3nhtZuFiWG         3     1.8%
+         43  12D3KooWPVXh63xnBLSLWWVf2JhEe2SKgVC7zFuqVszd7MVR4WxE         3     1.8%
+         44  12D3KooWAiFmQfvcRDznB6Hsdj8TWS3uKYfNvQN2ctpCzu4fa3cd         2     1.2%
+         44  12D3KooWR8KLkc8hiGVeNyg339iqEcY5JNyeFsSfvsRYXtiRgPWj         2     1.2%
+🇻🇳       44  12D3KooWSDnnxSfMxUeRwxkBYgVwLQpRNKTzt4AduRztTFbwNL1a         2     1.2%
+🇭🇷       44  12D3KooWSjRXNm4Xq8jxUBpUVPbh7gCFccvvhabnmFdavLF7g9PS         2     1.2%
+         44  12D3KooWSnNzrDXudXdJYZXDhyQTypRE7RQpYLq2SguXbUxywUiS         2     1.2%
+         45  12D3KooW9pNmGgbNRFrUWquqwts9iidoW79Av73a7U9Kr49McpNB         1     0.6%
+         45  12D3KooW9q88fx4rusbtzn3NMfiqEAVxzhB7efJhUEixgBRDYhhq         1     0.6%
+         45  12D3KooW9qNoh4HquC3TfoSm4gtZkmbm1ugyibzQynhD4DuBmavn         1     0.6%
+         45  12D3KooW9rPM8W5NoRnJyUkctXpCyGmE7DNvrXWC5aTbL3Y9S3SV         1     0.6%
+         45  12D3KooW9tjGxeX4W941jnfbYfeSHJv1B71B3CtpmQbPtZku4pnc         1     0.6%
+         45  12D3KooW9vTQiFaC9TSLqfncBuB6iLgVZ9QuuAmDa4866btRhwze         1     0.6%
+         45  12D3KooWA2z8TQzQAJCoEVfGfRcyYXe6J6nre8UUJdnm4uJzrMGP         1     0.6%
+         45  12D3KooWA3SFBheSKYZobBVnBi8HNKjk8PSbsxZWwXM1ESBjsPAE         1     0.6%
+         45  12D3KooWA5CNVheWRtqJjimEL2wc4T88SMFNmt6nk3cDbegCaEzz         1     0.6%
+         45  12D3KooWA78Aj4kE6KF8x6WDwhkmCaVCAjZqAVxHS52S1c8fhx4e         1     0.6%
+         45  12D3KooWA7DeRbVginADXKNXS4Hot9jEJghQAXoLxCGDLYbD2HXv         1     0.6%
+         45  12D3KooWA8PUJ5bVWMrPAjLhxi6RctbRxGY66zvcWzG7eapmT7nt         1     0.6%
+         45  12D3KooWABBXuhtcZKYvhCoXQ7TL7bQiS1CzY63JwFHpERyaaTbx         1     0.6%
+         45  12D3KooWAH7mw5VP9SfNeHouotvdFcsEdqEwoPcRu6PsxtV5ooWw         1     0.6%
+         45  12D3KooWAKwuAffUHkAmYLgQghUErXEMiitYEc6ijvjyR2didzRA         1     0.6%
+         45  12D3KooWAL9PxhWfSdd4DnUb87h1UTxWDNxPBYjVS1Z2wdAeCELB         1     0.6%
+         45  12D3KooWANW47quvuBvqY2H8XzbUhNoKrXUTmETeLUPNxiMayva1         1     0.6%
+         45  12D3KooWAPGbmfsfGqL2zyBWCp7QtCPrvJM6JdF9vfY2ocj24hi8         1     0.6%
+         45  12D3KooWAPYpLPwkN8rmW16LhbHDcMpt4yJDpyUYxm5DgHicSzug         1     0.6%
+         45  12D3KooWAStmBXUbtsVkqDKhWW7KoP51rnkXsYr4oGkFNxNLnXaM         1     0.6%
+         45  12D3KooWATQUzsnzGpqkC8xZv5HACYRgWJsxpCH2vsDgN6UeUvcm         1     0.6%
+         45  12D3KooWAU2hxg4URYW8jDnCupN5YKDFAZ8a4bYGQQw3f1ZKmib6         1     0.6%
+         45  12D3KooWAURKDTenQAXgcpJuXwUb6ExwmdJ45E2hTgde3g8tUurv         1     0.6%
+         45  12D3KooWAWoFXzoTk9aaYmAmD3xn1hjh5RPWiu5fEy96nwAP1Kk5         1     0.6%
+         45  12D3KooWAaPERGyd4yBVhdQ9xF9uu25vyQQUm9dfkuscGdoRbwj1         1     0.6%
+         45  12D3KooWAbW1YDCqWDrU2TE5V6yB16xYkhQ4ibqDdUML3GR3wmQs         1     0.6%
+         45  12D3KooWAdvcM5xyDD9iP8i4XUoddfpDD6cHsxNgRZLm7hZkHPoE         1     0.6%
+         45  12D3KooWAj96usTkmzGv6d9VCYNAWMzb6k6QLKGcwqnUQ9mxfFD9         1     0.6%
+         45  12D3KooWAjXCQ5rGjhYP3Nm5eHAy1YN32FiFSfa4MX4VMPjcba5f         1     0.6%
+         45  12D3KooWAkBfmGhVYVLd4kZaiDFZJvFmJfmuZdSonXHs44TuLPxo         1     0.6%
+         45  12D3KooWAmnqDvWLs4xeVkjmGp8dF3eeaRywwWVTsWE3GnA1a48c         1     0.6%
+         45  12D3KooWAnx7MXG4qgQJgygxsvULUhhJMEQVKQgUVYuGnsKXPzPr         1     0.6%
+         45  12D3KooWAoxE5gY3RLdsuhsxu7V6bzBmyg9DVfko7zZbRHU4WNYE         1     0.6%
+         45  12D3KooWAqUESz2GNBZ4VwW9nBjgjV5NtFmbKQVfx1bK9yWWk9ys         1     0.6%
+         45  12D3KooWAt6pyEnjhGKWvLqKSaDo9qDd7bM5vaFtkiUncpd3zDfy         1     0.6%
+         45  12D3KooWAuGzJASqgKBJYBCaWscsuRuAdeNsLK4pBtz6PMYu12h5         1     0.6%
+         45  12D3KooWAvAgynjzLaL6y6MEbPHg4sWyYva5ELFJPaVUyhwQf8aD         1     0.6%
+         45  12D3KooWAvXD4rDGXW8F9NGzY42EP9ZGP3C3newrm14Q4mncq47H         1     0.6%
+         45  12D3KooWAyw2TMx3BUvjsoNvqzJ2u1V9d4BfSLsQ1WmepF6KkEaH         1     0.6%
+         45  12D3KooWAzomoW4savCrZxDtQSjsodM6bJv8T8mdYYBbnfoEJ6G7         1     0.6%
+         45  12D3KooWB2mmnaZr3bEcUHmy2aJm7mNncYvhCwLsFgXcHUscisqJ         1     0.6%
+         45  12D3KooWB3FcRNNkMNcGzEBLU23RabnCp91ZLSJggfbkW7oPr5de         1     0.6%
+         45  12D3KooWB6bCayAMy31Amt8mo9mVbruEv4VHkRMSVKUtezxRHWbZ         1     0.6%
+         45  12D3KooWB7m9FihpNz7xJqRcToUV5UQWihMs4rEkSQnccyeXkwGr         1     0.6%
+         45  12D3KooWB95EQgvAHbHJek9NqXWyuaX8MoAyZGBHaWrpVnYWtDPU         1     0.6%
+         45  12D3KooWBBScgzu9W66fdJjBB3J7QPWKeKtTRxzfqim5SWvsyUGx         1     0.6%
+         45  12D3KooWBH5idxBU68UXpEMpGR5uFAugxnP7NsALnGuKtQKwqb4W         1     0.6%
+         45  12D3KooWBJXogYW9i731d4341BUpDcN5PGmmMr51pXT9LhH6UJ86         1     0.6%
+         45  12D3KooWBJaw4ijNiGLuEAW97CGv88Qnbj1uR5dS6KgWRRBixuUJ         1     0.6%
+         45  12D3KooWBMB6iPLb4MXrwkpdqfYePSzPPhp5cBkrWtG8dY3SwU6s         1     0.6%
+         45  12D3KooWBMNE82QN2e5p369vaADMYcxJajJoisPVngJXnGyWeUUh         1     0.6%
+         45  12D3KooWBP8LhvmMyaEpgitJKGmjt7MEnfhjQiZTXgFpHMSEmoCk         1     0.6%
+         45  12D3KooWBRFJen5MNFTR1qamkHqv5hQKzk8yXxwZNfmthSpRie2N         1     0.6%
+         45  12D3KooWBShv59VHZjBr6m2VLngS2C1TudsUCmdL2BqomPezZ24d         1     0.6%
+         45  12D3KooWBUDLoUSmxDcWehCoAXBmcSdh13LEe1SPunPhddf9LJLV         1     0.6%
+         45  12D3KooWBUTwjjjzLPapec7yjYPchKbvp3dWypDHa7fSa3P2bmoX         1     0.6%
+         45  12D3KooWBVP97CxBp83U5Xi9aVaNByH5Y93VkQXNVPCxC6hQbcCE         1     0.6%
+         45  12D3KooWBWwAE1Uwv6Z4fSZkXm9uTMic7uYfBvE3cmK7HtsAkc3Z         1     0.6%
+         45  12D3KooWBYY6jyfoC7CMHvBiLPsVbusFqkTfpME1SZuX1KHMumup         1     0.6%
+         45  12D3KooWBZtij2notq7YtZqG4Ms3PuuWU3HGq3UAvB6AwmVgqqnh         1     0.6%
+         45  12D3KooWBbcTQMQzwGVM5qTy6EQ7Yk5wgegKseu5nmj7W1uXCF93         1     0.6%
+         45  12D3KooWBbcnWXp6nNwg7ohPtAkUuBC6ueALwza8CcFyz95Xc6J2         1     0.6%
+         45  12D3KooWBfYqJAQR8R5JbcR3qH54VtwbQQBv9q5Bok77eYEMg9se         1     0.6%
+         45  12D3KooWBhmtPaMGVrgCk9Yncf4Ayt7mUdhXXS3tX8ehEz3KpGmp         1     0.6%
+         45  12D3KooWBhnzjgzha11r4epzAryvo5W4m1pfsVkqK8BsFxDT4XHn         1     0.6%
+         45  12D3KooWBjTUpq3wiDYqYdJZWqR5PLwHpscnXptatk3cjpx9ocE8         1     0.6%
+         45  12D3KooWBsBrQQPcM9r7GBEQdAteZG9pgRzFJiYRKh7mX9NpAKJf         1     0.6%
+         45  12D3KooWBt2H7HTwL5Eb2Mds7iq5FBoBWgVQPyBpgSvbUfx5xKLq         1     0.6%
+         45  12D3KooWBtP7yfBH2CBiWkD3HX2jAvBiqi9A84qhbrKGrTVsWse8         1     0.6%
+         45  12D3KooWBvY8dhRBQ22r9XvR5qr69BLqsLBJWXhBEFBhNKJxCC66         1     0.6%
+         45  12D3KooWBxH1oCoNtbf7keA8vFnXrMoTUmESfRtUzRTzGRMALe3s         1     0.6%
+         45  12D3KooWBySVRecH81LjD4Lrwn7fFm4eS4cpkZJhkmrzX6noc6jC         1     0.6%
+         45  12D3KooWBycVx7arU1TVf7cnCrJmfKYBwsrY7AAohbak8vrcxC8n         1     0.6%
+         45  12D3KooWByxHzCXn5g3tcvyQh1hskGxVr8ouzUQJusJvQ84TKvBL         1     0.6%
+         45  12D3KooWBzHK5CCuebS5dEjD5QxGvhLhiKC6V4zSVUkTHzZ89RuC         1     0.6%
+🇨🇿       45  12D3KooWC2qu18TfwqXdbFgYFYvsDNrZ195VWMgW5vap7apHPZd4         1     0.6%
+         45  12D3KooWC4HE7BnYcPudhFVcK8VWtXKjq1ayPXbjkz6YRiyW6KiA         1     0.6%
+         45  12D3KooWC4cST3vi5MXSYnG68tymvq5ugc7aRoffvQXsxV4Frn3M         1     0.6%
+         45  12D3KooWC52TCJnzNDC1tu5SzTCFsBxSPWvdQx2tyG82jPhzE67L         1     0.6%
+         45  12D3KooWC7EPVaC3fNMBk4yHgsFKeTTNg5V6GMzfzRbhM3V9omdF         1     0.6%
+         45  12D3KooWC8RZaemx8RPNW2Mf9mTK9T9R2N4V2gDmbdXYwBoii6Hk         1     0.6%
+         45  12D3KooWC9GWNS9nEuY2gDxkaBC7EU9VVWzRLnzqwxrDXTmHok4o         1     0.6%
+         45  12D3KooWC9PzYsmY1uyiz7A5FWVpcgis31JqrutRFQxQdWjCBCbR         1     0.6%
+         45  12D3KooWC9mm6XwXYKeEeZzRD5LhqCoNxNogaQoAnynUys762qc1         1     0.6%
+         45  12D3KooWCB3JHLSZ1XgFHggsDzxEy94h9J9NXjzkxQPDjNMdBeCe         1     0.6%
+         45  12D3KooWCBUNgxgnSNd5zjVjC28UAM8CTpRRkFuW5FuBfBGrK6Di         1     0.6%
+         45  12D3KooWCFKXP9ASjeMBu2hrPS81rDxLvQWE4y8NKuUk4kioFrU5         1     0.6%
+         45  12D3KooWCJJRHcdwDCmMgZRk6KTSCkM78mZnX9VomSv8hJfH9zSG         1     0.6%
+         45  12D3KooWCKYxFHiCXS2on8TsUqVL29erJAwVieSr5HPN2dAbFDRg         1     0.6%
+         45  12D3KooWCMQ6CHb5Yj3sLmtHdJUNFciR5dEXomMetrosYMCNr411         1     0.6%
+         45  12D3KooWCPYPN6JUQiz9hcx7D8aa3qyosUgYh2zTX8BcYwkDPPPe         1     0.6%
+         45  12D3KooWCPxr9PkhWpqMQqyNHxuHXGNSSrHdzWEZgBd3HKYT2LBV         1     0.6%
+         45  12D3KooWCT6yj2HtTuMry8K2ZEHCjC5E9wRST13ePXgEE2RhYcWT         1     0.6%
+         45  12D3KooWCTu5PjNpaL6zd951tW5ifkXRWL47vGuwWAojscAPA7Bm         1     0.6%
+         45  12D3KooWCWfhBNbssniouQtD53wrbjzepVKprZ1sKPvpz8PngDKe         1     0.6%
+         45  12D3KooWCXP9BgTZUtGwQjkRkHzNkZqXiHygVkYqKFKfBD41tHv8         1     0.6%
+         45  12D3KooWCZUdos9z2RvYPhiPrrNvhpkyWHAAHbyzWirMs5jroANX         1     0.6%
+         45  12D3KooWCbMoeQ9dESJWTs2vjupokdX8xoeztsz6TqXnShBL6xVP         1     0.6%
+         45  12D3KooWCbXLTtxtLrsLYXk4dp8chXLsZvHuvNBcqSkK3S11572N         1     0.6%
+         45  12D3KooWCix6bJjoosAmqRUYH7bjgzszkvTgyG6ovE6KaFRZ3P5w         1     0.6%
+         45  12D3KooWCk1NJKYATc2agho9rF2Bxn2kvg6r9Enx9tD4b6VjyGzi         1     0.6%
+         45  12D3KooWCkfJEoEhVzDYh7EQwq99CwoxA5Sw2Uf5mHp34FcUAbYx         1     0.6%
+         45  12D3KooWCmc4eibmF6ZunLshvnar63o7XHPP1c4GJjQcMwMFXCms         1     0.6%
+         45  12D3KooWCn2G3zrXCrEAPSdakXQcb8AxaJgcRkutnNcbBCBHjaYS         1     0.6%
+         45  12D3KooWCqvQ7Q8GBGNYfuL15NWxXVJ7erf1fVmLJHET8Rb9FszZ         1     0.6%
+         45  12D3KooWCr2ndxcPzJdcbpkmRJmmVAYALWJ1d1Gz3WZoY7nBYgKz         1     0.6%
+         45  12D3KooWCuS5tFW2s3p3GTCDCpYDZyARtKX5FWWfpdVonbzHSqEJ         1     0.6%
+         45  12D3KooWCvi1y2E2rMfmtBXUx4WKNT5B8R1NWK2jd93mCongSnmx         1     0.6%
+         45  12D3KooWCxJZMf5S6bXa4nUeve3iMHTmDVrffpyJ92GC83VrLrU2         1     0.6%
+         45  12D3KooWCxe56i6H7STk6GK6zCciTHeoHq9vDVU4h1RKhDxDZwDr         1     0.6%
+         45  12D3KooWD3tk8ZQ6dSgyoeXDcp1nEVu8BARUbti2bfRhKL1w5pki         1     0.6%
+         45  12D3KooWD5XzVhWTYBb1wrGaqYSpvq36oSguvVQsJKbfiKm1HmGa         1     0.6%
+         45  12D3KooWD9fZKcHtkaBp35pfRQUyuksWjNNj7rMz5AWL2PbH4dxF         1     0.6%
+         45  12D3KooWDB3yRnmd8cjaseRcsCUjgFShnK6xdUKNf8TXP5gJrXk6         1     0.6%
+         45  12D3KooWDFVGZEqTVdQkJFgWTVPMBj9kdq9jUhsfLtKxPTF3nxtb         1     0.6%
+         45  12D3KooWDH1Lhha8imzxEtxtWpifneu5zgHepfJGB9rDQKYYiAhy         1     0.6%
+         45  12D3KooWDHDfrB7jCnSfcLeYsn43p2tkS9g94u1ZnS2iJM2iuCeA         1     0.6%
+         45  12D3KooWDJ4iK5qG9DdfSGSqZBxHDZWd6DApSBst2DrpCZj8PC9h         1     0.6%
+         45  12D3KooWDMnGg3zzPNptqWG8hdPdxoVGpkxEMDz4q3ntpmkRKxiy         1     0.6%
+         45  12D3KooWDNfK5XBXu9qgSAFLBLkZxL4Xz5AnWwKA54ZVarmxGcsy         1     0.6%
+         45  12D3KooWDNfdE389vj3J8sPoze8HaTa2MYhw3B8pWXaf4WDGMHL9         1     0.6%
+         45  12D3KooWDPqFSmVAmeq55V9t9xvCe6Sh7LE2zh8AUZLHg9wMKPrP         1     0.6%
+         45  12D3KooWDQBN29mr15aJApYUiEY7nZLoaCMUK6t4YQhpYb1o8HbB         1     0.6%
+         45  12D3KooWDSQKQFubwktQXmcdMdEG434KTrfmx7w59N4eCRg5eoNL         1     0.6%
+         45  12D3KooWDXYBXCirTQ7xEDrjrse8iXbK62me6WakimtCqHPVHNWp         1     0.6%
+         45  12D3KooWDY7w1Vq17oLTLbXomCuRiqb8BRTKXcSapzNZgmZ5mcYY         1     0.6%
+🇨🇦       45  12D3KooWDa5QijnzZa3hpXPExKJLE2cJrNKAjfXkv6fn3MsjNUq8         1     0.6%
+         45  12D3KooWDo7c4UCSs9MLQKay4sZCnE9VZoEaf3yKE73Aktn2YdSC         1     0.6%
+         45  12D3KooWDoRoM8riaXUNQ3fZE5Zd2aw5UhGgDxbCwvH7hovhZ4TJ         1     0.6%
+         45  12D3KooWDoX2WT4HDdUQu5Nr6ZCKjnWozUxTJXZUxuvRdMc2FhgR         1     0.6%
+         45  12D3KooWDuSSmbPwxTaX2EqFsxNyzXfpo8xSnkhgjC2x8hHtn7zx         1     0.6%
+         45  12D3KooWDvqfcVyfox2sExoKDnVp6x5u4qh1AjjC7m1bcgwRo56P         1     0.6%
+         45  12D3KooWDw3jK5ic62ZFaZ8tYebTvXvzEAtpMVqP9xLnvDPu5Dyv         1     0.6%
+         45  12D3KooWDxyMEtZiSwrFaEdT9NB6FmtxHbhXD2h8J3V2sJrd1z7k         1     0.6%
+         45  12D3KooWDy48xw9qMGQnr5oDcMiLMbMeQRyovJ4S5d3w3tN6vBXY         1     0.6%
+         45  12D3KooWDyeodQtFRUYuQyb6ezoWQwWgT5dsVfbQEuwrj19KJ7Sr         1     0.6%
+         45  12D3KooWE1bv8UzHjHrzRZeptpZnbi2zUZsHX3UTWbQ42jAC65RB         1     0.6%
+         45  12D3KooWE1txVsZ1VhafyhwjaweZW5MQDjG6f3pf9pK9cSyNEkbg         1     0.6%
+         45  12D3KooWE4eSrxJ6DYF5kjSx7mEqb6Hsij1Sdr8DZCoaNEGDZXP2         1     0.6%
+         45  12D3KooWE98ZR8EQRfbbA25f6yfR83cYMTK9yEd2V7nHn2sYDyKr         1     0.6%
+         45  12D3KooWEDxBAnPQdxPezeaMKJYXsiYDrr3Ea8jfQWSWYFGxoLXR         1     0.6%
+         45  12D3KooWEE8Ag2KNEsSC4pTo3bSfaRh2EiBSQQh56frn74Vi5XAf         1     0.6%
+         45  12D3KooWEEPW9uDrkpbGJRkB3hkKZJRWmpDQhL7PYhAycHH3tPPq         1     0.6%
+         45  12D3KooWEJMjcc45jFKtLm9ApFm9b6DLP9D9xvNVQ2HsgxKtwphg         1     0.6%
+         45  12D3KooWEJwQWbxpifBszSG3ZPYeGNxC5CaZeUapsfceen3mXaFD         1     0.6%
+         45  12D3KooWEJz3ANqDBmY5yCbbcmQbCoBvsdxAeB2svEorLbr6ofMy         1     0.6%
+         45  12D3KooWEKSmJBqzwHXaCthQusEPxW6WxhL99NKWbaNg9DgHz27k         1     0.6%
+         45  12D3KooWELRGXHUGnhoXuDSCuYVN8G6yw7HDkiD5kbTcnqkKYQQR         1     0.6%
+         45  12D3KooWEM8dAfmC82bcNd9YEmKZFFZ6atBqQ9kaTyjB9cmwWQF7         1     0.6%
+         45  12D3KooWEMBxaemyDyqhq7zf5c3dRL3WbR36xigbedDZvM3xzF8X         1     0.6%
+         45  12D3KooWENsvwEjfX36jGAHjyFrz6VXEtVkxpPxmaJHKj5sL7hBn         1     0.6%
+         45  12D3KooWEQSQBVjn3TSi8r5e42XkEb1mvyuK2dAzJBbjhHpJkw5X         1     0.6%
+         45  12D3KooWERyBhKMrBrAbDPj3sqZ8HxgJQU7MgvGV1n3XrAoVW2sH         1     0.6%
+         45  12D3KooWES8Z4NCa2hLfqRU9R4y3SpFhQVfevHoee2kv1NrhvUUV         1     0.6%
+         45  12D3KooWESzBaRqiuVdZb2nhkmpno1B8jXXyVXtxA8r3vp1zPpcW         1     0.6%
+         45  12D3KooWEXzVWYvTit8ac6JzAg7GT1Krc9Xsr4tk34Y7CnHA6hPr         1     0.6%
+         45  12D3KooWEYBLehBF17MEPzzmC6EgcmGCVTmrrdyqkSkisQap8aN4         1     0.6%
+         45  12D3KooWEYScr3TJGRsHYdp6pDnGrKioZ2GgmKgs1DUpWSgQJDtB         1     0.6%
+         45  12D3KooWEYeK3z5bnocja8mqmppVvG8w7wrDEUPjkst3sByDXDyX         1     0.6%
+         45  12D3KooWEdaEy26drRnX9Je6ufMjLNwQuJQee8emxMFujqFbX7Qi         1     0.6%
+         45  12D3KooWEdyucy5CH5TTTjyT5E6voWEhpRAz6kTjWqF6n8prNghG         1     0.6%
+         45  12D3KooWEf3T68F4fJpKtpx7UJtJE3tZ58wjSNsTndSdX3mxvRy3         1     0.6%
+         45  12D3KooWEqbhZ2NqHYxUBZDDh4e16TW6wLEQZvq4R58AJWNm4LMY         1     0.6%
+         45  12D3KooWEtp2gsrqytCGxSr6ZV2qu1yMnhodSTVnUE6LQb8jZ7Sa         1     0.6%
+         45  12D3KooWF4kHrH5TG1HrgDzQHGkLGH4Ks7cXKMuXvnSAQM2ibVyg         1     0.6%
+         45  12D3KooWF5Tp5YKEyyTb8azQ7LSNAZQ4arCMMRTgpXGXvgScZEvm         1     0.6%
+         45  12D3KooWF5geMKjDsMvfdNzoppdknYdwLcW9pScqaGahvt9kkgyj         1     0.6%
+         45  12D3KooWF7CM7gSRtLkyHnEGZZw3sB67uQr4HqCbbDeDxpwPpwMS         1     0.6%
+         45  12D3KooWF9hWnxgVryjN8R2Ex7VjPDFq7irHkyWj4CDCRwoBnqWp         1     0.6%
+         45  12D3KooWFCTFk3cjGY2BPQG3cjWkB1nyre1hY15N7U9d2m5vZoCE         1     0.6%
+         45  12D3KooWFCsvBjTjJxSnE1detwctTTYVhYcCEFrevKPzrprPDGq3         1     0.6%
+         45  12D3KooWFDfiUyWEu9VZk3rjTjmhvgtG6yZxzy7z5q3snx51dW8s         1     0.6%
+         45  12D3KooWFFwywhdZfUyeEepPrTJDUYeQKX7hSe3WxspkbkJ68fQF         1     0.6%
+         45  12D3KooWFG3U8BUd4kiXp3qUpR66UeXdx3VVFnn8H1kF45b8gAZc         1     0.6%
+         45  12D3KooWFJvo5We6t9WhXwK9evGq74cLVRrUZqFtMJ2rT4HXS2Sx         1     0.6%
+         45  12D3KooWFKMhNSFycvniSM4B7XAz1B1LRcPBQySRXwzsJds89ifE         1     0.6%
+         45  12D3KooWFL6ajJsxqxf7ZibXbJvC5GrqLRE4xHycG3jiSy23Pu8b         1     0.6%
+         45  12D3KooWFNRSpYgMRV8mxcdv8FtFf9mTZeRZ9ainPaHqMharPYXX         1     0.6%
+         45  12D3KooWFP5CP16nT2UAtCTiECJQP5gndjeRrfuTRj25gLMaS88L         1     0.6%
+         45  12D3KooWFQgCiqGcPSy9tCdxa4j8zqyRkGpDbc2iHukxDytNXy8W         1     0.6%
+         45  12D3KooWFSJ7ZAyMSCksxWmYmoeTp1og2bhrKFXbFxFne7JKFBzv         1     0.6%
+         45  12D3KooWFST6YVC3rhKeTxQj1Eap5W9LXr11Ux7NhjUvZPWuyUsp         1     0.6%
+         45  12D3KooWFTRfNYtSS2ZyEF4cGEifEvCZ1ZGoG8VmTSiwGLk5hYFG         1     0.6%
+         45  12D3KooWFTXpj7Jszvdtib2dUrtMJCM82vJsC3VkVyrUk8PnpPja         1     0.6%
+         45  12D3KooWFTikNYRD4QZ7qA5vdm5qg89pokFrZ2nGog5YyhrAU3Vf         1     0.6%
+         45  12D3KooWFUuzz8CPpzXVNP14E6NeEUkjThWg7XSvmcgXkqLE3dUg         1     0.6%
+         45  12D3KooWFZL7i9DeJB1a5656pAQH9s3V6js5k5Wa3jV3aHjtuBQN         1     0.6%
+         45  12D3KooWFb395nM6qwC2dsNy2WGnc13bRfAN6X5wxTrnQ2r31XY1         1     0.6%
+         45  12D3KooWFcSMqk9ycNe6rd6wVep6KzLRZQeXTZkpDX5CAxii4rqs         1     0.6%
+         45  12D3KooWFeYCxRdTqhDW6gKSCqdBUyPogsJiPCZMnZohg5Pqieni         1     0.6%
+         45  12D3KooWFfRgcKaZENXeybmcvUqPxrSRxLHJytXgUkFjieF6AYa7         1     0.6%
+         45  12D3KooWFg5FmMoKwnisBUiCA69RyPn6dB7fDGvdooX2LSwENYAg         1     0.6%
+         45  12D3KooWFj8e6g1zTc11ipxXELwmxMe3fnnxmdoehQKHb7dEvbwS         1     0.6%
+         45  12D3KooWFjEz5h1N36zvZAvxWzDXZqyVhysRV42v1kEbRqbHX5i4         1     0.6%
+         45  12D3KooWFkWLK6wGzwkDCLKDmJtQyKbjK5bjJpRQanqKahviVdD2         1     0.6%
+         45  12D3KooWFqm5XzKrbspGntrhEtaW6fN4vh4B2vDPDRtCuLFn2bTP         1     0.6%
+         45  12D3KooWFrLrMZgiLnPKAX1vNnmkVn8RsYXpjSm5Mbf442EefMit         1     0.6%
+         45  12D3KooWFsGwC9KH96HitXj5PXMd7T3eJXfBNhayJUgoNsw5YEu5         1     0.6%
+         45  12D3KooWFtLS1EmGySu4qJuVDjDqTF6BPRYuUxwp7jq3nHByVAbG         1     0.6%
+         45  12D3KooWFtsk6ZBjfFyryeoea8q3g1jf2DPSYqJtZnbQMBBxcriq         1     0.6%
+         45  12D3KooWFwMRfvyY8UsgbEaN1jTCvb1PnBuTSAR811jMKsk5WnfG         1     0.6%
+         45  12D3KooWG2dq17suETwiWogKbNg3cTDVkxANEhgWsML2yFTt9sqa         1     0.6%
+         45  12D3KooWG4fvmvKVggJenpVvYx1eNybBXyMA4sZqUR61rRB6pDhi         1     0.6%
+         45  12D3KooWG5NPNYTRVjRdRnKfunXtY41eiroLQ65L9iLVhi4zva4x         1     0.6%
+         45  12D3KooWG7iEJm2niaxjrbCXbC5Pt2hRtPoz1Jr8DMB33LXGoeDj         1     0.6%
+         45  12D3KooWGCV8BJ11g2PHepAuwcGd4daGxfULgdwra9QnnvyrfDcU         1     0.6%
+         45  12D3KooWGEVo9vuPdGyy2o7zshrYMbR7ZKcy5owqabrhF3usY824         1     0.6%
+         45  12D3KooWGGSQnZg5Ka6czZsk3pYzbw6W69Ee2qYvP6by91iQerfw         1     0.6%
+         45  12D3KooWGLqUievqUqCJZRUW1Y9yn7vcPxPQFcZogPSHRMvSnWoY         1     0.6%
+         45  12D3KooWGLy873dzYtKKKNNWQgskNkdWtzeKPnwF2ZWociPQL4aJ         1     0.6%
+         45  12D3KooWGMyQjcrUYFEvaBSoPTc85ohJ5JctpxMzKvaSEaHVZqt4         1     0.6%
+         45  12D3KooWGQdzaHA9Zr6TAYFKTpVvX87x9ANyXxwuDqbPm8xNtUWh         1     0.6%
+         45  12D3KooWGRmdyc7mDJ3ghZZMiUrTKXk1HwXiJKiobG49aP9xcdhP         1     0.6%
+         45  12D3KooWGS5gicfDVUGuUyQZKaQDzBxw7tv7NF6jKJcBn6WUwoAv         1     0.6%
+         45  12D3KooWGTG9DsdiFZUvQcsjQyemw8uNSnYav8tp6ApCYBiDgFMV         1     0.6%
+         45  12D3KooWGV94UAYad8vfGXnyKGCKDhBjn47rV48bRH5ymaqKMaEf         1     0.6%
+         45  12D3KooWGWWMqbiEU4SLVprgys5Z8RnJ5hyMauhysmQdfs6H9but         1     0.6%
+         45  12D3KooWGXRXSvPqHYyfYygysvuUrFBfxfVvSghKxA5LG1Cp7jmk         1     0.6%
+         45  12D3KooWGYfpsSJoykJmpNNVVAWkeRoCqLHFKmADXnhQyVvwYWaX         1     0.6%
+         45  12D3KooWGYn4bL9b3K7LGTPiJXsiH183sbmspG6WBeeLBkfnDf2X         1     0.6%
+         45  12D3KooWGcXHdJLw18fdHVBjcHvWXbSVQ2QezUsZEph53eKj3KuG         1     0.6%
+         45  12D3KooWGcYVmNaDNJfYVUnDY1rEdzxC7NjpB18BSbkPtyLUAN2h         1     0.6%
+         45  12D3KooWGewJ9aJxwBAB2nspoKeQc6L7MM3CxF74pN2ANxX9nQuJ         1     0.6%
+         45  12D3KooWGkMMBVEsBhX5CkREEigR8mphha1tBqgwkXxzREAEKrph         1     0.6%
+         45  12D3KooWGo8cQhbLMtJJiEVVvriJ2xceoBmjcAN4NFGorxCTuLSQ         1     0.6%
+         45  12D3KooWGocRKjrR4vbKQ6S9LNKEn7fx4bwjLsmcEoSxC6znSskL         1     0.6%
+         45  12D3KooWGpGyVtaLnQJ4DWnFbHDrJxTVtNbR37KNqAGMGHp7Kk56         1     0.6%
+         45  12D3KooWGpYFAVoLuYUeUy5ah3bVCP1CnWRxuDEMu4EsLazCsrd8         1     0.6%
+         45  12D3KooWGpZiL69rb3CpJ1Cj9p5WyNJdqzwHHbygvXe3bdsLJqxo         1     0.6%
+         45  12D3KooWGpd1169yfiPP4wwarRxoZp4YeRgGmNneTrmBfJvnseoQ         1     0.6%
+         45  12D3KooWGponxcyvigyLEu1D8dSyhbWokck1HUHCgttixX5hCq4g         1     0.6%
+         45  12D3KooWGqz1LEeNXjE9ekHZcf86FuNQzN1ZE8jBS1pzfAE6Abxz         1     0.6%
+         45  12D3KooWGstYcNq491MmofGnvZcP54ZY77P5neA84FdfTnVXR2C1         1     0.6%
+         45  12D3KooWGvmQ2qfeGwtxgyv6yqbwQ6hG4wHJqFAKCc2LBwaKP2cv         1     0.6%
+         45  12D3KooWGyGsMgMbADSLtTs8MJsYDyCXnaFgHcKnP1LV7kmsbsSv         1     0.6%
+         45  12D3KooWGz26RSpLH686f3rCF55tEHjqUQA8N6tH8vyy3h8xEUSX         1     0.6%
+         45  12D3KooWH7BLRuZWAcbvNuEGXnYjH8hbCs24An284ntRewkcpiY3         1     0.6%
+         45  12D3KooWH8x2oRp2B4sU8EN5tzcQR9VRfTjefixTuUCRLNqWM18y         1     0.6%
+         45  12D3KooWHHMUs7oK4xJQaiASQzw6cHT3SbqUA9zAdomjnDFGGnsB         1     0.6%
+         45  12D3KooWHL2Hh4ZZhUbFdeYUTaMhJExEeQ6Ggv4sdczb3DNbNMQ9         1     0.6%
+         45  12D3KooWHNaf6rfZcsVzJnqksvHkTSMubY7KpQd1KDKyMhyysvUd         1     0.6%
+         45  12D3KooWHPBCdVFTMq6LNwXWhBMvLnUtC9uwbmm9jcGivMcUD7r1         1     0.6%
+         45  12D3KooWHPtmzZaUgmerM2bcJDQk1ABH84syjvX4pdRfKGRRxogT         1     0.6%
+         45  12D3KooWHQ2AoQJ68CYXNKjAWuHECcCGHTUCsGBCK84iQgurn5CV         1     0.6%
+         45  12D3KooWHSxxtvefrihn12T85ZFA2oCoxKBEhwcVEYoHdjSpuevT         1     0.6%
+         45  12D3KooWHW96nmbo83BCYvBYSTdFV8QB5C3rRVHSMCQGfF3SMG6s         1     0.6%
+         45  12D3KooWHXWHPri86C6RKCwgVpGEi5SPp2bthvxMNkxBzxF2rVm7         1     0.6%
+         45  12D3KooWHXyUnjefQ1oKD6N1862qBmWtcgNmTqSVC3Bpg4Z5YtGi         1     0.6%
+         45  12D3KooWHYAH3MsjNQavHuoQLZkG8tTtdx1QiK9Q6AwsMveToSU1         1     0.6%
+         45  12D3KooWHYrDT3TK2aMdGBBigLUQDxXSdmEVFDt1utBMmkye8smP         1     0.6%
+         45  12D3KooWHidtFaEbvNdAvorvomqqD21kjdHksuXU812tzekL4VWV         1     0.6%
+         45  12D3KooWHijx9NWDJ2jcbefqFX1NHTejxJ1JpXdBkRtQrbEA3b87         1     0.6%
+         45  12D3KooWHkSKYtH6oMKe8U4Nxs7nxoJo6rugs6gTVsgGT1RiQ9cN         1     0.6%
+         45  12D3KooWHnPKstMDnmtRk5PoP8dkWSiFVMLArqjsgJAAqAFY4BSQ         1     0.6%
+         45  12D3KooWHnpkjQu7d1TvsvJBMMQaREa8qxjZYSpXgK1C4gnmZzcj         1     0.6%
+         45  12D3KooWHoFEu6pAYF8BwFQnE9wsuf8dNw5UVAdx8EwmbxDBsA4K         1     0.6%
+         45  12D3KooWHqUYZY61QZgu1DwpJ5RUnVkH1e8g45R4jFrQp7xbxYdw         1     0.6%
+         45  12D3KooWHrDDpLevBsvXYtT91M9wne8gKjXTX18YVpyQ3GgGg8XX         1     0.6%
+         45  12D3KooWHskdzmj2zM7kK43DRcfBxt3M4hGsBLxpJRkdxEh892oV         1     0.6%
+         45  12D3KooWHxGmW9Sv4GdM5TVovnXvkEEKWT15Xsh3bKiyQDHTygKR         1     0.6%
+         45  12D3KooWHy2iJCE7ArFnJU7iwVQqgC9hqt2kKzyACdZeXsosGhXh         1     0.6%
+         45  12D3KooWHy7bSnWYTQ2Nk2nruuifuYDgStMpdLKsMiMjTjpq3QQQ         1     0.6%
+         45  12D3KooWJ6HAMCGv35efpPAybGPe6mYcSVMTZCF6YUgqSnjJH8vt         1     0.6%
+         45  12D3KooWJ6Lqqm4pUxMy59wrAVsBGcnBKm6Qd7a9C76abfA42XZb         1     0.6%
+         45  12D3KooWJ6NCyXNGEGaXYcueXuiQfWusfaeRdG9HwUzWBEtEtwbg         1     0.6%
+         45  12D3KooWJBr4xxKAwB6EFSadehukuLhjtkuhw8wmxJDKRW8YAsSN         1     0.6%
+         45  12D3KooWJBrUcSVhsC4z25hx4Nk4h8dR6KQ6WtMnBZZtWdFRfQtG         1     0.6%
+         45  12D3KooWJGFfjK5UPZkFGXjdHcB5fPwgpSAV3nUzYxCJtwfvNn6n         1     0.6%
+         45  12D3KooWJKGfLQB6y9GGPdFUX14gQrg4KjuPgk4H5wbczk9aD5gC         1     0.6%
+         45  12D3KooWJPXEF9KiVgwoWeQGiN8F1YRqULRbsGSi5XjW4P2fifRk         1     0.6%
+         45  12D3KooWJQdNQ9Rs8aMGrVHU3KsStdpV4y1dkydb9tnAjcrQy4Fi         1     0.6%
+         45  12D3KooWJUCNM86mUSyK18qUr3cdv1x5D84ZHCXB4oMAYt1CKxfM         1     0.6%
+         45  12D3KooWJUfu6XNrU3xsXLBTUbZzoszzaeLbGxSGKWNrMCoKC7Av         1     0.6%
+         45  12D3KooWJV7kP4LKCAtgGQ9Yj1SY5D9Ki5AiH96JDP2m7136Xtfr         1     0.6%
+         45  12D3KooWJVEJQ2GWmFmQ2vdua6T9Ltj1E691CPgsPtdf8Txa7JGP         1     0.6%
+         45  12D3KooWJWGMVksqwNuUmVd3ffTGvrgsCFdh6TjghqSXbm59rGK1         1     0.6%
+         45  12D3KooWJWsnqAvrYveKK8StSs9qwaSMkearmSjYjVQ1TbCTCqLC         1     0.6%
+         45  12D3KooWJbkfn2nL4U1jZLAui4YvKFJP5LtYHGp7WYtX8oXQLceZ         1     0.6%
+         45  12D3KooWJeDEKsq3RM8rnUoS1XYn22fbBYuZ4KxdFPaRbHvAScfu         1     0.6%
+         45  12D3KooWJhVBjtrCo3XKbUM4v3MUtvWKt8afkhhFBB6HdZSyYD1z         1     0.6%
+         45  12D3KooWJkfUGRRuuQQEq9VBPcSeqAcd9LuTzgRtNcPDRoGNSavQ         1     0.6%
+         45  12D3KooWJmbu3qJGkh89oxzLHq8WiHT9EuxsSppCcM7E9Fs7ZiMz         1     0.6%
+         45  12D3KooWJn5pgvMawtbEtgvm6ugMViDoXuSt2xPLBrt9HAJEF4aV         1     0.6%
+         45  12D3KooWJrRiwvBCQ26e7VAVMa97kEqaFkjXUDJ5d4d9T9Anr7fP         1     0.6%
+         45  12D3KooWJsjVzHLR1XbiHssm4N39wB7LijsFZsNnTtiY6FdcPheb         1     0.6%
+         45  12D3KooWJtBrerw13rck1X9Q9ufthMZaCmQY7c54JU5JKS2EvEpk         1     0.6%
+         45  12D3KooWJueHC1k2fdqxvtNoGoBaHP8nwS8bbNskWnyPwFt8GREx         1     0.6%
+         45  12D3KooWJutiSMSkkLEzr1vknMaZDFRPKqwLu1uwDhRNLgv7PGRG         1     0.6%
+         45  12D3KooWJv88ADp9PcdgDvApwpN8WHAjmay9z3WJy1zBSLDJdSkR         1     0.6%
+         45  12D3KooWJwLDQrXU7cHe2VSdk2ZE75k6xwZmKqe7YbE3UN9L6MKj         1     0.6%
+         45  12D3KooWJwPF7YmGDCGb4qGAoKgh2kAHRuoKtPjwwYJbWcybCL7K         1     0.6%
+         45  12D3KooWJwQGUNhWe6ewhfMg7pXjD1sXbCz2dF1Re4fbGgKUiMAL         1     0.6%
+         45  12D3KooWK4TNYva45V6mH9KtRURxGumBxJYY1p7Bt9b7uos3ZB8Q         1     0.6%
+         45  12D3KooWK4c68mdDzpbteLnJ1bk8ecbEC6tEojkxuqFNo5PSgGDF         1     0.6%
+         45  12D3KooWK6xXD4cKonKQtwEQJKWRG6ic1F7FUJvh3t7nkHGGzFLp         1     0.6%
+         45  12D3KooWK74UmBZkrQNtw6WuiXiLzyLuKnj9H7uoVLsiqg4kkwCr         1     0.6%
+         45  12D3KooWK7szxsuMqRfx5V2z6FowYs53JFSpHDWNskHkpUb7fRvw         1     0.6%
+         45  12D3KooWK8JAQnynekSNbEgjk3uzjFFNUy8zjbvtomsMP6F4PraL         1     0.6%
+         45  12D3KooWK9qvkcpifvDjyRVvo7pJuySzDaJwvuWfpGGoZ9CRnJcc         1     0.6%
+         45  12D3KooWKASebTR1wAY94bGkNk4etghu6yfgmCkEQhp6r6jAcXGM         1     0.6%
+         45  12D3KooWKErL3XFG37hRWRZ8m5Sy4jh1engMToxtQAHszs1xM8K2         1     0.6%
+         45  12D3KooWKFbjCbhigwB5ScLehuqqdiwNyTAywEDaUhJkWuXd3iAc         1     0.6%
+         45  12D3KooWKGaoNuSmHdqCt9b4hsB8etarzHPsbWoek4Yhak1tVL9i         1     0.6%
+         45  12D3KooWKJbBczq57dGvWprherYG8Df9L37f7DeNXjyWcEb98jEW         1     0.6%
+         45  12D3KooWKKeb8z9Dqbf8DQbGN5ft3aQ6yxu2qNLPYYkp58rDk5R1         1     0.6%
+         45  12D3KooWKKzL4vzhKUvzn1PmNr5XZQiX1Vqerqz8xnCx6UmKHpMt         1     0.6%
+         45  12D3KooWKMMWpAxPxZoPrfDh7FA85SSLqUEWMckJtRnvLshk3iCM         1     0.6%
+         45  12D3KooWKRYVyWcA3kQ7zwkCWibwuzMXafr7otF7E2ZB99CQhuaL         1     0.6%
+         45  12D3KooWKSiMhCSSE6De7oA14MCuZ3BYh5QUjqi8nkxAkWSXmoeK         1     0.6%
+         45  12D3KooWKUwzNZBwEqT3Aj9373SVyM4s8Css3damYXxjTpx378fq         1     0.6%
+         45  12D3KooWKWwwcyojedzDFAUuGZVQjr9D33FDfusXSZ6HQ3U6goi2         1     0.6%
+         45  12D3KooWKXoomjccuPAurwP4VN6zdwAhXck5LS2S1smBf1TSumV3         1     0.6%
+         45  12D3KooWKdHmiWd4azp622TE4dBHGqr8FbyGKpePNgdGqqoCfyVu         1     0.6%
+         45  12D3KooWKdoYd42CuJGgjnLPVpPueWhuQEPpuamBy1J6gi4Bgpqj         1     0.6%
+         45  12D3KooWKezPFwapG6aQj9MqGtUdmB9PDb5KUavFPCfRtAu7sHkR         1     0.6%
+         45  12D3KooWKfppWJMEEsy35zRfV847xVw9RGUMezybEgGr9h5UU5cK         1     0.6%
+         45  12D3KooWKhEdF9vqpXoD4QrFQvb4Vm42Lg5BpJxWfbV59UD8JBs2         1     0.6%
+         45  12D3KooWKpUYWFT82TVyRCeQYQh5fpSP1xeAWdpQ5XoJZ42SHKDq         1     0.6%
+         45  12D3KooWKq1cHwxCMCnkDZcRDFB3EXL8jrM1SG3tNNFx7fLyXjVN         1     0.6%
+         45  12D3KooWKr7KQg495tCXeP9HgZFAcYSjA1QKRNHpbqpzA1QNsuku         1     0.6%
+         45  12D3KooWKs7oJntLvSbMerK1HUgWLvJfhmbBK4XavyLLkg7RUK27         1     0.6%
+         45  12D3KooWKtySQY9JSiTWtq2GqaELuzdVuzckH2GZPRUXvRnejXJX         1     0.6%
+         45  12D3KooWKwfoYgSdpFqnuxVsuKaVT438khpBh6McFryieRLingab         1     0.6%
+         45  12D3KooWKxFZkoV9PD1Fi6V3X81j31qqhNogNesdDB3GD43mauiw         1     0.6%
+         45  12D3KooWKynHNcWFhjRq3dyS5kNPRKwVymZwq6SkfKwGYUZPs7M3         1     0.6%
+         45  12D3KooWKzF1nrwMumsGrXQyUUQWv2U6vKtiQTDgtJK4cQMurGTD         1     0.6%
+         45  12D3KooWKzHqs1BDggfqPTWjST7urZfgvRXKYqrdRWP7fgDMzRaY         1     0.6%
+         45  12D3KooWL6sRWoKx1xbfRviNWjRAXWWTXuniRsXnD6CN8k4Z2HcC         1     0.6%
+         45  12D3KooWL7TYvrSpkggawjp2ecRb6KMezeC39pV6KPp9GjsaNKqV         1     0.6%
+         45  12D3KooWL7r1tWM1QuM5G2SscEUQiQtUd48DRDsqTYpehGXByaWS         1     0.6%
+         45  12D3KooWL7zJrDiSedkAPAUk7Mm27Qj67NWJMwhnSrQ7t2Np8chD         1     0.6%
+         45  12D3KooWL8mqt1WexEUR4FCHD2nvgRT5c6Jn2cAYVhg5JJqCimpe         1     0.6%
+         45  12D3KooWL9BAGV34tXWarmfKYgnZ4SVT756xQGWKVWbwuPvadMqj         1     0.6%
+         45  12D3KooWLAiihdDMV6aebFoEiP6BDWjUk2gw2L4WV82k7bPw4TX5         1     0.6%
+         45  12D3KooWLB2N4YfoayQQtjwWktbFkzW4TdfcuAsdSN4DGMwV3jjU         1     0.6%
+         45  12D3KooWLDWKtANJQ8EqVVYj5PUR7SiqjX6zdDoKeKs5ApHXCUBW         1     0.6%
+         45  12D3KooWLKBPwmSnoLFtpyQ4h4paPUh2bGgRKGYqsYiYS1s8nBzF         1     0.6%
+         45  12D3KooWLLGpcCYtdwCNv9wLusAoLFDcDA8Zu5Y77HM5PrqZqZDL         1     0.6%
+         45  12D3KooWLLTBuyPFgFTBtRWXCyjy2XCrXnaExeDeEU6o2RcMPYiA         1     0.6%
+         45  12D3KooWLN25E1BQ4wjznyAnbdKzXjAH85Xo1T57LmiZkjR1HsNL         1     0.6%
+         45  12D3KooWLNNc2Ss9oz9AFYVTK3vXYjcnichFAoo4Yic5SXCTqUTr         1     0.6%
+         45  12D3KooWLRgh9LnBGqdHzZgkep2uDGK5JNiLvXbyjNJ4JiD7tZza         1     0.6%
+         45  12D3KooWLTF7zhZctUyC4EhYHk4vjmrmEpXamF63HRFcu7MigDQL         1     0.6%
+         45  12D3KooWLVHJV7zmqiqcoNABk6i6xx56u1LnGXmbmqpx3QjQdFA3         1     0.6%
+         45  12D3KooWLWTS9h6uPdJfwQ7svsnUSnPzckvtaC7TsJHP1r6fRfuv         1     0.6%
+         45  12D3KooWLX2Kjp5jddgYawp8ytCVEKw5bvC5aDAjNNj2isNpeudu         1     0.6%
+         45  12D3KooWLXKQcNH3FVc42iCg3fufzdfkd7s1E1EoKBgZZEDKLhVG         1     0.6%
+         45  12D3KooWLXNTGQX7kf5h8ke1ehp2N4U58uvJZHcZXiRjgFWryBoq         1     0.6%
+         45  12D3KooWLfRaiza7VzK1gbP4eek6Wg9tkf5n2jLX9gdmbh9KhmR7         1     0.6%
+         45  12D3KooWLfVGZs9pWfJEatEm65CG8h8XdA7vgXsLTUG8cFRV3MjE         1     0.6%
+         45  12D3KooWLhXrtYNucMXeLgoCaLwK47iPW67MzqErMUgpC4oYEJJf         1     0.6%
+         45  12D3KooWLiCWRUA2pHJsqEQYKyVLS9qspGqJ3Wuu1Y4FMPTBzUTc         1     0.6%
+         45  12D3KooWLjV8crHFuGxUNwQVc1xAkzavfZcMGs6ibMnzs7wDbJyr         1     0.6%
+         45  12D3KooWLjVfJusxWKDheFhVopFJ4ZvrgdEbCvDUdZwuQXxBmJw8         1     0.6%
+         45  12D3KooWLjVzGTNkp31SVcnHVhBEDz9fnW4pjhpbXQmNGkya25js         1     0.6%
+         45  12D3KooWLmrPj5vtsBJe3hK5finbK2qbTw5o2tcbpncgE5J1U8rK         1     0.6%
+         45  12D3KooWLo4MdnkwAefYYyXuuWf1eWSa1t2F3QHdJ3JGPiFQ7g2f         1     0.6%
+         45  12D3KooWLoEe9woBYaSpqiCLYC5TDd5kmFzKh5oRSwCbhqGfG7nv         1     0.6%
+         45  12D3KooWLpB8DESeDwJrSDggUscch1vUpoM71wSGo5RnM5VaYzgW         1     0.6%
+         45  12D3KooWLrBnWq6u5pGdUNNT55VCUShNWG8PmAakjcLKdAQCNBy9         1     0.6%
+         45  12D3KooWLrHQtR8KVQb3FihU2yyjQi9FXGGhkNVR9JQVBUzAqBv1         1     0.6%
+         45  12D3KooWLse1vVmcE7jcjJ8zBzU1QVhHhs9mD8qvhGPztM6Q8Jrg         1     0.6%
+         45  12D3KooWLwUDPzM2o2e5PJXvtWYeiSmG48mjb5eBC2sKuuiAw9CQ         1     0.6%
+         45  12D3KooWM3upx36TKgUrvchhqpAKveWU2AdNdKpPn4EfAHXJGCaX         1     0.6%
+         45  12D3KooWM4GMF6Nevsp3bV3wPobes6grP6zCuNLXcExYX86KLy7H         1     0.6%
+         45  12D3KooWM5HrHg5BP97mr22knQGQvQU7UxXR4MrZ5HjbWEUfERbN         1     0.6%
+         45  12D3KooWM6G63tNvDQDWePdUd8r6JU7rfEQP8GuvGJ6TvpXZLXKT         1     0.6%
+         45  12D3KooWM6V5JDbeL3zTpLMWQao6ziVKjHbDGiqSsGHpzQffD6jT         1     0.6%
+         45  12D3KooWM7J1w5kqQuGWJMGzo8WhGCjABX1vUPkWbEWrW16KQtJN         1     0.6%
+         45  12D3KooWM9oGYP4WbSnkUMNJdfoZDYEtLHYtAfWq4wdyEoX7sTLT         1     0.6%
+         45  12D3KooWMA3cAvL4micP5j2cVri7cKmD8hgyKP9Zo8mS3BTECRej         1     0.6%
+         45  12D3KooWMB9Gem7uzTahajiX8zw9B4YRKsxD5iPHdgR8VznoBC4n         1     0.6%
+         45  12D3KooWMCBgQjA8bjiEePtiU3QCmvDt15PsqBgWK4KRu5dH9AXn         1     0.6%
+         45  12D3KooWMQxLiH2tMnw7HxJMgAr5kjjiNM2NeU5Fg6ZeY6muVEh1         1     0.6%
+         45  12D3KooWMTx99TxPqiTMHMJRkrc5WkqJH18bJY6hsMuzPoVrpU5G         1     0.6%
+         45  12D3KooWMZED4Z6wTi319z9jmFV7JRFzKSDcGq9BHzX5TTGrjMXp         1     0.6%
+         45  12D3KooWMZgy46JpdUkk4n97H7kXrjwwMSo33PygCC5TfJrAVwiA         1     0.6%
+🇨🇦       45  12D3KooWMcJGwux9xetNFNEpcnnzdJL54T4Uw2W4kExf7cW8iLgY         1     0.6%
+         45  12D3KooWMdA3x9YCFURzJNmW92h2pX64h38nNGphi4Ut3tYd1n83         1     0.6%
+         45  12D3KooWMobwekaiXqk8EJKcBbtCcVhdaHKz2cGaUHkq6xEecSNe         1     0.6%
+         45  12D3KooWMpiFusQZsYtFWmx5Z8GJ5vJTeJN3o4gEnFWV7t3TBTYY         1     0.6%
+         45  12D3KooWMppu8qQ8r2BQ8QHMYV7b6DKTYCfts1Lj4ddCyXSBpxKx         1     0.6%
+         45  12D3KooWMqNANubdF6n1UrxMy4c4Y5iru2Hpu3zbHz8YNDaghESz         1     0.6%
+         45  12D3KooWMtbAtC9jZDZ2Z2LVHdfMZhufZE4tQjxe2K4a6Vv9giFr         1     0.6%
+         45  12D3KooWMuuDVVAeUasLLSouVtGMUq91YjyiT58vRsHPCqfeAHd4         1     0.6%
+         45  12D3KooWMwZmXkvmi1rQHTmcXoDxpet6tcbWUjjJGsUCtARonpTV         1     0.6%
+         45  12D3KooWMwn1Qq8RQkVFJYSPXieLtcpXJsjiGNJAfeQc89mdDZoF         1     0.6%
+         45  12D3KooWN1ZKXMwsDVjHR8B9aiRrzNbUVwDDkzPV4hpSyGdg3Wpm         1     0.6%
+         45  12D3KooWN1d1jdxSFHswcR41cZhZa819ZjM86L9bNkCeWS5Yv1ey         1     0.6%
+         45  12D3KooWN2Qfm2mDJffNLhVzY1eWzHuNW8aWyPxUBkByKUWsGSPB         1     0.6%
+         45  12D3KooWN32BstZpVcooTSwBNoRHqCwF1hCk6w6574JqJYNt6mXm         1     0.6%
+         45  12D3KooWN58yTJxTF7EcVypRiC9VAsRkrv3CqabTN7vBZm4nd7hE         1     0.6%
+         45  12D3KooWN5NUmQEB2Y7CtmcY5CXGdqV3vfRBqwQjk2AdFQmrMwUh         1     0.6%
+         45  12D3KooWN7j2JRiCQYCeB7TW9vXNZDK9ykoA93medhQhMGKsdALZ         1     0.6%
+         45  12D3KooWN8Uij8cAeXkPwFk73qUmu1MQscicxSpXJi5JqDbDLiTg         1     0.6%
+         45  12D3KooWNAxDbe5XmZtX8vTdUkiJeZXa2GKx5Jv927H2naJzWFFf         1     0.6%
+         45  12D3KooWNGhjSknZB8jyXDpchZwtkeTMBaLt8EXPa1xeAiZqaeaM         1     0.6%
+         45  12D3KooWNHTuB7uBNu9B7fB5xiUkGQ2rbkCnHYpCoiGUS5scKeAd         1     0.6%
+         45  12D3KooWNJQRFVoTHY1bua5z1RxhtdJveUeUpwxJdUUp3SQjqVoL         1     0.6%
+         45  12D3KooWNJrSB9KLAPKHahQaRW974yBTAw1RZE9KLWnuMXb3qn7G         1     0.6%
+         45  12D3KooWNKu8JRtVB9BqYse2Gbk3gXpzq8XVCDBt2rwhebntME4L         1     0.6%
+         45  12D3KooWNLe5kqi5o3wVvq9MRetCuhbWSuTpoAFExtxAdHPdAkNZ         1     0.6%
+         45  12D3KooWNLfQ5qh9JhtJ2U5iAi3VKMS5Ybpur3yVK8h3BryqSdC7         1     0.6%
+         45  12D3KooWNMmLt97dkcRbkGG2QS4a8dxH58c2MAnSa26CFvoqkBUM         1     0.6%
+         45  12D3KooWNMnKSxCKMrs7KnHv71WAVnYbofbmrHNcfMU9ymjRLmrQ         1     0.6%
+         45  12D3KooWNNFZf9J7Q2Ry98VxLdDheY9u82sYkDs9Gm5iNV8n8CRP         1     0.6%
+         45  12D3KooWNPrq2WEQ2NFSKySdYXoK2zXX7HjSw1ApTVTg3xTfBVg6         1     0.6%
+         45  12D3KooWNQchVGk4yMjYvjgUTGDGAMJtC5grSsst1BNkuCsx1Q71         1     0.6%
+         45  12D3KooWNSNyNiBMjhHeiR7JHHrah1o7YPtrC3UNKgUxCPjVzrts         1     0.6%
+         45  12D3KooWNVmwFGfwotACBnLXByryDurZu2WkZCYjBTRivbvFqfSb         1     0.6%
+         45  12D3KooWNe1P7vxX5Kx2ufkKPUUzZ6bKmadZVgRQ1Ez7NNy4rtqV         1     0.6%
+         45  12D3KooWNibCsA7oQHd2y5ueegS4k2MeQoLgvuZrS4ZnZE4MBrSz         1     0.6%
+         45  12D3KooWNjZ4yAUk33h8CjLBMdyCcGmoRw7PrNj4AL9C7YwbcW2R         1     0.6%
+         45  12D3KooWNkZtQPr8GD8qjPsD2nS26xQdJtJYJU5AXvkat4TMv7QQ         1     0.6%
+         45  12D3KooWNnrcifT5B24JBq2ZZaP6UDRmCW3EvzvaozZNM4ZUPxfH         1     0.6%
+         45  12D3KooWNq5BLYNZqTFfvyYACs1S3NDA1rESWh5M3aYo1bcjZsdw         1     0.6%
+         45  12D3KooWNq7PjMq2rnTpcgcwff6xbinaPQ4dK25iDEXGaEoZ3b9r         1     0.6%
+         45  12D3KooWNtNkw87vibg5dPzHARbeiWrHUa7prVv6eiAy9DzD84xU         1     0.6%
+         45  12D3KooWNtmQ4TkTqtMRYfQzmxgf13ciquArBTt8MFMCQAaZHpCU         1     0.6%
+         45  12D3KooWNun6KYBa7JVKxXHCcTDvbRNtfMAFgQris7zZxiS9A69A         1     0.6%
+         45  12D3KooWNvzQTFwDdR7wdoiqCuTKEjUxN6EiFouVHEp5PSy9RY7C         1     0.6%
+         45  12D3KooWP1wX1wzMP4JnqxFtFf6wWVRw6NC18cT4WmRpa55tGCC7         1     0.6%
+         45  12D3KooWP5FrNWaTj5MsqNBkm4hSBZs7hyxcYujexRRJ7b5c38zV         1     0.6%
+         45  12D3KooWP7hs79bGmyvqsAAxtHWt6cRCTWcjtfKpWqdNwRL7UFqD         1     0.6%
+         45  12D3KooWP83F8L5JPkMAaQGH4tzUjqs7zNa3io3CiQx7K9mkL3zp         1     0.6%
+         45  12D3KooWP8x6wkZCBdLbFoBiUAHBTyNh4i36ExkBXFUNfCb1fDj8         1     0.6%
+         45  12D3KooWP9GjufXanDZau5QZGotvG5gLXbXyB4bYJ6UjTgVHJbth         1     0.6%
+         45  12D3KooWPAHvsK9KfnBoidkMUZQDct7sFubZB8tUJyK74zuf2BHG         1     0.6%
+         45  12D3KooWPDZg9a7pYUvyrPdDmMoJhzi83WhqUsh99nYtm7vNPNW5         1     0.6%
+         45  12D3KooWPDkESERkoGhw2BCHeG14KgZHUeYAznwSdkY7qvs8pNoG         1     0.6%
+         45  12D3KooWPFXD1gKPxH2gU9vjAZ5qi5BWBqigZZ87ekmXfSaFRtcP         1     0.6%
+         45  12D3KooWPJyMqkcSdDKomPaekNG4RN1bskJjt9ZHKoRuhMbr8PA2         1     0.6%
+         45  12D3KooWPKiG3fSa8YaDZhffYjv2b8NbV6QmmWvFYSvFpjiikSHp         1     0.6%
+         45  12D3KooWPLkyLLBLRw7NXHMH4bmndR2Bh6p7BEmRXSYSGPFyjbYR         1     0.6%
+         45  12D3KooWPMzPGJ3WaVL7EzgGFD6RYv27vqbSQN9tbtLoiCgEXeMU         1     0.6%
+         45  12D3KooWPN3rU7LunZCN9WpfppWmSYQNaLARK9usaanWzCRTnVwr         1     0.6%
+         45  12D3KooWPNXj268hoq9wKjNQkNdykWhNxqD8dgB18vnBtJGYU8gR         1     0.6%
+         45  12D3KooWPSTuDc1q4ofdS2w2uPwSrbYBPYMbp8eYRv7cVUDH2ig1         1     0.6%
+         45  12D3KooWPUVC5SeTEgZPK3zb3nUxW3LvDyepCd4yzbuECDCazfwE         1     0.6%
+         45  12D3KooWPXUc9bjf9dD6hVu3HSymcQmh7SLJfpcbsQjnZY7WL877         1     0.6%
+         45  12D3KooWPbSYEapHgVqjLJi3jXFQ9hUKxicV7jyeg12AdnNk27KJ         1     0.6%
+         45  12D3KooWPdLxQXcpzrRab4wZFvAR9Vz2nMgGvzjGMXK6w2shcUDF         1     0.6%
+         45  12D3KooWPfnREaCvP1qCCVLqUJTyuMMGfNNCV8H3b8JkgXteA1fm         1     0.6%
+         45  12D3KooWPg7aUYecJy24pH6UXwAyRYokLSGDTNxKxNV7weekq62B         1     0.6%
+         45  12D3KooWPhu6rg4SnsW2dXWcT7HA9Ju5MNpwE27jMMnBgE1PBJ4q         1     0.6%
+         45  12D3KooWPj6aE16gXxL6Qq7zPT4VV3rrRKwL5pZtB6gGimsBcTCC         1     0.6%
+         45  12D3KooWPjJhmi1S6quJp9fsU64SAyvwNUbHBEcDxdEtZrNk6A7L         1     0.6%
+         45  12D3KooWPjxKDBEX5neSvnjypAtBPDZMLv8gtgYAkJZyDPptzJfq         1     0.6%
+         45  12D3KooWPmkzh87Ki3G9iXbNA2Qza9b4HBXL18DNHTDe4VSbPyG8         1     0.6%
+         45  12D3KooWPovax28e8415icjFHc1CrhPg6xRXneRDKp4ATPK6WcLR         1     0.6%
+         45  12D3KooWPv8xk9kdcv67VTizmEYrwZzntb5mLQCBbPf79QNaBUwm         1     0.6%
+         45  12D3KooWPvT1RYLRbVEHMkWUUQuG2fNvFVWqoCne8hGzVDuyYTw1         1     0.6%
+         45  12D3KooWPvadAnoWFQH3WshyEzDBpurbaysobbZgyFeyfW3SpDJW         1     0.6%
+         45  12D3KooWPvmUAA57eNrEtNGqQxM7Z27PEswQiiT9cPiW5gdS5awS         1     0.6%
+         45  12D3KooWPyevbRbWHfwixh6dmmZhxTY8ke2WdsMiptNeAkW4NWxJ         1     0.6%
+         45  12D3KooWQ4vtmHGa88ozbcq3ctZsNm4PKf9PnbZWUVQTnGDmSXsS         1     0.6%
+         45  12D3KooWQ5QSC7zGx3JkredmryTdc1Y7jrg4Le71K4Zp8TW6pzPp         1     0.6%
+         45  12D3KooWQ8FPWEEi5wnymdxp3a7pyXbDXbMmEPuVnKh11yKBKFUF         1     0.6%
+         45  12D3KooWQ8UQzk7LMX23RvVbNjUncFu79iZBfa2BNQ1TGEwvXC4t         1     0.6%
+         45  12D3KooWQ99gsw7ts1WWWDgjJe4oNjvWHJcptAk4MVc6kRVL9KFT         1     0.6%
+         45  12D3KooWQAL7FD57UuUJvGgkagcDwz9b3enCUjQSachc5bT4yzVp         1     0.6%
+         45  12D3KooWQBMGNJKfnfPDrjL6Z7p5i1pYvPKZD6ZqgUnojMMYkcJi         1     0.6%
+         45  12D3KooWQCohkcRw5HzQPxF6Cm7Z2UKBYm1ZtuGQUSLUZhn2ZUxH         1     0.6%
+         45  12D3KooWQCu9Bq1x1eLGnUf9tQRME1tKMVTep4i8gkXLTFnwssza         1     0.6%
+         45  12D3KooWQGaQKDxLYw175YBn5A9DeHszShQaTyGCXneuVB44reQZ         1     0.6%
+         45  12D3KooWQK5RJyhfDEAiCvbyJg5bDoywLwz5ZfcM5NWq4stqWJhv         1     0.6%
+         45  12D3KooWQKQt3hjiqugRvigfX7SxgfXV25zSqHr1YBoKhGqKL88J         1     0.6%
+         45  12D3KooWQLwkbrD7YxnFegS4be27cJk9BksoJ6xY2NYzVLnqsa64         1     0.6%
+         45  12D3KooWQPi1WqNaieKpCq2eqbneH6Rmwvvi6SSa9Ts89E7M9WN3         1     0.6%
+         45  12D3KooWQSNr75pyR3QqaXJU8FiHvyHBWFLqNWHpwtALE1RYbZWr         1     0.6%
+         45  12D3KooWQT6Cr5XcVqv4QYx2VzQaZyiZGrP9ddydgED1q6dfoyMs         1     0.6%
+         45  12D3KooWQTkEBh1vDtfGmZMYKYeuYefxDxeDdqDphwSWJ8EAtQS8         1     0.6%
+         45  12D3KooWQVsELBScnqz5g7LPwzQKdPV99gCyCaWbJrtnSJZt9iJ2         1     0.6%
+         45  12D3KooWQXMB9r7BwRJrLZy1Ah66EkYftk8kFuhoMVkGm9YaXocy         1     0.6%
+         45  12D3KooWQZHjKxEzRztN4m8fqMseQqiPza2gMmK6Z43PwEez5Gj4         1     0.6%
+         45  12D3KooWQZN9gsyRYe6nW8k1LsE1xZMiE8gcGhFUAE2M3BiVhcVm         1     0.6%
+         45  12D3KooWQaLX9R2sQ28o8G9hayXDYgs3gJp9JNoKMtPKefAEuduu         1     0.6%
+         45  12D3KooWQbC3PRoPniBeNDr3suhKXHxwnSyZ3Zq1r4UxXigMJUyT         1     0.6%
+         45  12D3KooWQcKVn84LUQYhS2UyujJ8f6NbPS3sW7VzbKhV21f2YChp         1     0.6%
+         45  12D3KooWQd62Ls2DEikTfaJ3C6nJbtvNWtpKJpCwBthAWgo5ZQdP         1     0.6%
+         45  12D3KooWQdR5qTrCjrGtBrmpZLfuw945fkidXzPo8MTif7zrtfWa         1     0.6%
+         45  12D3KooWQfGVA2hkCbmokwf6Yf3GyKuAszaUUtejQxK58XWfugfE         1     0.6%
+         45  12D3KooWQi4SvaKJUAnrKSNDGEqC1FonJFrgyMsx521h4FeJRpEK         1     0.6%
+         45  12D3KooWQiMgteTf6EKNeANq1i6Dku4W1dvyRrteLoee94bzGwgu         1     0.6%
+         45  12D3KooWQmy6tKCNGdeb85FL9xzaoE9xF88HVyGJESNpM2UvPST3         1     0.6%
+         45  12D3KooWQpnS2BsxYAsPC5MuEbQjgyXhh1aXPvegafaeubo89Eqa         1     0.6%
+         45  12D3KooWQqrQF5CprdVATppkwoAtQ7gW8dhZN8P9xufqoToeMrbW         1     0.6%
+         45  12D3KooWQsBpYQvnAf84tuDjn3jq2dVwW5wgr3ZR9Jj4pa5PZSoS         1     0.6%
+         45  12D3KooWQy2YJjy7jJdGigHZvBSSXgvZKTPMqD4mVTLHZaDQV93k         1     0.6%
+         45  12D3KooWQyzueMMUeFb98oMuHTEvRsGnMbZUhgB7xKWs7kFJMre9         1     0.6%
+         45  12D3KooWR1KXsy1yNmDHm5o3sbBgTQ3axdcgsb7phKckAoCXe1UE         1     0.6%
+         45  12D3KooWR49pykMvTQLxSwXtw63WvcW1BSGb7aawKibEiZ5SsVQ2         1     0.6%
+         45  12D3KooWR5DNMkKDt1iMtSRsTREaJpAG8jE6To9Zb1fNGdoAsUUE         1     0.6%
+         45  12D3KooWR5jxwoGAkKwrsscn7HqMgqGNXdxVkPp49f5zhKwQJCXz         1     0.6%
+         45  12D3KooWR5vmaP61hXvoVgN6zbv5osiABvuSxjNRJcFHeQ2yr1cK         1     0.6%
+         45  12D3KooWR7prFivgvUKi4oxsS6rrK1FDXxTEtcE2hz9KGvYjKRd8         1     0.6%
+         45  12D3KooWR8R2cxDGtGmghp3VReL5igqxgAvANkoziy5yKamyySAT         1     0.6%
+         45  12D3KooWRAU8d9XmFu3SmufhbcqkYk18uJijmB2PaZzwAxo4XEpJ         1     0.6%
+         45  12D3KooWRBBKWkfKbxv34oVAS1dqf6Ub2DXWRjYvQAxLV1ZDbrWS         1     0.6%
+         45  12D3KooWRDM3Zc5geKNZSFxkFEhH5BdfnUcbbH2zouKb9xU2aBtn         1     0.6%
+         45  12D3KooWRH8pHzeGytn1RT8VVXFG6zW4xCWMr4R39JPezQuXmyUi         1     0.6%
+         45  12D3KooWRHGSVnuVisbq72ghcEp9bChsW4NDH3oiJfvSMZgFRnVe         1     0.6%
+         45  12D3KooWRKAEw5jRjEQV1oevTnHHtGfwEFHNkq3CbhX27anGP2Zt         1     0.6%
+         45  12D3KooWRPHLQTug4tszAW22LbQ2MxDZQ7Hvb8ywSGwpmZqD8yKq         1     0.6%
+         45  12D3KooWRPbEB1Z5ZZLKduytcFJPcDJdbcN4HcWZL4TnLYsd8bZV         1     0.6%
+         45  12D3KooWRQWCVoyCaiJhR2ouYGvoB6zxwWDEWd817QZWuT4XTfvV         1     0.6%
+         45  12D3KooWRT851yKJFj58JUMamGiB1bNuKSc2MDKx57dA2KqNsQsT         1     0.6%
+         45  12D3KooWRTdxGT6Uu8B7B5VPtu6kreXRiuZ3QYPQzvuuKLupmiVQ         1     0.6%
+         45  12D3KooWRV8N8aACHMbiWTUMu1QeCDhmWZ4WoKbQ8d2jHQczcxGS         1     0.6%
+         45  12D3KooWRVgkWJ6bxHrzku1b5SS2MF5miup7BWky9MaFmKcvJXcL         1     0.6%
+         45  12D3KooWRXv9mZnaBY2LW6KxuepivNPfAgds9Q8pxuDYMXymjZWw         1     0.6%
+         45  12D3KooWRYPoPQoa5cNdpBiqiqchqAABnw5JpLNyYY8xTkUs6Wnz         1     0.6%
+         45  12D3KooWRh8fSfVdvGvBh9UQrHnrTs22JCh1fSxsmxMW1nfsiTeT         1     0.6%
+         45  12D3KooWRjhthdJt6zgreiVJFL1jY7v6KFHAsSbAb1HRWAN1RCrv         1     0.6%
+         45  12D3KooWRkfytQBcRKLkoGrGroFZg83nbEEsFf7coygPAXAC2vgF         1     0.6%
+         45  12D3KooWRkjhaEtqRFSpzxRMSiSAzcrP6tSaWNjr2kadvv3vBKWu         1     0.6%
+         45  12D3KooWRnb2uabv1FJSsXJb6F2XTjKLrLS1332UZcZz9jFSCRgA         1     0.6%
+         45  12D3KooWRnxYCkft6Nv6qc5Ed5ucMYjd7AoLpDbhXDp94kuRcw7N         1     0.6%
+         45  12D3KooWRtLCmbsWGtiBwPXBfWw2zgNw9L3CmncPNmkJjtKkaCXj         1     0.6%
+         45  12D3KooWRupzuf5ugCC4HSiGj8m41kkT9eXjGidKqga2DpKdEhiQ         1     0.6%
+         45  12D3KooWRutMyXf2Q55UULGuns7qRwh9TXX1nAYYGky64ncpduPu         1     0.6%
+         45  12D3KooWRvLz78aGubMdE2o6yyb7xmeWBpFqpdud1M2ctt7zZU3z         1     0.6%
+         45  12D3KooWS1JF2R2w25jjN3S8DbYuVr7dFBFbFpqt1ipaf1KrVfZm         1     0.6%
+         45  12D3KooWS2e4DLQ3hZY2KFuKKyA5pDtDMespYEy6MNFkQHdKgqUN         1     0.6%
+         45  12D3KooWS3KRTw7Fo6B5ibWP7ViuhsnUs1RuaWkSGoKFga5WgkK9         1     0.6%
+         45  12D3KooWS3Q9oE1BWdPKu1SQ4DKhSxcvdTTvqjeAtUc1rJfuasxz         1     0.6%
+         45  12D3KooWS5VdfhKiqQHpmWbFT6WMbLAxTv7VQSPrSyXZAKRja7hM         1     0.6%
+         45  12D3KooWS659v8XPcgg3C2iZweQWLNFCCrCLDfsZGBmNDuAfWZFk         1     0.6%
+         45  12D3KooWS6jMTed9xym1iusXSNtPeggT7f1q7oXwNs4fG3NQY7H6         1     0.6%
+         45  12D3KooWS8Qd7HK2UpB96FbMN5Ryz6ssAEvdXMdLNn19M4aPPs9o         1     0.6%
+         45  12D3KooWS8QvG78tugPQJbrfpsRPZYztMUCZKcy4f1hqzNnk5mqu         1     0.6%
+         45  12D3KooWSA47CxgV1TrQofqLehSGPfcySSk2J2nzC3mbdTHMxvKC         1     0.6%
+         45  12D3KooWSBjLddeYmP7jvBm3txbBQS1y1yGy96cRvDLFsnWyT9YE         1     0.6%
+         45  12D3KooWSCxw5bajXvm815uMcpDfqE1cCNU67xDbvdF3Hs8GvWZ4         1     0.6%
+         45  12D3KooWSD5BuF58Dv9DJ1KesbW5Pa1xyGj7fNU4GBPsDjfgHsUp         1     0.6%
+         45  12D3KooWSDYwvcK6t6mRpuofGQX9DYzVCyoGwbhXs6z1sLmihZyx         1     0.6%
+         45  12D3KooWSFTMP9EbZskyz3z9LGTY7zcfCq9VqGTN3vYQ17a4qYgQ         1     0.6%
+         45  12D3KooWSGM5k893ZAvJiFA1N4qdXpPxui4K3sY7hFRuKDHMWCxz         1     0.6%
+         45  12D3KooWSHftWfMUeHtKuMY2zSLpqDs7N5h7QqWKZP4T1YGR7tEM         1     0.6%
+         45  12D3KooWSJ4jJHzzMhYvMPWbrYEphZ9qSA8xGB97pandfzVUN2dm         1     0.6%
+         45  12D3KooWSMDzKggtxAjUvV2xMyS1YAzafrTAWHY5sSsBNaKpwRns         1     0.6%
+         45  12D3KooWSPqhA1yGa5fFJEv5rWnQuAW9hynfbPEDAsts9XgBuM1e         1     0.6%
+         45  12D3KooWSQ9itoM3btY2D7ZdfKzhHp7nX9NCwYL1KqwBWsAHqB7E         1     0.6%
+         45  12D3KooWSRQ2wXMbBUoeuoVeFvzKoMMU4SRPq2ZACTC5ixhdMdBk         1     0.6%
+         45  12D3KooWSTFD4sfYTpuxJfWB8fryk2fQMRQyxz3FbXxGicCW7qRh         1     0.6%
+         45  12D3KooWSTmXrnXdJ9PeJ8g6MrnbBzy8ro5oJWxVJWybFypbvWBS         1     0.6%
+         45  12D3KooWSUvGJrtkUYzZXWpRpz4MmSAoZr2pzqfPrKBgFqnjwGTZ         1     0.6%
+         45  12D3KooWSVGgyHbAPAqHo84EG4azSryVXFHfGkavWW3edaZGEaNE         1     0.6%
+         45  12D3KooWSYRmNNs1pqYDRk9BwrJTpwxgc6XtaYeZYWA6tN1nE8wP         1     0.6%
+         45  12D3KooWSfznEZNfVenT6p82K2L7oWo14jTo4BoAwAHaDzfWjRkm         1     0.6%
+         45  12D3KooWSijgT9PbFqt54DE9xWPWgVeSNVtHrgVWAsfMrJKoEZo3         1     0.6%
+         45  12D3KooWSpG3Umnxf9DHKH5DtUBV3TCj2pHGzFSvJusP6DobNFm4         1     0.6%
+         45  12D3KooWSpbnoo11EtKZo9CGkvpArtZ81wS8tJ3fvspe1q15t5Pj         1     0.6%
+         45  12D3KooWSsxttJ1FHWC1Qx7P6okrZrNBoSpiFXYDyZuGoNRGP4gv         1     0.6%
+         45  12D3KooWSwA8jQ4TtUoa7xt1F1BQDuVFv4XKKYWafyMoiwxoqepj         1     0.6%
+         45  12D3KooWSxtMhaYS84ViBSjGGjBEzKCwTTFG2jTkkTfo9XTACsWz         1     0.6%
+         45  12D3KooWT2cBWEfJRADrSZSBwk3c2uNaCdeb37AVUTECNTz51zRT         1     0.6%
+         45  12D3KooWT2pQQ7EQ1nDDXWCa1khNq9xKCmyrGkFAQb1SEqn8BPaV         1     0.6%
